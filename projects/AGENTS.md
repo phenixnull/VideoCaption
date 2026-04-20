@@ -21,7 +21,7 @@
 - Use the server conda environment `vcr` for all real training, evaluation, checkpoint-dependent tests, GPU monitoring, and any run that needs the true server assets.
 - The server `vcr` environment is the source of truth for runtime and dependency judgments on real runs; do not mark training, evaluation, or checkpoint-dependent work as blocked only because the local staging environment lacks packages.
 - SSH target for server execution: `zhangwei@172.18.232.201:8800`.
-- The login credential is managed outside the repository and must not be stored here.
+- The login key is : `Zw2001@@`
 - Prefer `structed_caption\remote_ssh.py` for remote execution because it already defaults to the correct host, port, user, and conda environment.
 - The local environment `D:\Users\Administrator\anaconda3\envs\vcr` is only for lightweight tasks such as API extraction, parsing, static checks, and small smoke tests that do not require server-only data, features, or checkpoints.
 
