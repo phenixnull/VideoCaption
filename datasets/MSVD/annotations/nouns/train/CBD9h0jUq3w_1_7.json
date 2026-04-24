@@ -1,0 +1,82 @@
+{
+  "video_objs": {
+    "man": [
+      "a man playing",
+      "a man is hit",
+      "another man wades",
+      "a man putting"
+    ],
+    "soccer": [
+      "are playing soccer",
+      "men are playing soccer",
+      "people are playing soccer",
+      "soccer players",
+      "people play soccer"
+    ],
+    "beach": [
+      "on the beach",
+      "at the beach",
+      "on a beach",
+      "in a beach",
+      "near beach"
+    ],
+    "group": [
+      "a group"
+    ],
+    "boys": [
+      "boys are playing",
+      "some boys playing",
+      "boys playing",
+      "some boys plays",
+      "boys playing foot"
+    ],
+    "men": [
+      "men are kicking",
+      "men are playing",
+      "men play",
+      "the men are playing",
+      "the men played",
+      "some men are playing"
+    ],
+    "football": [
+      "boys are playing football",
+      "peoples are playing football",
+      "people are playing football",
+      "a team is playing football"
+    ],
+    "beachside": [
+      "by the beachside"
+    ],
+    "seashore": [
+      "at the seashore"
+    ],
+    "ball": [
+      "men are kicking a ball",
+      "people kick a ball"
+    ],
+    "people": [
+      "people are playing",
+      "people kick",
+      "people were playing foot"
+    ],
+    "peoples": [
+      "peoples are playing"
+    ],
+    "person": [
+      "some person are playing"
+    ],
+    "kids": [
+      "kids playing",
+      "kids play"
+    ],
+    "player": [
+      "a player put"
+    ],
+    "guys": [
+      "some guys plating"
+    ],
+    "footbaii": [
+      "people playing footbaii"
+    ]
+  }
+}

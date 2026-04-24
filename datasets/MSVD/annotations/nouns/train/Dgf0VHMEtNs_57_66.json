@@ -1,0 +1,52 @@
+{
+  "video_objs": {
+    "people": [
+      "four people"
+    ],
+    "man": [
+      "a man"
+    ],
+    "surgeons": [
+      "surgeons are operating",
+      "surgeons operate",
+      "some surgeons are operating",
+      "surgeons are working",
+      "several surgeons are watching",
+      "the surgeons worked"
+    ],
+    "doctors": [
+      "doctors are doing",
+      "doctors are operating",
+      "the doctors worked",
+      "doctors are performing",
+      "some doctors are watching",
+      "four doctors operate",
+      "doctors are coming"
+    ],
+    "patient": [
+      "on the patient",
+      "on a patient",
+      "the operating team is prepping the patient"
+    ],
+    "operation": [
+      "doctors are doing an operation",
+      "having a operation",
+      "some doctor doing operation"
+    ],
+    "procedure": [
+      "watching a procedure"
+    ],
+    "nose": [
+      "patients nose"
+    ],
+    "table": [
+      "on the table"
+    ],
+    "person": [
+      "the person"
+    ],
+    "hospital": [
+      "join the hospital"
+    ]
+  }
+}

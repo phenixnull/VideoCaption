@@ -1,0 +1,65 @@
+{
+  "video_objs": {
+    "men": [
+      "two men sail",
+      "some men are parasailing",
+      "some men are sailing",
+      "the men leaned back",
+      "two men are riding",
+      "two men are sailing",
+      "two men are traveling",
+      "two men are wind sailing"
+    ],
+    "boat": [
+      "a boat"
+    ],
+    "man": [
+      "a man is parasailing",
+      "a man is windsurfing",
+      "a man is sailing",
+      "a man is riding",
+      "a man is boating"
+    ],
+    "boys": [
+      "two boys are sailing"
+    ],
+    "individuals": [
+      "two individuals sail"
+    ],
+    "water": [
+      "the water"
+    ],
+    "people": [
+      "two people are sailing",
+      "people are sailing",
+      "the people are sailing",
+      "two people sail"
+    ],
+    "couple": [
+      "the couple are sailing"
+    ],
+    "person": [
+      "person doing yatching",
+      "a person enjoying a ride"
+    ],
+    "ocean": [
+      "in the ocean"
+    ],
+    "lake": [
+      "in a lake"
+    ],
+    "surface": [
+      "on surface"
+    ],
+    "sails": [
+      "big sails"
+    ],
+    "sailboat": [
+      "a sailboat sailed",
+      "the sailboat"
+    ],
+    "yatch": [
+      "on a yatch"
+    ]
+  }
+}

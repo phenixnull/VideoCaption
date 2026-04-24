@@ -1,0 +1,47 @@
+{
+  "video_objs": {
+    "badger": [
+      "a badger and",
+      "a badger attacks",
+      "a badger is attacking",
+      "the badger attacked",
+      "the badger fought",
+      "badger and",
+      "the badger chased"
+    ],
+    "fox": [
+      "and a fox",
+      "a fox and",
+      "a red fox is walking up some",
+      "attacked the fox",
+      "with a fox",
+      "fox fighting",
+      "a fox is searching"
+    ],
+    "patio": [
+      "patio"
+    ],
+    "stairs": [
+      "some stairs"
+    ],
+    "animals": [
+      "the two animals fought",
+      "two animals are fighting",
+      "two animals fight",
+      "animals are fighting"
+    ],
+    "bowl": [
+      "the bowl"
+    ],
+    "dogs": [
+      "two dogs are fighting each other"
+    ],
+    "dog": [
+      "a small dog are fighting",
+      "an animal attacks a dog"
+    ],
+    "mongoose": [
+      "a mongoose and a small"
+    ]
+  }
+}

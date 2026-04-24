@@ -1,0 +1,62 @@
+{
+  "video_objs": {
+    "girl": [
+      "a little girl gets dragged",
+      "a young girl down",
+      "a girl down",
+      "a girl",
+      "a girl is being dragged",
+      "a girl is dragged",
+      "the little girl down",
+      "a girl being dragged"
+    ],
+    "dog": [
+      "a dog dragging",
+      "a dog drags",
+      "a dog is dragging",
+      "a dog is pulling",
+      "the dog pulled",
+      "a dog pulls",
+      "a distracted dog drags",
+      "a leashed dog pulls"
+    ],
+    "woman": [
+      "a woman down",
+      "a woman walking"
+    ],
+    "child": [
+      "a child",
+      "dragging a child",
+      "pulling a child",
+      "pulls a child"
+    ],
+    "leash": [
+      "on a leash"
+    ],
+    "monkey": [
+      "a monkey is inside"
+    ],
+    "cage": [
+      "inside the cage"
+    ],
+    "lady": [
+      "with a lady"
+    ],
+    "kid": [
+      "pulling a kid"
+    ],
+    "owner": [
+      "its owner down"
+    ],
+    "master": [
+      "his master while climbing"
+    ],
+    "mountain": [
+      "climbing up a mountain"
+    ],
+    "slope": [
+      "down a slope",
+      "on a slope"
+    ]
+  }
+}

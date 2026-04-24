@@ -1,0 +1,70 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman prepares her",
+      "a woman is making",
+      "a woman is pouring",
+      "a woman pours black",
+      "a woman pours",
+      "a woman is preparing"
+    ],
+    "cup": [
+      "her cup",
+      "a cup"
+    ],
+    "coffee": [
+      "is pouring coffee",
+      "is making coffee",
+      "pours black coffee",
+      "coffee is prepared",
+      "is preparing a coffee",
+      "put coffee",
+      "is pouring coffee and dropping"
+    ],
+    "girl": [
+      "a girl fills",
+      "a girl is pouring",
+      "the girl is doing all her work",
+      "a girl is makeup herself",
+      "a girl is standing before",
+      "a girl is making",
+      "a girl poured"
+    ],
+    "mug": [
+      "fills a mug",
+      "into a mug",
+      "a blue mug",
+      "in a mug"
+    ],
+    "sugar": [
+      "and adding sugar",
+      "adds sugar",
+      "and dropping sugar",
+      "added two sugar",
+      "and added sugar"
+    ],
+    "person": [
+      "a person is pouring",
+      "the person is pouring"
+    ],
+    "pot": [
+      "from a pot"
+    ],
+    "man": [
+      "a man is preparing",
+      "a man put",
+      "a man is pouring coffe",
+      "a man making tea"
+    ],
+    "lady": [
+      "a lady pours herself",
+      "a lady is making"
+    ],
+    "house": [
+      "kaia s house"
+    ],
+    "mirror": [
+      "before a mirror"
+    ]
+  }
+}

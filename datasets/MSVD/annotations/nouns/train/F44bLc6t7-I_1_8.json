@@ -1,0 +1,75 @@
+{
+  "video_objs": {
+    "chef": [
+      "a chef is serving"
+    ],
+    "food": [
+      "serving food",
+      "serves food"
+    ],
+    "kids": [
+      "serving kids",
+      "to some kids",
+      "serves four kids",
+      "to the kids",
+      "served the kids",
+      "the kids are eating",
+      "four kids are eating",
+      "serving four kids"
+    ],
+    "booth": [
+      "at a booth"
+    ],
+    "man": [
+      "a man is serving",
+      "a man serves a bunch",
+      "a man serves",
+      "a man wearing",
+      "a man is serving some"
+    ],
+    "table": [
+      "a table",
+      "a table where four",
+      "at the table"
+    ],
+    "children": [
+      "four children are eating",
+      "the children are ready"
+    ],
+    "plates": [
+      "serving plates"
+    ],
+    "group": [
+      "a group"
+    ],
+    "waiter": [
+      "a waiter serves four",
+      "the waiter served"
+    ],
+    "restuarant": [
+      "at a restuarant"
+    ],
+    "restaurant": [
+      "at a restaurant"
+    ],
+    "people": [
+      "people are eating",
+      "all people are eating"
+    ],
+    "snacks": [
+      "served snacks"
+    ],
+    "clip": [
+      "a short clip about"
+    ],
+    "video": [
+      "a video"
+    ],
+    "barth": [
+      "barth"
+    ],
+    "smoke": [
+      "smoke emerges"
+    ]
+  }
+}

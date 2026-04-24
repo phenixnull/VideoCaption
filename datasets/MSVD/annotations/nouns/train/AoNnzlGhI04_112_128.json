@@ -1,0 +1,53 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman",
+      "a woman is laying",
+      "a woman is watching",
+      "a woman is changing",
+      "a woman sitting",
+      "a woman is using",
+      "a woman lies",
+      "a woman turns"
+    ],
+    "bed": [
+      "her bed",
+      "bed"
+    ],
+    "tv": [
+      "watching tv",
+      "flipping through tv"
+    ],
+    "television": [
+      "watching a television",
+      "on a television",
+      "watching television"
+    ],
+    "girl": [
+      "a girl is watching",
+      "a girl is laying",
+      "the girl switched",
+      "the girl flipped through",
+      "the girl is watching"
+    ],
+    "lady": [
+      "a lady watching",
+      "a lady is watching",
+      "the lady used the remote"
+    ],
+    "channels": [
+      "changing channels",
+      "switched channels",
+      "checking channels"
+    ],
+    "stations": [
+      "flipped through the stations"
+    ],
+    "film": [
+      "watching a film"
+    ],
+    "movie": [
+      "watching movie"
+    ]
+  }
+}

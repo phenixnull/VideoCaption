@@ -1,0 +1,64 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman places",
+      "a woman is cooking",
+      "a woman is baking",
+      "a woman is frying",
+      "a woman cooks a piece",
+      "a woman is frying some"
+    ],
+    "skillet": [
+      "in a skillet"
+    ],
+    "person": [
+      "a person is cooking",
+      "the person is preparing"
+    ],
+    "meat": [
+      "is cooking meat",
+      "puts some meat",
+      "cooked the meat"
+    ],
+    "fish": [
+      "is cooking fish",
+      "baking a fish",
+      "is frying fish",
+      "steamed the fish",
+      "is making fish"
+    ],
+    "pan": [
+      "in the pan",
+      "in a pan",
+      "a covered pan"
+    ],
+    "pot": [
+      "in a pot"
+    ],
+    "salmon": [
+      "frying some salmon",
+      "is cooking salmon"
+    ],
+    "lady": [
+      "the lady steamed",
+      "the lady cooked"
+    ],
+    "dog": [
+      "with his dog"
+    ],
+    "curry": [
+      "preparing the curry"
+    ],
+    "man": [
+      "a man is mixing",
+      "the man is cooking"
+    ],
+    "rice": [
+      "is mixing rice"
+    ],
+    "women": [
+      "a women is making",
+      "the women is cooking the firsh"
+    ]
+  }
+}

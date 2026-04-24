@@ -1,0 +1,27 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is talking",
+      "a man is speaking",
+      "a man talks",
+      "the man talked",
+      "the man is very happy"
+    ],
+    "person": [
+      "a person taking",
+      "the person is talking"
+    ],
+    "boys": [
+      "three boys is talk"
+    ],
+    "mobile": [
+      "in his mobile"
+    ],
+    "shirt": [
+      "a white shirt"
+    ],
+    "tie": [
+      "a brown tie"
+    ]
+  }
+}

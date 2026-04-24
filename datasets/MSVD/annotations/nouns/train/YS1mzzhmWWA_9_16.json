@@ -1,0 +1,68 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is peeling",
+      "a man peels",
+      "a man shredding",
+      "a man is slicing"
+    ],
+    "carrot": [
+      "a carrot is being skinned",
+      "a carrot is peeled",
+      "a carrot is been shaved"
+    ],
+    "person": [
+      "a person is peeling",
+      "a person is removing",
+      "a person slices"
+    ],
+    "chef": [
+      "a chef shaving",
+      "the chef is peeling",
+      "the chef peeled",
+      "a chef demonstrates shedding",
+      "a chef",
+      "a chef is slicing",
+      "a chef peels"
+    ],
+    "lady": [
+      "the lady peeled"
+    ],
+    "peeler": [
+      "a peeler"
+    ],
+    "kitchen": [
+      "in the kitchen"
+    ],
+    "guy": [
+      "a guy is slicing",
+      "a guy is pealing"
+    ],
+    "men": [
+      "a men is making slice"
+    ],
+    "carrots": [
+      "the carrots are sliced",
+      "woman slicing carrots"
+    ],
+    "skin": [
+      "the skin"
+    ],
+    "clip": [
+      "a short clip",
+      "a unique clip about how"
+    ],
+    "knife": [
+      "a sharp knife"
+    ],
+    "slicer": [
+      "the slicer"
+    ],
+    "woman": [
+      "woman slicing"
+    ],
+    "vegetable": [
+      "cutting a vegetable"
+    ]
+  }
+}

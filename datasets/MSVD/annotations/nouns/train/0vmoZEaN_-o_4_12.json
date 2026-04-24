@@ -1,0 +1,44 @@
+{
+  "video_objs": {
+    "kitten": [
+      "a kitten plays",
+      "a brown and white colored kitten lying",
+      "a kitten is playing",
+      "a small kitten trying",
+      "a kitten is fighting",
+      "a kitten is rolling around",
+      "a kitten playing",
+      "a kitten wrapped around"
+    ],
+    "watermelon": [
+      "a watermelon",
+      "a whole watermelon",
+      "an enormous watermelon"
+    ],
+    "cat": [
+      "a cat is attacking",
+      "a cat is playing",
+      "a cat is trying",
+      "the cat is playing",
+      "the cat played",
+      "the cat tried",
+      "a young cat attacks",
+      "a cat plays"
+    ],
+    "floor": [
+      "the floor"
+    ],
+    "kitty": [
+      "a kitty trying"
+    ],
+    "paws": [
+      "his paws"
+    ],
+    "nails": [
+      "his nails"
+    ],
+    "teeths": [
+      "his teeths"
+    ]
+  }
+}

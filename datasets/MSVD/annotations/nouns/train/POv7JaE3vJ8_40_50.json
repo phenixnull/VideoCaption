@@ -1,0 +1,32 @@
+{
+  "video_objs": {
+    "man": [
+      "a man",
+      "a man is playing",
+      "a man is playing some",
+      "a man is make believe playing",
+      "a man moves his"
+    ],
+    "harp": [
+      "a harp",
+      "playing a harp",
+      "the harp"
+    ],
+    "person": [
+      "a person is playing",
+      "the person"
+    ],
+    "hat": [
+      "a hat"
+    ],
+    "instrument": [
+      "an instrument"
+    ],
+    "hands": [
+      "his hands"
+    ],
+    "woman": [
+      "a woman"
+    ]
+  }
+}

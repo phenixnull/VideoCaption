@@ -1,0 +1,67 @@
+{
+  "video_objs": {
+    "person": [
+      "a person chops",
+      "a person is slicing",
+      "a person carefully cuts and dices a small",
+      "a person is chopping",
+      "a person is chopping something"
+    ],
+    "garlic": [
+      "slicing a garlic",
+      "slices a garlic",
+      "is slicing garlic",
+      "chopping up garlic",
+      "is chopping garlic",
+      "chopping a garlic"
+    ],
+    "pieces": [
+      "to small pieces"
+    ],
+    "chef": [
+      "a chef slices"
+    ],
+    "woman": [
+      "a woman is slicing",
+      "a woman is chopping up",
+      "a woman is cutting",
+      "a woman is chopping"
+    ],
+    "food": [
+      "is slicing food",
+      "food is cut"
+    ],
+    "knife": [
+      "with a knife",
+      "of his knife"
+    ],
+    "onion": [
+      "a small onion",
+      "cutting an onion"
+    ],
+    "clove": [
+      "sliced the clove",
+      "someone dices a clove"
+    ],
+    "man": [
+      "a man copping a garlick",
+      "a man is cutting",
+      "a man is cutting a some",
+      "a man cutting",
+      "a man demonstrates proper"
+    ],
+    "vegetable": [
+      "cutting the vegetable",
+      "cutting a vegetable",
+      "a some vegetable"
+    ],
+    "lady": [
+      "the lady chopped up",
+      "the lady sliced"
+    ],
+    "omurice": [
+      "for making omurice",
+      "making omurice"
+    ]
+  }
+}

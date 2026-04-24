@@ -1,0 +1,41 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is playing",
+      "a man is spinning",
+      "a man slides",
+      "the man played",
+      "the man is playing",
+      "a man abuse",
+      "a man is catching",
+      "a man plays"
+    ],
+    "puppy": [
+      "a puppy",
+      "spinning a puppy",
+      "rotating a puppy",
+      "catching the puppy",
+      "with a puppy",
+      "the puppy"
+    ],
+    "floor": [
+      "on the floor"
+    ],
+    "dog": [
+      "a dog is spun",
+      "with a dog",
+      "slides a dog",
+      "spinning a dog",
+      "a dog is playing",
+      "with his dog",
+      "with the dog",
+      "a dog spins"
+    ],
+    "ground": [
+      "on the ground"
+    ],
+    "person": [
+      "a person is playing"
+    ]
+  }
+}

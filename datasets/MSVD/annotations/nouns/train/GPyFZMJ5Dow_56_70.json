@@ -1,0 +1,79 @@
+{
+  "video_objs": {
+    "man": [
+      "a man prepares",
+      "a man is hand mixing",
+      "a man is kneading",
+      "a man is mixing",
+      "a man is mixing seasoning",
+      "a man is preparing"
+    ],
+    "meat": [
+      "kneading a meat",
+      "is mixing meat",
+      "mixing the meat",
+      "meat is being mixed",
+      "mixing ground meat",
+      "is preparing meat"
+    ],
+    "bowl": [
+      "in a bowl"
+    ],
+    "hands": [
+      "with his hands",
+      "with their hands"
+    ],
+    "chicken": [
+      "is preparing chicken"
+    ],
+    "fingers": [
+      "using his fingers"
+    ],
+    "chef": [
+      "the chef is making",
+      "a chef is kneading"
+    ],
+    "food": [
+      "prepare the food",
+      "preparing the food"
+    ],
+    "bacon": [
+      "is making bacon"
+    ],
+    "mixture": [
+      "is making mixture"
+    ],
+    "receipe": [
+      "making some receipe"
+    ],
+    "seasonings": [
+      "is mixing seasonings"
+    ],
+    "stuffs": [
+      "mixing some stuffs"
+    ],
+    "spices": [
+      "is mixing spices"
+    ],
+    "kitchen": [
+      "in the kitchen"
+    ],
+    "pot": [
+      "in a pot"
+    ],
+    "person": [
+      "a person is mixing",
+      "the person is showing how"
+    ],
+    "stove": [
+      "in the stove"
+    ],
+    "burger": [
+      "make the burger",
+      "to make burger"
+    ],
+    "flour": [
+      "is preparing flour"
+    ]
+  }
+}

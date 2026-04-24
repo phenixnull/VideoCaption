@@ -1,0 +1,35 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is carrying another man",
+      "a man is carrying a man",
+      "a man is carrying someone",
+      "a man carries",
+      "frankenstein is carrying a man"
+    ],
+    "body": [
+      "carries a body",
+      "carrying a body",
+      "take a body"
+    ],
+    "table": [
+      "towards a table",
+      "to the table"
+    ],
+    "pedastal": [
+      "to a pedastal"
+    ],
+    "person": [
+      "carrying another person",
+      "a person is charring the another person"
+    ],
+    "altar": [
+      "onto an altar"
+    ],
+    "shoulder": [
+      "over his shoulder",
+      "on his shoulder",
+      "his left shoulder"
+    ]
+  }
+}

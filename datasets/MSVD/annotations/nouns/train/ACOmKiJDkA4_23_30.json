@@ -1,0 +1,103 @@
+{
+  "video_objs": {
+    "man": [
+      "a man preparing",
+      "a man dumping cooked",
+      "a man is demonstrating how",
+      "the man spread the cooked"
+    ],
+    "woman": [
+      "a woman filling",
+      "a woman cooking",
+      "a woman is cooking white",
+      "a woman is made",
+      "a woman is pouring",
+      "a woman is preparing",
+      "a woman is putting",
+      "a woman is separated",
+      "a woman is spreading",
+      "a woman placing cooked white",
+      "a woman pours cooked",
+      "a woman is making variety",
+      "a woman transferred the newly cooked"
+    ],
+    "pan": [
+      "filling a pan",
+      "in a pan",
+      "a cooking pan",
+      "into a pan",
+      "a frying pan",
+      "to a pan",
+      "into the pan",
+      "on the pan"
+    ],
+    "rice": [
+      "cooked white rice",
+      "poring the rice",
+      "rice being poured and spread",
+      "the rice is being spread",
+      "cooking white rice",
+      "is made rice",
+      "is pouring rice",
+      "is preparing rice",
+      "is putting rice",
+      "spreading a rice",
+      "pours cooked rice",
+      "a women is placing precooked rice",
+      "a women is transferring some rice",
+      "cooked rice being poured",
+      "cooked rice is spread",
+      "hot cooked rice is taken out",
+      "pouring rice",
+      "rice is poured",
+      "rice is seperated",
+      "rice is transferred",
+      "someone give rice",
+      "the cook is frying up rice",
+      "the cook is placing the rice",
+      "the cooked rice is spread",
+      "the cooked rice",
+      "newly cooked rice",
+      "of steamed rice"
+    ],
+    "uttensil": [
+      "into other uttensil"
+    ],
+    "chef": [
+      "a chef is making some japanese"
+    ],
+    "lady": [
+      "a lady is spreading"
+    ],
+    "skillet": [
+      "into a skillet",
+      "in a skillet"
+    ],
+    "plate": [
+      "on a plate",
+      "in a plate"
+    ],
+    "person": [
+      "a person dumps",
+      "a person is taking out boiled",
+      "a person is preparing"
+    ],
+    "pot": [
+      "dumps a pot",
+      "from a pot",
+      "someone is pouring a pot"
+    ],
+    "container": [
+      "from a container"
+    ],
+    "bowl": [
+      "in a bowl"
+    ],
+    "instructions": [
+      "instructions"
+    ],
+    "utensil": [
+      "from one utensil"
+    ]
+  }
+}

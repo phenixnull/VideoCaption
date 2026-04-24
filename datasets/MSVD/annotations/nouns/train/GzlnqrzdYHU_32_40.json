@@ -1,0 +1,30 @@
+{
+  "video_objs": {
+    "man": [
+      "a man and",
+      "a young man and a young",
+      "the man and"
+    ],
+    "stage": [
+      "on stage",
+      "on the stage"
+    ],
+    "people": [
+      "two people",
+      "people"
+    ],
+    "boy": [
+      "a boy and",
+      "the boy and"
+    ],
+    "girl": [
+      "and a girl"
+    ],
+    "teenagers": [
+      "the teenagers"
+    ],
+    "kids": [
+      "the kids"
+    ]
+  }
+}

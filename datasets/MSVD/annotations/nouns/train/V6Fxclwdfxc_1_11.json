@@ -1,0 +1,74 @@
+{
+  "video_objs": {
+    "bird": [
+      "a bird plays dead",
+      "a bird is lying upside down",
+      "a bird is playing dead",
+      "a bird is pretending",
+      "a bird lays",
+      "bird play"
+    ],
+    "periot": [
+      "a dead periot"
+    ],
+    "parrot": [
+      "a parrot is acting like a dead",
+      "a parrot lies",
+      "cute parrot",
+      "a parrot is lying",
+      "a parrot is playing dead",
+      "a parrot is doing an acting",
+      "a parrot lies down",
+      "a parrot lying",
+      "a parrot pretends",
+      "a parrot which is lying",
+      "a parrot is laying",
+      "parrot playing",
+      "the parrot which appears",
+      "a parrot"
+    ],
+    "body": [
+      "a dead body"
+    ],
+    "floor": [
+      "on the floor"
+    ],
+    "carpet": [
+      "a carpet"
+    ],
+    "back": [
+      "his back",
+      "on its back"
+    ],
+    "ground": [
+      "on the ground"
+    ],
+    "feet": [
+      "its feet"
+    ],
+    "parakeet": [
+      "a parakeet playing dead"
+    ],
+    "man": [
+      "a man s"
+    ],
+    "finger": [
+      "a finger"
+    ],
+    "peacock": [
+      "a peacock is acting like as dead"
+    ],
+    "mat": [
+      "the mat"
+    ],
+    "words": [
+      "the words getup"
+    ],
+    "master": [
+      "its master"
+    ],
+    "legs": [
+      "it s legs"
+    ]
+  }
+}

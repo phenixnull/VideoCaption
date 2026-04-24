@@ -1,0 +1,51 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman is slicing a large cooked",
+      "a woman",
+      "a woman is slicing",
+      "a woman is cutting up",
+      "a woman is cutting",
+      "a woman witha",
+      "a woman cuts",
+      "a woman is chopping",
+      "the woman is cutting",
+      "the woman is slicing"
+    ],
+    "carrot": [
+      "large cooked carrot",
+      "slicing a carrot",
+      "up a carrot",
+      "cutting a carrot",
+      "is slicing carrot",
+      "cuts a carrot",
+      "chopping a carrot",
+      "cutting the carrot",
+      "sliced the carrot"
+    ],
+    "knife": [
+      "with a knife"
+    ],
+    "women": [
+      "the women is doing the cooking",
+      "a women is cutting"
+    ],
+    "lady": [
+      "a lady is cutting",
+      "a lady is cooking",
+      "the lady sliced"
+    ],
+    "chef": [
+      "a chef is making"
+    ],
+    "slices": [
+      "is making slices"
+    ],
+    "man": [
+      "a man cooking his"
+    ],
+    "kichen": [
+      "cooking his kichen"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "video_objs": {
+    "man": [
+      "a man cuts a long round green",
+      "a man cuts",
+      "a man is slicing some",
+      "a man is seeding",
+      "a man hollows out the inside",
+      "a man is slicing",
+      "a man is cutting up"
+    ],
+    "vegetable": [
+      "round green vegetable",
+      "slicing a vegetable",
+      "cut the vegetable"
+    ],
+    "person": [
+      "a person is slicing",
+      "a person is cutting a central",
+      "a person is cooking"
+    ],
+    "cucumber": [
+      "slicing a cucumber",
+      "cuts a cucumber",
+      "up a cucumber",
+      "cutting a cucumber"
+    ],
+    "middle": [
+      "out the middle"
+    ],
+    "seeds": [
+      "out the seeds",
+      "removing the seeds"
+    ],
+    "pickle": [
+      "cut the pickle"
+    ],
+    "insides": [
+      "scooping the insides",
+      "scooping hte insides"
+    ],
+    "squash": [
+      "cut the squash"
+    ],
+    "items": [
+      "there is a cutting the items"
+    ],
+    "knife": [
+      "taking the knife"
+    ],
+    "women": [
+      "a women cutting"
+    ],
+    "ceera": [
+      "cutting the ceera"
+    ],
+    "kichen": [
+      "cooking his kichen"
+    ]
+  }
+}

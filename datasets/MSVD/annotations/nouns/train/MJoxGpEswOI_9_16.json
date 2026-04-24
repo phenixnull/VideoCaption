@@ -1,0 +1,75 @@
+{
+  "video_objs": {
+    "ground": [
+      "on the ground"
+    ],
+    "floor": [
+      "on the floor",
+      "from the floor"
+    ],
+    "court": [
+      "on the court"
+    ],
+    "match": [
+      "during a match",
+      "playing a match"
+    ],
+    "man": [
+      "a man is scoring",
+      "a man is throwing",
+      "a man shoots a great",
+      "a man is shooting",
+      "a man makes",
+      "a man playing",
+      "a man shoots"
+    ],
+    "hoop": [
+      "into the hoop"
+    ],
+    "shot": [
+      "makes a shot",
+      "shoots a great shot",
+      "makes a trick shot"
+    ],
+    "player": [
+      "a player is making",
+      "a player scores",
+      "basketball player makes good shot",
+      "basket ball player makes a shot"
+    ],
+    "boys": [
+      "boys are playing",
+      "some boys were playing"
+    ],
+    "men": [
+      "men are playing",
+      "the men are playing"
+    ],
+    "sportsmen": [
+      "some sportsmen are playing"
+    ],
+    "ball": [
+      "took the ball down"
+    ],
+    "team": [
+      "a team playing",
+      "two team are playing"
+    ],
+    "players": [
+      "the players are plying",
+      "some players are playing"
+    ],
+    "onlookers": [
+      "with onlookers"
+    ],
+    "group": [
+      "a group is playing",
+      "a group"
+    ],
+    "basket": [
+      "shoots a basket",
+      "scores a basket",
+      "makes a basket"
+    ]
+  }
+}

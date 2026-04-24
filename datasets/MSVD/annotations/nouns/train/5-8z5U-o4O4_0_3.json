@@ -1,0 +1,57 @@
+{
+  "video_objs": {
+    "horses": [
+      "horses are racing",
+      "the horses",
+      "horses are racing down",
+      "horses thunder down",
+      "horses jostle",
+      "many horses run",
+      "horses raced"
+    ],
+    "race": [
+      "in the race"
+    ],
+    "track": [
+      "running down the track",
+      "on the track",
+      "down the track"
+    ],
+    "rider": [
+      "the rider falls off"
+    ],
+    "horserider": [
+      "a horserider are riding"
+    ],
+    "group": [
+      "a large group",
+      "a group",
+      "the group"
+    ],
+    "people": [
+      "people are",
+      "all people are riding"
+    ],
+    "racetrack": [
+      "horses thunder down a racetrack"
+    ],
+    "men": [
+      "some men are riding",
+      "the men are riding",
+      "men are racing"
+    ],
+    "man": [
+      "a man crashes",
+      "a man crashes during"
+    ],
+    "horse": [
+      "a horse"
+    ],
+    "jockey": [
+      "a jockey fall off"
+    ],
+    "road": [
+      "on the road"
+    ]
+  }
+}

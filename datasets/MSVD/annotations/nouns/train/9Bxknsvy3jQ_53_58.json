@@ -1,0 +1,55 @@
+{
+  "video_objs": {
+    "man": [
+      "a young man skateboards",
+      "a man is skateboarding",
+      "a man does a flip",
+      "a man showing stunts",
+      "a man is flipping",
+      "a man is riding",
+      "a man riding is doing tricks"
+    ],
+    "step": [
+      "a step"
+    ],
+    "boy": [
+      "a boy driving",
+      "a boy did a flip",
+      "the boy did a flip",
+      "the boy did a jump",
+      "a boy is doing some acrobatics",
+      "a boy is doing stunts",
+      "a boy doing some sort"
+    ],
+    "scooter": [
+      "driving a scooter",
+      "with a scooter",
+      "riding a scooter",
+      "on a scooter"
+    ],
+    "person": [
+      "a person riding",
+      "a person is walking",
+      "a person is jumping"
+    ],
+    "kid": [
+      "a kid performs a fancy jump"
+    ],
+    "skateboard": [
+      "someone is doing a skateboard stunt"
+    ],
+    "road": [
+      "on the road"
+    ],
+    "board": [
+      "with the board"
+    ],
+    "cycle": [
+      "with his cycle"
+    ],
+    "footage": [
+      "this is d s c footage",
+      "footage"
+    ]
+  }
+}

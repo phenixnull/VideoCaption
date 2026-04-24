@@ -1,0 +1,66 @@
+{
+  "video_objs": {
+    "man": [
+      "a man rides",
+      "a man is firing",
+      "a man is riding",
+      "a man riding",
+      "a man shoots",
+      "the man",
+      "the man shot",
+      "the man is riding",
+      "a man is",
+      "man shooting",
+      "a man is shooting",
+      "a man",
+      "a man is shooting while riding"
+    ],
+    "horse": [
+      "rides a horse",
+      "riding his horse",
+      "riding a horse",
+      "on the horse",
+      "riding the horse",
+      "on a horse"
+    ],
+    "cones": [
+      "cones",
+      "orange cones"
+    ],
+    "cowboy": [
+      "a cowboy is riding",
+      "a cowboy shooting",
+      "a cowboy riding"
+    ],
+    "course": [
+      "through a course",
+      "around a course"
+    ],
+    "bullets": [
+      "is firing bullets"
+    ],
+    "gun": [
+      "firing his gun",
+      "shooting a gun",
+      "shooting his gun",
+      "shoots a gun",
+      "shot his gun"
+    ],
+    "pistol": [
+      "shooting a pistol",
+      "with a pistol"
+    ],
+    "ground": [
+      "in the ground"
+    ],
+    "guy": [
+      "a guy is riding"
+    ],
+    "boy": [
+      "a boy is riding"
+    ],
+    "rider": [
+      "a rider competes"
+    ]
+  }
+}

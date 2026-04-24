@@ -1,0 +1,42 @@
+{
+  "video_objs": {
+    "man": [
+      "a man appears",
+      "a man is working",
+      "a man is fitting",
+      "a man is getting hit",
+      "a man is using",
+      "a man working",
+      "a man is attacked"
+    ],
+    "hammer": [
+      "a hammer floats",
+      "a hammer levitates",
+      "a hammer that is laying",
+      "a hammer flies",
+      "a hammer hits",
+      "a hammer moved",
+      "a hammer flies up",
+      "a hammer is hammering"
+    ],
+    "machine": [
+      "a machine"
+    ],
+    "wrench": [
+      "a wrench"
+    ],
+    "plant": [
+      "a plant"
+    ],
+    "floor": [
+      "the floor"
+    ],
+    "worker": [
+      "a worker"
+    ],
+    "person": [
+      "a person",
+      "the person"
+    ]
+  }
+}

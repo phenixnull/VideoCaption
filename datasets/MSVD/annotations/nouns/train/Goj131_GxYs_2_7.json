@@ -1,0 +1,39 @@
+{
+  "video_objs": {
+    "horse": [
+      "a white horse",
+      "a horse",
+      "the horse",
+      "the horse and"
+    ],
+    "person": [
+      "a person",
+      "the person"
+    ],
+    "fence": [
+      "a fence"
+    ],
+    "man": [
+      "a man",
+      "the man"
+    ],
+    "enclosure": [
+      "an enclosure"
+    ],
+    "rider": [
+      "a rider"
+    ],
+    "paddock": [
+      "a paddock"
+    ],
+    "yard": [
+      "the yard"
+    ],
+    "boy": [
+      "the boy"
+    ],
+    "woman": [
+      "a woman"
+    ]
+  }
+}

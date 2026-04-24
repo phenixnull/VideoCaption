@@ -1,0 +1,18 @@
+{
+  "video_objs": {
+    "man": [
+      "a man plays",
+      "a man is playing",
+      "the man played",
+      "the man is play",
+      "a man is blowing",
+      "a man playing",
+      "one man is playing",
+      "the man plays"
+    ],
+    "flute": [
+      "a flute",
+      "the flute"
+    ]
+  }
+}

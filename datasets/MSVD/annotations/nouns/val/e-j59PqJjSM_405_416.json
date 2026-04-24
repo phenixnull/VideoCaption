@@ -1,0 +1,58 @@
+{
+  "video_objs": {
+    "man": [
+      "a man",
+      "the man",
+      "a man cooking his"
+    ],
+    "bowl": [
+      "a bowl",
+      "a large bowl",
+      "a big bowl"
+    ],
+    "person": [
+      "a person",
+      "the person"
+    ],
+    "spatula": [
+      "a spatula"
+    ],
+    "contents": [
+      "the contents"
+    ],
+    "food": [
+      "food",
+      "the food"
+    ],
+    "ingredients": [
+      "some ingredients",
+      "all the ingredients",
+      "the ingredients"
+    ],
+    "salad": [
+      "a salad",
+      "salad"
+    ],
+    "vegetables": [
+      "the vegetables"
+    ],
+    "tamato": [
+      "the tamato"
+    ],
+    "boy": [
+      "a boy"
+    ],
+    "chef": [
+      "a chef"
+    ],
+    "tomatoes": [
+      "some tomatoes"
+    ],
+    "kichen": [
+      "his kichen"
+    ],
+    "woman": [
+      "a woman"
+    ]
+  }
+}

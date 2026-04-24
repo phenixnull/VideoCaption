@@ -1,0 +1,66 @@
+{
+  "video_objs": {
+    "chef": [
+      "a chef"
+    ],
+    "pot": [
+      "a pot"
+    ],
+    "man": [
+      "a man",
+      "the man"
+    ],
+    "pumpkins": [
+      "pumpkins"
+    ],
+    "person": [
+      "a person"
+    ],
+    "food": [
+      "food"
+    ],
+    "grill": [
+      "a grill"
+    ],
+    "piece": [
+      "a piece"
+    ],
+    "wok": [
+      "a wok"
+    ],
+    "pieces": [
+      "pieces"
+    ],
+    "meat": [
+      "meat"
+    ],
+    "vegetables": [
+      "vegetables"
+    ],
+    "fryer": [
+      "a fryer"
+    ],
+    "woman": [
+      "a woman",
+      "the woman"
+    ],
+    "pan": [
+      "a pan"
+    ],
+    "zucchini": [
+      "zucchini"
+    ],
+    "fruit": [
+      "fruit"
+    ],
+    "lady": [
+      "the lady"
+    ],
+    "skewer": [
+      "a skewer"
+    ],
+    "bento": [
+      "bento"
+    ]
+  }
+}

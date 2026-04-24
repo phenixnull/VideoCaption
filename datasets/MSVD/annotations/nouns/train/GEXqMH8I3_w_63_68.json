@@ -1,0 +1,46 @@
+{
+  "video_objs": {
+    "top": [
+      "the top"
+    ],
+    "bridge": [
+      "a bridge",
+      "the bridge"
+    ],
+    "overpass": [
+      "a overpass",
+      "the overpass"
+    ],
+    "tunnel": [
+      "a tunnel",
+      "a low tunnel"
+    ],
+    "peoples": [
+      "peoples are playing"
+    ],
+    "football": [
+      "football"
+    ],
+    "bottom": [
+      "the bottom"
+    ],
+    "road": [
+      "a road"
+    ],
+    "underside": [
+      "the underside"
+    ],
+    "roof": [
+      "the roof"
+    ],
+    "house": [
+      "the house"
+    ],
+    "part": [
+      "part"
+    ],
+    "garage": [
+      "a garage"
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "video_objs": {
+    "bicyclist": [
+      "a bicyclist hits his",
+      "a bicyclist is crashing",
+      "a bicyclist fell off his",
+      "a bicyclist riding along side a road is knocked"
+    ],
+    "face": [
+      "his face"
+    ],
+    "byclist": [
+      "a byclist fell off his"
+    ],
+    "bike": [
+      "his bike"
+    ],
+    "sign": [
+      "a sign"
+    ],
+    "guy": [
+      "a guy"
+    ],
+    "kid": [
+      "a kid"
+    ],
+    "bicycle": [
+      "his bicycle",
+      "a bicycle"
+    ],
+    "man": [
+      "a man"
+    ],
+    "grass": [
+      "the grass"
+    ],
+    "street": [
+      "the street"
+    ],
+    "person": [
+      "a person"
+    ],
+    "cyclist": [
+      "one cyclist"
+    ],
+    "signboard": [
+      "a signboard"
+    ],
+    "boy": [
+      "the boy"
+    ],
+    "boys": [
+      "boys"
+    ],
+    "cycle": [
+      "his cycle"
+    ],
+    "clip": [
+      "a funny clip"
+    ],
+    "board": [
+      "the board"
+    ],
+    "signpost": [
+      "a signpost"
+    ],
+    "men": [
+      "a men"
+    ]
+  }
+}

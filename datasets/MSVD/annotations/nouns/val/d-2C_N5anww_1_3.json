@@ -1,0 +1,59 @@
+{
+  "video_objs": {
+    "dog": [
+      "a dog running down",
+      "a dog crashes",
+      "a dog is running",
+      "a dog runs",
+      "a running dog is hitting",
+      "a white dog running rapidly"
+    ],
+    "road": [
+      "on the road"
+    ],
+    "mailbox": [
+      "into a mailbox"
+    ],
+    "bricks": [
+      "into the bricks"
+    ],
+    "bench": [
+      "a cemented bench"
+    ],
+    "path": [
+      "of the path"
+    ],
+    "lawn": [
+      "across a lawn"
+    ],
+    "lion": [
+      "the lion is running"
+    ],
+    "object": [
+      "into an object"
+    ],
+    "post": [
+      "into a post"
+    ],
+    "obstacle": [
+      "by a obstacle",
+      "into an obstacle"
+    ],
+    "pillar": [
+      "a brick pillar"
+    ],
+    "column": [
+      "a brick column"
+    ],
+    "barrier": [
+      "hit the barrier"
+    ],
+    "animal": [
+      "an animal runs",
+      "animal is running",
+      "a animal is runing onroad",
+      "a animal is running",
+      "animal running"
+    ]
+  }
+}

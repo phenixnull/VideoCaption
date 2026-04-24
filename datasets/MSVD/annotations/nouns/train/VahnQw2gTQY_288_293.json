@@ -1,0 +1,66 @@
+{
+  "video_objs": {
+    "person": [
+      "the person is cutting",
+      "a person cuts up",
+      "a person slices",
+      "a person is removing",
+      "a person is cutting",
+      "a person",
+      "the person is taking out"
+    ],
+    "pepper": [
+      "a pepper",
+      "big pepper"
+    ],
+    "peppers": [
+      "peppers"
+    ],
+    "seeds": [
+      "seeds"
+    ],
+    "capsicum": [
+      "a capsicum",
+      "the capsicum"
+    ],
+    "chef": [
+      "a chef"
+    ],
+    "woman": [
+      "a woman"
+    ],
+    "knife": [
+      "a knife"
+    ],
+    "pumpkins": [
+      "pumpkins"
+    ],
+    "man": [
+      "a man",
+      "the man"
+    ],
+    "tomato": [
+      "tomato",
+      "a tomato",
+      "the tomato"
+    ],
+    "potato": [
+      "the potato"
+    ],
+    "potatoes": [
+      "the potatoes"
+    ],
+    "fruit": [
+      "various fruit"
+    ],
+    "tomatoes": [
+      "some tomatoes"
+    ],
+    "vegetables": [
+      "the vegetables"
+    ],
+    "vegitables": [
+      "vegitables"
+    ]
+  }
+}

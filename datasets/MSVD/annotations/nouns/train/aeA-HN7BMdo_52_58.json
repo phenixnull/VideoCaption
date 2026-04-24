@@ -1,0 +1,53 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman cutting",
+      "a woman cuts",
+      "a woman is cutting",
+      "a woman is slicing"
+    ],
+    "tomato": [
+      "cutting a tomato",
+      "a tomato is being sliced",
+      "cuts a tomato",
+      "slicing a tomato"
+    ],
+    "knife": [
+      "with a knife"
+    ],
+    "slices": [
+      "cutting a slices"
+    ],
+    "lady": [
+      "the lady sliced a tomatoe",
+      "the lady sliced the tomatoe",
+      "a lady is cutting",
+      "a lady is slicing tomatoe",
+      "a lady is slicing some"
+    ],
+    "dog": [
+      "and her dog",
+      "with his dog",
+      "with her dog"
+    ],
+    "girl": [
+      "a girl is slicing"
+    ],
+    "guy": [
+      "a guy is cooking"
+    ],
+    "women": [
+      "the women is cutting",
+      "the women is cooking",
+      "a women is slicing",
+      "a women is cooking"
+    ],
+    "man": [
+      "a man cooking his",
+      "a man is cutting"
+    ],
+    "kichen": [
+      "cooking his kichen"
+    ]
+  }
+}

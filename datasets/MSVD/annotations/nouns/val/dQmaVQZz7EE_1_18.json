@@ -1,0 +1,39 @@
+{
+  "video_objs": {
+    "boy": [
+      "a little boy",
+      "a boy",
+      "the boy",
+      "the little boy",
+      "a small boy",
+      "a young boy"
+    ],
+    "guitar": [
+      "guitar",
+      "a guitar",
+      "electric guitar",
+      "the guitar",
+      "his guitar",
+      "luke s guitar"
+    ],
+    "stage": [
+      "stage"
+    ],
+    "child": [
+      "a child",
+      "a small child"
+    ],
+    "music": [
+      "music"
+    ],
+    "man": [
+      "a man"
+    ],
+    "toddler": [
+      "a toddler"
+    ],
+    "baby": [
+      "the baby"
+    ]
+  }
+}

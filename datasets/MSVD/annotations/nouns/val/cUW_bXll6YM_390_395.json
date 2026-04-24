@@ -1,0 +1,60 @@
+{
+  "video_objs": {
+    "bowl": [
+      "into a bowl",
+      "to a bowl"
+    ],
+    "man": [
+      "a man pours",
+      "a man is adding oil",
+      "a man pours oil",
+      "a man is pouring oil",
+      "a man poured oil",
+      "a man is putting oil",
+      "a man is pouring",
+      "the man cut up",
+      "the man poured oil",
+      "a man adding",
+      "a man is mixing something",
+      "a man is preparing",
+      "a man cooking his",
+      "the man is pouring oil",
+      "by a man",
+      "a man is pour the oil",
+      "a man"
+    ],
+    "tomato": [
+      "to sliced tomato",
+      "on the tomato"
+    ],
+    "container": [
+      "into a container"
+    ],
+    "person": [
+      "a person is pouring",
+      "a person is preparing",
+      "the person is mixing the oil and"
+    ],
+    "boy": [
+      "this boy cooking"
+    ],
+    "pizza": [
+      "puding and pizza"
+    ],
+    "salad": [
+      "is preparing salad",
+      "very colourful salad",
+      "prepare a salad",
+      "to prepare salad"
+    ],
+    "chef": [
+      "a chef soaking"
+    ],
+    "kichen": [
+      "cooking his kichen"
+    ],
+    "video": [
+      "a video"
+    ]
+  }
+}

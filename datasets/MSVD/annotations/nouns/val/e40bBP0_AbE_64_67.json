@@ -1,0 +1,43 @@
+{
+  "video_objs": {
+    "guy": [
+      "a guy is",
+      "a guy is riding"
+    ],
+    "water": [
+      "in the water",
+      "enjoying a water"
+    ],
+    "man": [
+      "a man body boards",
+      "a man body surfs",
+      "a man is boogie boarding",
+      "a man is riding",
+      "a man is surfing",
+      "a man is",
+      "a man rides a bodyboarding ride",
+      "a man rides",
+      "a man spins",
+      "a man",
+      "the man is body surfing",
+      "the man rode",
+      "the man spun down",
+      "a man is body boarding",
+      "a man swiming",
+      "a man is enjoying",
+      "a man skating",
+      "a man is playing",
+      "a man enjoying himself",
+      "a man scating"
+    ],
+    "board": [
+      "riding a board",
+      "rode a board",
+      "on a board"
+    ],
+    "person": [
+      "the person is polaying",
+      "a person is playing"
+    ]
+  }
+}

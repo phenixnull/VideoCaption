@@ -1,0 +1,48 @@
+{
+  "video_objs": {
+    "rabbit": [
+      "a rabbit is trying",
+      "a rabbit is getting pet",
+      "a rabbit struggles away",
+      "a rabbit is playing",
+      "the rabbit was being petted",
+      "a rabbit is being petted",
+      "a nervous rabbit is being petted"
+    ],
+    "bed": [
+      "on a bed",
+      "on the bed"
+    ],
+    "man": [
+      "a man tickles",
+      "a man is stroking",
+      "a man is playing",
+      "a man playing",
+      "a man is tickling",
+      "a man catching"
+    ],
+    "person": [
+      "a person is petting",
+      "a person is playing"
+    ],
+    "bunny": [
+      "a bunny is squirming",
+      "a bunny struggles",
+      "with his bunny"
+    ],
+    "girl": [
+      "a girl is petting"
+    ],
+    "animal": [
+      "a animal is being pet",
+      "rubs an animal",
+      "the animal is sitting"
+    ],
+    "finger": [
+      "a finger rubs"
+    ],
+    "mouse": [
+      "catching a mouse"
+    ]
+  }
+}

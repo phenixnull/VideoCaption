@@ -1,0 +1,49 @@
+{
+  "video_objs": {
+    "man": [
+      "a man outruns",
+      "a man runs",
+      "a man is running",
+      "a man is chasing",
+      "a man is overtaking",
+      "a man running",
+      "the man raced",
+      "the man is racing"
+    ],
+    "truck": [
+      "a truck driving",
+      "a truck",
+      "a truck drives",
+      "a truck that is driving",
+      "the truck"
+    ],
+    "street": [
+      "the street"
+    ],
+    "road": [
+      "the road",
+      "a dirt road"
+    ],
+    "bus": [
+      "a bus"
+    ],
+    "vehicle": [
+      "a moving vehicle"
+    ],
+    "movie": [
+      "the tamil movie"
+    ],
+    "person": [
+      "the person"
+    ],
+    "image": [
+      "biggest image"
+    ],
+    "film": [
+      "an indian film"
+    ],
+    "scene": [
+      "a scene"
+    ]
+  }
+}

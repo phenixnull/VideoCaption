@@ -1,0 +1,46 @@
+{
+  "video_objs": {
+    "kitten": [
+      "a kitten is playing",
+      "a small kitten is playing",
+      "a kitten plays",
+      "the kitten played",
+      "the kitten is playing",
+      "a baby kitten plays",
+      "a very small kitten is playing"
+    ],
+    "ball": [
+      "a ball"
+    ],
+    "toy": [
+      "a toy",
+      "its toy",
+      "his toy"
+    ],
+    "cat": [
+      "a cat is playing",
+      "the cat is playing",
+      "a cat playing"
+    ],
+    "bed": [
+      "its bed",
+      "his bed",
+      "in it s bed"
+    ],
+    "animal": [
+      "the animal is playing"
+    ],
+    "kitty": [
+      "kitty playing"
+    ],
+    "dog": [
+      "a small dog playing"
+    ],
+    "boll": [
+      "boll"
+    ],
+    "amn": [
+      "a amn"
+    ]
+  }
+}

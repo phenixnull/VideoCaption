@@ -1,0 +1,22 @@
+{
+  "video_objs": {
+    "cat": [
+      "a cat staring",
+      "a cat meows",
+      "a cat is looking",
+      "a cat is speaking",
+      "a cat addresses",
+      "a cat is meowing",
+      "a small brown cat purrs softly"
+    ],
+    "camera": [
+      "the camera"
+    ],
+    "mouth": [
+      "it s mouth"
+    ],
+    "voice": [
+      "is giving voice"
+    ]
+  }
+}

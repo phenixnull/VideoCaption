@@ -1,0 +1,77 @@
+{
+  "video_objs": {
+    "group": [
+      "a group is playing",
+      "a group",
+      "the group is playing"
+    ],
+    "band": [
+      "a band is performing",
+      "a band is performing out",
+      "a band is playing",
+      "a band plays",
+      "the band performing"
+    ],
+    "stage": [
+      "performing out stage",
+      "on a stage"
+    ],
+    "orchestra": [
+      "a orchestra is playing",
+      "a string orchestra plays",
+      "an orchestra is performing",
+      "an orchestra is playing",
+      "the orchestra is performing",
+      "the orchestra performed",
+      "the orchestra is playing"
+    ],
+    "people": [
+      "people are playing",
+      "all people are playing",
+      "people playing",
+      "people are performing"
+    ],
+    "instruments": [
+      "people are playing instruments"
+    ],
+    "ladies": [
+      "the ladies playe their"
+    ],
+    "audience": [
+      "of an audience"
+    ],
+    "women": [
+      "there are two women playing",
+      "two women are playing",
+      "two women play"
+    ],
+    "violin": [
+      "playing the violin",
+      "are playing violin",
+      "play a violin",
+      "people were playing violin",
+      "people are playing the violin",
+      "violin"
+    ],
+    "musicians": [
+      "a musicians play",
+      "several musicians are playing some music"
+    ],
+    "music": [
+      "is playing music",
+      "a musical"
+    ],
+    "boys": [
+      "the boys and"
+    ],
+    "concert": [
+      "in a concert"
+    ],
+    "chorus": [
+      "a chorus"
+    ],
+    "lady": [
+      "a lady is weaping"
+    ]
+  }
+}

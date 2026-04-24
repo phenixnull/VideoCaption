@@ -1,0 +1,40 @@
+{
+  "video_objs": {
+    "cat": [
+      "a cat",
+      "a brown cat",
+      "the cat",
+      "the little cat"
+    ],
+    "bathroom": [
+      "the bathroom"
+    ],
+    "toilet": [
+      "a toilet",
+      "the toilet",
+      "a toilet inside"
+    ],
+    "rim": [
+      "the rim"
+    ],
+    "waste": [
+      "waste"
+    ],
+    "potty": [
+      "the potty"
+    ],
+    "edge": [
+      "the edge"
+    ],
+    "commod": [
+      "commod"
+    ],
+    "kitty": [
+      "a kitty",
+      "a kitty perched"
+    ],
+    "glasset": [
+      "glasset"
+    ]
+  }
+}

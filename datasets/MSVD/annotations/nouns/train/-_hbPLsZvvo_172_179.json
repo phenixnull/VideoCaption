@@ -1,0 +1,85 @@
+{
+  "video_objs": {
+    "person": [
+      "a person is mixing"
+    ],
+    "ingredients": [
+      "mixing ingredients",
+      "adding ingredients",
+      "pouring ingredients",
+      "putting ingredients",
+      "puts various ingredients",
+      "adds several ingredients"
+    ],
+    "bowl": [
+      "in a bowl",
+      "in the bowl",
+      "into the bowl",
+      "to a bowl",
+      "into a bowl",
+      "in a mixing bowl"
+    ],
+    "woman": [
+      "a woman is adding all ingredient",
+      "a woman is adding",
+      "a woman is mixing",
+      "a woman is mixing ingrediants",
+      "a woman is pouring",
+      "a woman is preparing some",
+      "a woman is putting",
+      "a woman mixes",
+      "a woman puts various",
+      "the woman is seasoning",
+      "the woman is cooking",
+      "a woman is preparing",
+      "a woman puts",
+      "a woman is mixing some",
+      "a woman adds several",
+      "a woman stirs",
+      "a woman demonstrating"
+    ],
+    "vinegar": [
+      "adding vinegar",
+      "is adding vinegar",
+      "pouring a vinegar"
+    ],
+    "food": [
+      "mixing food",
+      "preparing some food",
+      "mixes food",
+      "preparing food"
+    ],
+    "oil": [
+      "pouring oil",
+      "added oil"
+    ],
+    "vegetables": [
+      "cut up vegetables",
+      "vegetables"
+    ],
+    "mixture": [
+      "seasoning the mixture"
+    ],
+    "dish": [
+      "to a dish"
+    ],
+    "dog": [
+      "with her dog"
+    ],
+    "man": [
+      "a man cooking"
+    ],
+    "kichen": [
+      "his kichen"
+    ],
+    "carrots": [
+      "seasoning the carrots"
+    ],
+    "recipe": [
+      "demonstrating a recipe"
+    ],
+    "combination": [
+      "stirs a combination"
+    ]
+  }
+}

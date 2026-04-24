@@ -1,0 +1,52 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is writing",
+      "a man sits",
+      "a man sitting"
+    ],
+    "note": [
+      "writing a note"
+    ],
+    "book": [
+      "in a book"
+    ],
+    "journal": [
+      "in a journal",
+      "in his journal"
+    ],
+    "paper": [
+      "on a paper"
+    ],
+    "table": [
+      "at a table",
+      "at teh table"
+    ],
+    "desk": [
+      "at a desk"
+    ],
+    "letter": [
+      "writing a letter"
+    ],
+    "diary": [
+      "in his diary"
+    ],
+    "person": [
+      "the person is dancing"
+    ],
+    "girl": [
+      "girl"
+    ],
+    "song": [
+      "love song is sing",
+      "a new york nagaram song",
+      "very very mealody song"
+    ],
+    "lovers": [
+      "lovers"
+    ],
+    "movie": [
+      "movie"
+    ]
+  }
+}

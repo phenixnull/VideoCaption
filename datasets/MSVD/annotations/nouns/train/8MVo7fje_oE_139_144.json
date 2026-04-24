@@ -1,0 +1,55 @@
+{
+  "video_objs": {
+    "man": [
+      "a man appears",
+      "a man is emptying",
+      "a man is draining",
+      "a man is moving",
+      "a man is adding",
+      "a man is shaking",
+      "the man shook",
+      "the man is shaking"
+    ],
+    "water": [
+      "water off",
+      "the water",
+      "pasta water"
+    ],
+    "pasta": [
+      "pasta",
+      "cooked pasta",
+      "some pasta"
+    ],
+    "sink": [
+      "a sink",
+      "a kitchen sink",
+      "the sink"
+    ],
+    "box": [
+      "a box"
+    ],
+    "bowl": [
+      "a bowl"
+    ],
+    "container": [
+      "a container",
+      "the container"
+    ],
+    "dish": [
+      "a dish"
+    ],
+    "food": [
+      "food"
+    ],
+    "person": [
+      "the person"
+    ],
+    "noodles": [
+      "some noodles",
+      "pasta noodles"
+    ],
+    "chef": [
+      "a chef"
+    ]
+  }
+}

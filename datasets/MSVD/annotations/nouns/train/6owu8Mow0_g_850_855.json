@@ -1,0 +1,35 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is talking",
+      "a man talks",
+      "a man is speaking"
+    ],
+    "men": [
+      "two men are standing",
+      "two men s are talking"
+    ],
+    "phone": [
+      "on a phone",
+      "on the phone"
+    ],
+    "mobile": [
+      "on a mobile"
+    ],
+    "boys": [
+      "the boys are cooking"
+    ],
+    "person": [
+      "two person eating"
+    ],
+    "pizza": [
+      "he is explain about making pizza"
+    ],
+    "kichen": [
+      "cooking his kichen"
+    ],
+    "video": [
+      "super pizza wears video"
+    ]
+  }
+}

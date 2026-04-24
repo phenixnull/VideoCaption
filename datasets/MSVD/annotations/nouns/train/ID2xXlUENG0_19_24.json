@@ -1,0 +1,83 @@
+{
+  "video_objs": {
+    "bikers": [
+      "bikers are racing",
+      "bikers are driving",
+      "the bikers are racing"
+    ],
+    "bikes": [
+      "their bikes"
+    ],
+    "motogp": [
+      "in motogp"
+    ],
+    "motorcyclists": [
+      "motorcyclists are racing",
+      "motorcyclists"
+    ],
+    "track": [
+      "on a track",
+      "on racing track"
+    ],
+    "people": [
+      "people are racing",
+      "people are riding",
+      "people were going"
+    ],
+    "motorcycles": [
+      "racing motorcycles",
+      "riding motorcycles",
+      "race their motorcycles"
+    ],
+    "men": [
+      "three men",
+      "the men are racing",
+      "three men are riding",
+      "three men are racing",
+      "men are racing"
+    ],
+    "racers": [
+      "the racers rode"
+    ],
+    "racetrack": [
+      "on the racetrack"
+    ],
+    "riders": [
+      "the riders round"
+    ],
+    "curve": [
+      "round the curve"
+    ],
+    "bike": [
+      "a man is riding a bike",
+      "driving the bike"
+    ],
+    "boys": [
+      "boys doing",
+      "some boys participating",
+      "some boys participate"
+    ],
+    "guy": [
+      "a guy is driving"
+    ],
+    "race": [
+      "race",
+      "in the race"
+    ],
+    "drivers": [
+      "three drivers are racing"
+    ],
+    "persons": [
+      "three persons are doing racing"
+    ],
+    "motorbikes": [
+      "three motorbikes riding"
+    ],
+    "clip": [
+      "a short clip"
+    ],
+    "scene": [
+      "this is the scene"
+    ]
+  }
+}

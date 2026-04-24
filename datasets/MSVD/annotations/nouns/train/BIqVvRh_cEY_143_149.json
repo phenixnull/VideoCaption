@@ -1,0 +1,44 @@
+{
+  "video_objs": {
+    "boy": [
+      "a young boy is running",
+      "a boy is running",
+      "a boy is running down",
+      "a boy runs down",
+      "a boy is running around",
+      "the boy ran around",
+      "a boy runs along",
+      "the boy ran along"
+    ],
+    "child": [
+      "a child is sprinting"
+    ],
+    "track": [
+      "around a track",
+      "on a track"
+    ],
+    "gate": [
+      "around the gate"
+    ],
+    "fence": [
+      "along the fence",
+      "around the fence"
+    ],
+    "floor": [
+      "on the floor"
+    ],
+    "corner": [
+      "around the corner"
+    ],
+    "girl": [
+      "a girl is weeping",
+      "a girl running",
+      "a girl is playing"
+    ],
+    "kid": [
+      "a kid is running",
+      "a kid running",
+      "a kid runs"
+    ]
+  }
+}

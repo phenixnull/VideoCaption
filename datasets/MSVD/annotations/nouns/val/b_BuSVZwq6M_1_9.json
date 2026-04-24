@@ -1,0 +1,78 @@
+{
+  "video_objs": {
+    "man": [
+      "a man makes a great play",
+      "a man caught",
+      "a man is catching",
+      "a man makes a catch",
+      "a man makes a sliding catch",
+      "the man caught",
+      "the man has caught",
+      "a man catches"
+    ],
+    "fielder": [
+      "a fielder"
+    ],
+    "ball": [
+      "caught a ball",
+      "catching a ball",
+      "caught the ball",
+      "catches a ball",
+      "hit a ball",
+      "catching the ball",
+      "catch the ball"
+    ],
+    "player": [
+      "a player fielding",
+      "a player is taking a catch",
+      "the player made a terrific catch",
+      "a player made an amazing catch",
+      "a player takes",
+      "one player taking a catch",
+      "a player",
+      "a player take a catch",
+      "a player caught"
+    ],
+    "men": [
+      "men are playing",
+      "men are playing cricket",
+      "the men are playing cricket"
+    ],
+    "baseball": [
+      "men are playing baseball",
+      "baseball players are celebrating"
+    ],
+    "sports": [
+      "men are playing sports"
+    ],
+    "boys": [
+      "the boys playing cirket"
+    ],
+    "shortstop": [
+      "a shortstop suprising everyone"
+    ],
+    "guy": [
+      "a guy is catching"
+    ],
+    "cricketer": [
+      "a cricketer made an amazing catch",
+      "a cricketer performs a diving catch"
+    ],
+    "wicket": [
+      "takes a wicket"
+    ],
+    "person": [
+      "a person catch"
+    ],
+    "team": [
+      "on a team",
+      "team is playing cricket"
+    ],
+    "teamate": [
+      "baseball players are celebrating their teamate s success"
+    ],
+    "players": [
+      "players celebrate"
+    ]
+  }
+}

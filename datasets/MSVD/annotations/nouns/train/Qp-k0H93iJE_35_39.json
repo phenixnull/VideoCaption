@@ -1,0 +1,75 @@
+{
+  "video_objs": {
+    "men": [
+      "men are playing",
+      "some men are playing",
+      "the men are playing"
+    ],
+    "cricket": [
+      "playing cricket"
+    ],
+    "teams": [
+      "two teams are playing"
+    ],
+    "batter": [
+      "the batter hits"
+    ],
+    "ball": [
+      "hits the ball behind him",
+      "hits the ball",
+      "hit the ball",
+      "strikes a ball",
+      "misses the ball"
+    ],
+    "people": [
+      "people are playing"
+    ],
+    "batsman": [
+      "the batsman hits"
+    ],
+    "cricketer": [
+      "cricketer are playing",
+      "a cricketer made a funny moment"
+    ],
+    "man": [
+      "a man strikes",
+      "a man bats",
+      "a man is hitting",
+      "a man is throwing"
+    ],
+    "bat": [
+      "with a bat"
+    ],
+    "players": [
+      "players are playing"
+    ],
+    "baseball": [
+      "people are playing baseball"
+    ],
+    "wicketkeeper": [
+      "the wicketkeeper fails"
+    ],
+    "boller": [
+      "a boller is balling"
+    ],
+    "game": [
+      "playing a game"
+    ],
+    "match": [
+      "someone playing a match",
+      "a match being played"
+    ],
+    "clip": [
+      "a short clip"
+    ],
+    "shot": [
+      "showing a shot"
+    ],
+    "peoples": [
+      "peoples are playing"
+    ],
+    "bowler": [
+      "a bowler is bowling"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "video_objs": {
+    "man": [
+      "a man pokes",
+      "a man does a magic trick",
+      "a man puts",
+      "a man is performing a magic trick",
+      "a man is doing some trick",
+      "a man is doing an illusion",
+      "a man is pushing",
+      "the man did a trick"
+    ],
+    "mouth": [
+      "his mouth",
+      "opens his mouth"
+    ],
+    "straw": [
+      "a drinking straw",
+      "a straw"
+    ],
+    "neck": [
+      "his neck"
+    ],
+    "chin": [
+      "his chin"
+    ],
+    "face": [
+      "his face"
+    ],
+    "jaw": [
+      "his jaw"
+    ],
+    "person": [
+      "a person",
+      "the person"
+    ],
+    "pencil": [
+      "pencil"
+    ]
+  }
+}

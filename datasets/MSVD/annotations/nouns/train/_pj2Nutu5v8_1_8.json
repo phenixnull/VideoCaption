@@ -1,0 +1,69 @@
+{
+  "video_objs": {
+    "infant": [
+      "an infant speaks"
+    ],
+    "microphone": [
+      "a microphone"
+    ],
+    "baby": [
+      "a baby",
+      "a baby has",
+      "a baby is talking",
+      "a baby is wearing",
+      "the baby is talking",
+      "the baby talked",
+      "a baby is playing",
+      "a baby wearing"
+    ],
+    "boy": [
+      "a boy is trying",
+      "a boy is wearing",
+      "a little boy talked",
+      "a small boy is speaking",
+      "a young boy is wearing",
+      "a boy is singing",
+      "the boy is listing",
+      "a small boy is singing",
+      "a little boy is talking",
+      "a small boy putting headphone is trying",
+      "the boy is talking"
+    ],
+    "headphones": [
+      "headphones"
+    ],
+    "headset": [
+      "wearing a headset",
+      "into a headset",
+      "into the headset",
+      "on a headset"
+    ],
+    "child": [
+      "a small child is repeating words after his",
+      "a child is talking",
+      "a young child is talking",
+      "a child hearing through head",
+      "a young child is speaking"
+    ],
+    "parent": [
+      "his parent"
+    ],
+    "toddler": [
+      "a toddler talks",
+      "a toddler",
+      "a young male toddler is talking"
+    ],
+    "songs": [
+      "is listing songs"
+    ],
+    "phone": [
+      "on the phone"
+    ],
+    "kid": [
+      "a kid is talking"
+    ],
+    "video": [
+      "really very funny video"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "video_objs": {
+    "men": [
+      "two men are talking",
+      "the men are eating",
+      "two men are eating and talking",
+      "two men are eating",
+      "two men are speaking",
+      "two men are talking and eating",
+      "two men ate"
+    ],
+    "boys": [
+      "two boys are eating their",
+      "two boys eat",
+      "boys are having",
+      "two boys are speaking while eating",
+      "three boys eating"
+    ],
+    "restaurant": [
+      "in a restaurant",
+      "at a restaurant"
+    ],
+    "table": [
+      "at a table"
+    ],
+    "diner": [
+      "at a diner",
+      "in a diner"
+    ],
+    "breakfast": [
+      "are eating breakfast",
+      "boys are having a breakfast"
+    ],
+    "food": [
+      "eating their food",
+      "they are eating food",
+      "are eating food"
+    ],
+    "person": [
+      "the person is eating"
+    ],
+    "guys": [
+      "two guys are eating"
+    ],
+    "hotel": [
+      "in the hotel"
+    ],
+    "friends": [
+      "two friends enjoying"
+    ],
+    "kichen": [
+      "a man cooking his kichen"
+    ]
+  }
+}

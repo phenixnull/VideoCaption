@@ -1,0 +1,59 @@
+{
+  "video_objs": {
+    "chef": [
+      "a chef is cutting",
+      "a chef is peeling",
+      "the chef picked",
+      "a chef is slicing",
+      "a chef"
+    ],
+    "cauliflower": [
+      "cauliflower"
+    ],
+    "stalk": [
+      "the stalk"
+    ],
+    "broccoli": [
+      "of a broccoli",
+      "peels a broccoli",
+      "is chopping broccoli",
+      "is peeling broccoli",
+      "broccoli is being cut",
+      "broccoli is being peeled",
+      "broccoli is peeled"
+    ],
+    "man": [
+      "a man cuts",
+      "a man is chopping",
+      "a man is peeling",
+      "man is trying",
+      "the man is peeling",
+      "the man is slicing",
+      "a man is cutting"
+    ],
+    "stem": [
+      "cuts the stem",
+      "the stem",
+      "peeling a stem",
+      "peeling the stem",
+      "cut the stem"
+    ],
+    "pieces": [
+      "into small pieces"
+    ],
+    "person": [
+      "a person is peeling",
+      "a person is showing how",
+      "a person is cutting"
+    ],
+    "vegetable": [
+      "is cutting vegetable"
+    ],
+    "woman": [
+      "a woman is cleaning"
+    ],
+    "leaves": [
+      "man is removing leaves"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "video_objs": {
+    "rocks": [
+      "climbing rocks",
+      "descending rocks"
+    ],
+    "bear": [
+      "a bear is walking"
+    ],
+    "cliffs": [
+      "down the cliffs"
+    ],
+    "mountain": [
+      "on the mountain"
+    ],
+    "hill": [
+      "polar bear is coming down the hill"
+    ]
+  }
+}

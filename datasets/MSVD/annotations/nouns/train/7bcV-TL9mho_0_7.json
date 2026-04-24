@@ -1,0 +1,38 @@
+{
+  "video_objs": {
+    "puppies": [
+      "seven puppies are walking towards",
+      "some puppies are",
+      "and some puppies",
+      "puppies are walking towards"
+    ],
+    "cat": [
+      "investigate a cat",
+      "a cat is sitting",
+      "towards one cat",
+      "a cat and some",
+      "and white cat",
+      "a cat scaring",
+      "a cat versus",
+      "a adult cat"
+    ],
+    "hallway": [
+      "of a hallway",
+      "in a hallway",
+      "in the hallway"
+    ],
+    "dogs": [
+      "some dogs are walking",
+      "cute dogs",
+      "the puppy dogs and",
+      "cats and dogs",
+      "cat and dogs"
+    ],
+    "room": [
+      "in a room"
+    ],
+    "house": [
+      "in a house"
+    ]
+  }
+}

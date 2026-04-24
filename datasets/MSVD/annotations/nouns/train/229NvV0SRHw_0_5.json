@@ -1,0 +1,83 @@
+{
+  "video_objs": {
+    "baby": [
+      "a baby is drinking",
+      "a baby drinks",
+      "a baby",
+      "baby drinking",
+      "the baby is drinking"
+    ],
+    "table": [
+      "at the table",
+      "the dining table"
+    ],
+    "juice": [
+      "her juice",
+      "drinks her juice"
+    ],
+    "girl": [
+      "a girl is drinking",
+      "a little girl drinks",
+      "a little girl is drinking",
+      "a small girl seated",
+      "a young girl is drinking",
+      "the girl drank",
+      "the girl took a drink"
+    ],
+    "milk": [
+      "is drinking milk",
+      "baby drinking milk"
+    ],
+    "cup": [
+      "from a cup",
+      "from her cup"
+    ],
+    "straw": [
+      "through a straw",
+      "with a straw"
+    ],
+    "water": [
+      "is sipping water",
+      "is drinking water",
+      "and drinking water"
+    ],
+    "sipper": [
+      "from a sipper",
+      "with a sipper"
+    ],
+    "food": [
+      "taking his food",
+      "baby is eating her food",
+      "is eating food"
+    ],
+    "toddler": [
+      "a toddler drinks",
+      "a toddler is drinking"
+    ],
+    "bottle": [
+      "from her bottle",
+      "of a bottle",
+      "with a bottle"
+    ],
+    "wookie": [
+      "about a wookie"
+    ],
+    "lid": [
+      "with a lid"
+    ],
+    "kid": [
+      "a kid is drinking",
+      "a kid drinking somthing",
+      "a kid is eating"
+    ],
+    "liquid": [
+      "is drinking liquid"
+    ],
+    "child": [
+      "a child drinks"
+    ],
+    "breakfast": [
+      "having a breakfast"
+    ]
+  }
+}

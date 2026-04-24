@@ -1,0 +1,65 @@
+{
+  "video_objs": {
+    "cat": [
+      "a cat is sliding",
+      "a cat is crawling",
+      "a cat is playing",
+      "a cat is pulling itself",
+      "a cat lying",
+      "a cat moves around",
+      "a cat",
+      "a cat slides along",
+      "a cat us crawling",
+      "the cat is crawling",
+      "the cat scootched itself",
+      "the cat shimmied",
+      "a cat scratches its belly",
+      "the cat is laying",
+      "a cat is moving",
+      "a cat is scooting",
+      "a cat scoots",
+      "a cat is moving while lying",
+      "a cat is scooting along",
+      "cat sliding",
+      "the cat is hiding",
+      "a cat trying",
+      "a cat is moving backwards",
+      "a cat gliding tactfully",
+      "cat crawls",
+      "a cat doing some funny acts",
+      "cat is crawling",
+      "a cat is kying",
+      "a cat is stuck",
+      "a cat is trying"
+    ],
+    "couch": [
+      "under a couch",
+      "underneath a couch",
+      "under the couch",
+      "underneath the couch"
+    ],
+    "sofa": [
+      "under a sofa",
+      "under sofa",
+      "underneath a sofa",
+      "under the sofa"
+    ],
+    "floor": [
+      "on the floor",
+      "along the floor"
+    ],
+    "paws": [
+      "pushing his paws"
+    ],
+    "bed": [
+      "under the bed",
+      "underneath a bed"
+    ],
+    "table": [
+      "on the table"
+    ],
+    "box": [
+      "on the box"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is slicing",
+      "a man cuts",
+      "a man slices",
+      "a man is cutting",
+      "the man cut",
+      "the man is using"
+    ],
+    "piece": [
+      "a piece"
+    ],
+    "carpet": [
+      "cuts a carpet",
+      "cutting a carpet",
+      "is cutting carpet",
+      "someoen is cutting carpet",
+      "cut the carpet",
+      "cut some carpet",
+      "cutting some carpet",
+      "to cut carpet"
+    ],
+    "knife": [
+      "a hunting knife",
+      "a knife",
+      "steel knife"
+    ],
+    "mat": [
+      "a mat",
+      "cutting a mat",
+      "or a mat",
+      "cutting the mat"
+    ],
+    "rug": [
+      "the rug"
+    ],
+    "person": [
+      "a person cutting",
+      "the person"
+    ],
+    "sheet": [
+      "the sheet"
+    ],
+    "guy": [
+      "a guy cutting"
+    ]
+  }
+}

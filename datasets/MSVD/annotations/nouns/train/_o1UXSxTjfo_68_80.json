@@ -1,0 +1,88 @@
+{
+  "video_objs": {
+    "man": [
+      "a man",
+      "a man behind a makeshift",
+      "a man collects",
+      "a man is bagging",
+      "a man is selling",
+      "a man is speaking"
+    ],
+    "bags": [
+      "solding the bags"
+    ],
+    "group": [
+      "a group"
+    ],
+    "counter": [
+      "a makeshift counter"
+    ],
+    "packages": [
+      "handing out packages"
+    ],
+    "people": [
+      "people are talking",
+      "several people are purchasing",
+      "some people conduct",
+      "some people purchasing something"
+    ],
+    "money": [
+      "is bagging money"
+    ],
+    "crowd": [
+      "a crowd"
+    ],
+    "goods": [
+      "selling goods",
+      "his goods"
+    ],
+    "items": [
+      "selling items",
+      "purchasing items"
+    ],
+    "street": [
+      "on the street"
+    ],
+    "things": [
+      "selling things",
+      "bagged things",
+      "selling some things"
+    ],
+    "product": [
+      "selling his product"
+    ],
+    "stuff": [
+      "selling stuff"
+    ],
+    "objects": [
+      "bagging up objects"
+    ],
+    "table": [
+      "around the table"
+    ],
+    "persons": [
+      "some persons taking something"
+    ],
+    "englishman": [
+      "an englishman selling"
+    ],
+    "jewelry": [
+      "selling jewelry"
+    ],
+    "seller": [
+      "seller"
+    ],
+    "artists": [
+      "many artists talking"
+    ],
+    "person": [
+      "a person is selling"
+    ],
+    "vendor": [
+      "a vendor sells"
+    ],
+    "men": [
+      "a men is selling"
+    ]
+  }
+}

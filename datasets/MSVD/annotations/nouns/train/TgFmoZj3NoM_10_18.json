@@ -1,0 +1,39 @@
+{
+  "video_objs": {
+    "onions": [
+      "slicing white onions",
+      "slicing onions",
+      "cutting onions"
+    ],
+    "cleaver": [
+      "a cleaver"
+    ],
+    "person": [
+      "a person slices",
+      "a person is slicing",
+      "a person cuts up",
+      "a person is cooking"
+    ],
+    "onion": [
+      "an onion",
+      "onion",
+      "the onion"
+    ],
+    "chef": [
+      "a chef"
+    ],
+    "woman": [
+      "a woman",
+      "the woman"
+    ],
+    "knife": [
+      "a knife"
+    ],
+    "man": [
+      "the man"
+    ],
+    "hand": [
+      "a hand"
+    ]
+  }
+}

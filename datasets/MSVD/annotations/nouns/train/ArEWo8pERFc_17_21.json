@@ -1,0 +1,49 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman laying down",
+      "a woman gets cozy",
+      "a woman is going",
+      "a woman is laying",
+      "a woman is lying down",
+      "a woman is lying",
+      "a woman lays down"
+    ],
+    "lady": [
+      "a lady is going",
+      "a lady is sleeping",
+      "this lady is going",
+      "a lady is say bay",
+      "a lady lying"
+    ],
+    "bed": [
+      "in bed",
+      "in her bed",
+      "on bed",
+      "in a bed",
+      "in the bed",
+      "on the bed"
+    ],
+    "blanket": [
+      "with a blanket",
+      "pulling the blanket"
+    ],
+    "body": [
+      "her body"
+    ],
+    "face": [
+      "covering her face"
+    ],
+    "covers": [
+      "pulls the covers up"
+    ],
+    "girl": [
+      "the girl prepared",
+      "the girl went"
+    ],
+    "women": [
+      "a women trying",
+      "the women is pulling"
+    ]
+  }
+}

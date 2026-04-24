@@ -1,0 +1,38 @@
+{
+  "video_objs": {
+    "man": [
+      "a man breaks",
+      "a man",
+      "a man hammers",
+      "a man is breaking"
+    ],
+    "slab": [
+      "a slab"
+    ],
+    "concrete": [
+      "a concrete",
+      "concrete",
+      "concrete blocks",
+      "concrete block"
+    ],
+    "brick": [
+      "a brick"
+    ],
+    "stone": [
+      "a stone",
+      "stone"
+    ],
+    "person": [
+      "a person"
+    ],
+    "board": [
+      "a board"
+    ],
+    "hammer": [
+      "a hammer"
+    ],
+    "soldier": [
+      "a soldier"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "video_objs": {
+    "man": [
+      "a man drives",
+      "a man",
+      "a man is playing",
+      "a man is driving",
+      "a man plays",
+      "a man is maneuvering",
+      "a man drove",
+      "a man operates"
+    ],
+    "office": [
+      "an office",
+      "office"
+    ],
+    "coworkers": [
+      "coworkers watch"
+    ],
+    "person": [
+      "a person is playing"
+    ],
+    "mobile": [
+      "on the mobile",
+      "mobile is very harmful",
+      "do nt use mobile phone"
+    ],
+    "men": [
+      "men"
+    ],
+    "proffestionals": [
+      "some proffestionals playing"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman is scrambling",
+      "a woman whisks two",
+      "a woman is beating two",
+      "a woman is whisking",
+      "a woman is mixing",
+      "the woman is whisking"
+    ],
+    "eggs": [
+      "eggs and",
+      "eggs",
+      "two eggs"
+    ],
+    "spices": [
+      "spices"
+    ],
+    "person": [
+      "a person whisks",
+      "a person is whisking",
+      "a person is whipping",
+      "a person coking",
+      "a person is mixing"
+    ],
+    "bowl": [
+      "a bowl"
+    ],
+    "whisk": [
+      "whisk"
+    ],
+    "lady": [
+      "the lady whisked",
+      "the lady whisked the two raw"
+    ],
+    "ingredients": [
+      "other ingredients"
+    ],
+    "man": [
+      "a man cooking his",
+      "man making"
+    ],
+    "kichen": [
+      "his kichen"
+    ],
+    "dish": [
+      "dish"
+    ]
+  }
+}

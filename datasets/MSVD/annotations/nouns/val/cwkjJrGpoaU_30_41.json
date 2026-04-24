@@ -1,0 +1,82 @@
+{
+  "video_objs": {
+    "man": [
+      "a man cuts",
+      "a man cuts away",
+      "a man is cutting",
+      "a man is cutting off",
+      "a man is trimming",
+      "a man is trimming off",
+      "a man trims",
+      "a man is standing"
+    ],
+    "slab": [
+      "a slab",
+      "a large slab",
+      "the slab"
+    ],
+    "meat": [
+      "is cutting meat"
+    ],
+    "chef": [
+      "a chef is cutting",
+      "a chef telling about how",
+      "a chef is preparing",
+      "a chef is trimming",
+      "the chef is cutting"
+    ],
+    "strip": [
+      "away a strip",
+      "off a strip",
+      "cutting a strip",
+      "sterling silver strip",
+      "slicing a strip"
+    ],
+    "fat": [
+      "is trimming fat",
+      "trimming off fat",
+      "fat is being cut off",
+      "for the fat",
+      "slicing the fat"
+    ],
+    "piece": [
+      "from a piece",
+      "cutting a piece",
+      "a large piece",
+      "cutting piece",
+      "off the piece"
+    ],
+    "roast": [
+      "from a roast",
+      "preparing a roast",
+      "of a roast"
+    ],
+    "haunch": [
+      "of a haunch"
+    ],
+    "person": [
+      "a person is cutting",
+      "a person is slicing off"
+    ],
+    "butcher": [
+      "the butcher is cutting",
+      "the butcher is slicing",
+      "the butcher cut"
+    ],
+    "hunk": [
+      "off a hunk"
+    ],
+    "knife": [
+      "with a knife"
+    ],
+    "plate": [
+      "with a plate"
+    ],
+    "joint": [
+      "from a joint"
+    ],
+    "loin": [
+      "someone is trimming the loin"
+    ]
+  }
+}

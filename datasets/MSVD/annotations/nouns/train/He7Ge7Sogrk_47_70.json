@@ -1,0 +1,60 @@
+{
+  "video_objs": {
+    "elephant": [
+      "an elephant is painting",
+      "a elephant is painting",
+      "an elephant holding",
+      "an elephant is drawing",
+      "an elephant is holding a paintbrush",
+      "an elephant painting",
+      "an elephant uses",
+      "an elephant uses his",
+      "the elephant is painting",
+      "the elephant painted",
+      "a elephant panting",
+      "an elephant is given",
+      "an elephant is holding",
+      "an elephant is trying",
+      "an elephant making a painting",
+      "an elephant paints",
+      "an amazing elephant is painting its own image",
+      "an elephant drawing",
+      "an elephant draws",
+      "an elephant is creating a painting",
+      "an elephant is painting s",
+      "an elephant slowly paints",
+      "an elephant trying",
+      "the elephant is drawing",
+      "an elephant is drawing using its"
+    ],
+    "picture": [
+      "a picture"
+    ],
+    "trunk": [
+      "his trunk",
+      "its trunk",
+      "trunk"
+    ],
+    "brush": [
+      "a brush"
+    ],
+    "line": [
+      "a line"
+    ],
+    "canvas": [
+      "a canvas"
+    ],
+    "easel": [
+      "an easel"
+    ],
+    "man": [
+      "one man making a painting"
+    ],
+    "flower": [
+      "a flower"
+    ],
+    "person": [
+      "the person is painting"
+    ]
+  }
+}

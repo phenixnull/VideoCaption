@@ -1,0 +1,71 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman is lying",
+      "a woman and a man",
+      "a woman and man",
+      "a woman and a man seated"
+    ],
+    "man": [
+      "a man",
+      "a man and"
+    ],
+    "bow": [
+      "at the bow"
+    ],
+    "canoe": [
+      "a canoe"
+    ],
+    "people": [
+      "two other people",
+      "four people",
+      "two people"
+    ],
+    "boat": [
+      "on a boat",
+      "in a boat",
+      "in the boat"
+    ],
+    "couple": [
+      "the couple"
+    ],
+    "edge": [
+      "near one edge",
+      "over the edge"
+    ],
+    "raft": [
+      "a raft"
+    ],
+    "skiff": [
+      "a skiff"
+    ],
+    "boy": [
+      "the boy"
+    ],
+    "girl": [
+      "the girl"
+    ],
+    "persons": [
+      "some persons",
+      "two persons"
+    ],
+    "sea": [
+      "in the sea"
+    ],
+    "actor": [
+      "an actor"
+    ],
+    "actress": [
+      "the actress"
+    ],
+    "movie": [
+      "this whole movie"
+    ],
+    "song": [
+      "this song"
+    ],
+    "video": [
+      "the video"
+    ]
+  }
+}

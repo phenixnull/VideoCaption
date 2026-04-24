@@ -1,0 +1,39 @@
+{
+  "video_objs": {
+    "man": [
+      "a man falling out off",
+      "a drunk man is falling",
+      "a drunken man falls",
+      "a man falls",
+      "a man falls off",
+      "a man holding"
+    ],
+    "bike": [
+      "off a bike",
+      "with a bike"
+    ],
+    "road": [
+      "of a road",
+      "from the road",
+      "on a road"
+    ],
+    "ditch": [
+      "into a ditch"
+    ],
+    "sign": [
+      "on a sign",
+      "man accidentally breaks a street sign"
+    ],
+    "person": [
+      "a person is trying",
+      "a person falls off",
+      "a person is falling"
+    ],
+    "pole": [
+      "use a pole"
+    ],
+    "cycle": [
+      "with a cycle"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "video_objs": {
+    "boy": [
+      "a boy kneeling",
+      "a boy dances",
+      "a boy is dancing",
+      "the boy danced",
+      "the boy is dancing",
+      "a boy is singing and dancing",
+      "a boy enjoying and dancing",
+      "a boy dancing"
+    ],
+    "bench": [
+      "a bench"
+    ],
+    "guy": [
+      "a guy is dancing"
+    ],
+    "kid": [
+      "a kid is dancing"
+    ],
+    "man": [
+      "a man dances",
+      "a man is dancing",
+      "the man is dancing"
+    ],
+    "person": [
+      "a person is dancing"
+    ],
+    "student": [
+      "a crazy student dancing"
+    ],
+    "teenager": [
+      "a teenager is danging"
+    ],
+    "garden": [
+      "in a garden"
+    ],
+    "park": [
+      "in the park"
+    ]
+  }
+}

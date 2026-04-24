@@ -1,0 +1,42 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman peels",
+      "a woman is peeling",
+      "the woman is peeling"
+    ],
+    "onion": [
+      "a small onion",
+      "an onion"
+    ],
+    "garlic": [
+      "a garlic",
+      "some garlic",
+      "garlic",
+      "the garlic"
+    ],
+    "clove": [
+      "a clove"
+    ],
+    "fingers": [
+      "her fingers"
+    ],
+    "knife": [
+      "a knife"
+    ],
+    "lady": [
+      "the lady peeled",
+      "a lady making",
+      "the lady is mashing"
+    ],
+    "dish": [
+      "a dish"
+    ],
+    "kitchen": [
+      "the kitchen"
+    ],
+    "man": [
+      "a man"
+    ]
+  }
+}

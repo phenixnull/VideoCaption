@@ -1,0 +1,61 @@
+{
+  "video_objs": {
+    "oil": [
+      "someone is pouring oil",
+      "is pouring oil",
+      "someone is pouring cooking oil",
+      "is adding oil",
+      "some cooking oil",
+      "pouring some oil"
+    ],
+    "kettle": [
+      "into a kettle"
+    ],
+    "person": [
+      "a person pours",
+      "a person is pouring",
+      "a person is making"
+    ],
+    "pot": [
+      "in a pot",
+      "into a pot",
+      "to a pot",
+      "to the pot",
+      "into the pot",
+      "int the pot"
+    ],
+    "man": [
+      "a man pours",
+      "a man is adding",
+      "the man added",
+      "the man is pouring",
+      "a man pours some cooking",
+      "the man poured",
+      "a man is pouring some",
+      "a man cooking his"
+    ],
+    "pan": [
+      "in a pan",
+      "into a pan"
+    ],
+    "bowl": [
+      "to a bowl",
+      "to the bowl"
+    ],
+    "liquid": [
+      "someone is pouring liquid"
+    ],
+    "broth": [
+      "someone is pouring broth"
+    ],
+    "women": [
+      "the women is cooking"
+    ],
+    "lady": [
+      "the lady poured"
+    ],
+    "kichen": [
+      "cooking his kichen"
+    ]
+  }
+}

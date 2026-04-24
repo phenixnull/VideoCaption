@@ -1,0 +1,49 @@
+{
+  "video_objs": {
+    "man": [
+      "a young man is running",
+      "a man runs",
+      "a man is running",
+      "a man is running down",
+      "a man is running next",
+      "a man is running after",
+      "the man raced"
+    ],
+    "truck": [
+      "a truck being driven",
+      "a truck",
+      "a truck drives past",
+      "a white truck emerges",
+      "the truck drove past"
+    ],
+    "road": [
+      "down the road",
+      "down a road",
+      "on a road",
+      "on the road"
+    ],
+    "bus": [
+      "a bus",
+      "the bus"
+    ],
+    "van": [
+      "a moving van",
+      "the van"
+    ],
+    "street": [
+      "down a street"
+    ],
+    "person": [
+      "the person"
+    ],
+    "car": [
+      "the car"
+    ],
+    "girl": [
+      "the girl"
+    ],
+    "boy": [
+      "the boy"
+    ]
+  }
+}

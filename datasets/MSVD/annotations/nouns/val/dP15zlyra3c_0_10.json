@@ -1,0 +1,34 @@
+{
+  "video_objs": {
+    "fox": [
+      "a fox is slowly walking",
+      "a fox is walking",
+      "a fox is stepping very slowly",
+      "a fox is walking slowly",
+      "a fox is stepping slowly",
+      "a fox is walking through",
+      "a fox is walking along",
+      "the fox hunted"
+    ],
+    "snow": [
+      "in the snow",
+      "in snow",
+      "on snow",
+      "through the snow",
+      "on the snow",
+      "through snow"
+    ],
+    "wolf": [
+      "a wolf is looking",
+      "wolf",
+      "a wolf is walking"
+    ],
+    "animal": [
+      "an animal walks slowly",
+      "an animal is walkign"
+    ],
+    "ice": [
+      "in the ice"
+    ]
+  }
+}

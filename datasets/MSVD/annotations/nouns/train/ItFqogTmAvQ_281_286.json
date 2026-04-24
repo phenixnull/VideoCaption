@@ -1,0 +1,43 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman is standing talking",
+      "a woman is talking",
+      "a woman is singing",
+      "a woman talks",
+      "a woman talking",
+      "the woman is talking"
+    ],
+    "man": [
+      "a man and",
+      "to the man",
+      "the man and"
+    ],
+    "phone": [
+      "on the phone"
+    ],
+    "mobile": [
+      "on their mobile"
+    ],
+    "people": [
+      "two people are talking"
+    ],
+    "girl": [
+      "the girl talked",
+      "a girl is singing",
+      "a girl are speaking"
+    ],
+    "simbu": [
+      "tamil film thirisha and simbu sing and dance"
+    ],
+    "lady": [
+      "a lady is talking"
+    ],
+    "boy": [
+      "with a boy"
+    ],
+    "lover": [
+      "with her lover"
+    ]
+  }
+}

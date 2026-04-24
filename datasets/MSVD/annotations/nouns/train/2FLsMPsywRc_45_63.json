@@ -1,0 +1,75 @@
+{
+  "video_objs": {
+    "fish": [
+      "a fish is being fried",
+      "a fish has been fried",
+      "fish is being fried",
+      "frying fish",
+      "a fish is getting fried",
+      "a fish is shallow fried",
+      "a whole fish is being seared",
+      "preparing some fish",
+      "frying a fish",
+      "a cook prepares a whole fish",
+      "a whole fish",
+      "is preparing fish",
+      "a large fish is being cooked",
+      "making a fish",
+      "a fish is fried",
+      "someone is frying fish",
+      "fish is moved",
+      "someone is frying a whole fish"
+    ],
+    "pan": [
+      "a pan",
+      "a frying pan"
+    ],
+    "person": [
+      "a person cocking",
+      "a person is preparing some",
+      "the person is frying",
+      "a person is making",
+      "a person is frying"
+    ],
+    "oil": [
+      "in oil"
+    ],
+    "plate": [
+      "a plate"
+    ],
+    "man": [
+      "a man is making",
+      "a man cooking",
+      "a man fries"
+    ],
+    "dish": [
+      "a serving dish",
+      "the dish"
+    ],
+    "woman": [
+      "a woman is cooking",
+      "a woman is frying"
+    ],
+    "wok": [
+      "a wok"
+    ],
+    "skillet": [
+      "a skillet"
+    ],
+    "chef": [
+      "a chef cooks"
+    ],
+    "girl": [
+      "a girl is preparing"
+    ],
+    "platter": [
+      "a platter"
+    ],
+    "stove": [
+      "the stove"
+    ],
+    "butter": [
+      "butter"
+    ]
+  }
+}

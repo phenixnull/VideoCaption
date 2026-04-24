@@ -1,0 +1,56 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman is carrying a huge",
+      "a woman is carrying",
+      "a young woman is carrying a huge",
+      "a woman is taking out",
+      "a woman is carrying a large",
+      "a woman takes"
+    ],
+    "cans": [
+      "of empty cans"
+    ],
+    "bag": [
+      "a bag",
+      "a huge bag full",
+      "a large bag",
+      "a heavy bag",
+      "a bag full"
+    ],
+    "girl": [
+      "a girl is carrying a large",
+      "a girl carries a heavy",
+      "a girl is carrying",
+      "the girl is carrying a platic",
+      "the girl brought",
+      "a girl is taking some"
+    ],
+    "garage": [
+      "through a garage"
+    ],
+    "room": [
+      "across a room",
+      "in the room"
+    ],
+    "bagful": [
+      "a bagful"
+    ],
+    "wastage": [
+      "the women is collecting the wastage"
+    ],
+    "items": [
+      "taking some items"
+    ],
+    "lady": [
+      "the lady is carry",
+      "a lady walkin"
+    ],
+    "packet": [
+      "a packet"
+    ],
+    "bottles": [
+      "of empty bottles"
+    ]
+  }
+}

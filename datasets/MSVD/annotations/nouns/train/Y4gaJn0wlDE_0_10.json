@@ -1,0 +1,56 @@
+{
+  "video_objs": {
+    "paw": [
+      "cleaning its paw",
+      "licking its paw",
+      "licking his paw",
+      "with its paw",
+      "with his paw",
+      "licked its paw",
+      "cleaned its paw"
+    ],
+    "bunny": [
+      "a bunny is cleaning its",
+      "a bunny is licking its",
+      "a small bunny is licking its",
+      "the bunny is cleaning its",
+      "the little bunny cleaned his"
+    ],
+    "rabbit": [
+      "a rabbit eats something",
+      "a rabbit is grooming itself",
+      "a rabbit is licking his",
+      "a rabbit is licking its",
+      "a rabbit is playing",
+      "a rabbit is rubbing its",
+      "a rabbit licks its",
+      "a small rabbit is licking it s",
+      "the rabbit is licking its",
+      "the rabbit licked its",
+      "the rabbit is eating",
+      "a rabbit looks cute",
+      "the rabbit cleaned its",
+      "a rabbit cleans one",
+      "a cute rabbit is eating"
+    ],
+    "carpet": [
+      "on a carpet"
+    ],
+    "face": [
+      "rubbing its face",
+      "cleaned his face"
+    ],
+    "paws": [
+      "the rabby it licking its paws"
+    ],
+    "legs": [
+      "it s legs"
+    ],
+    "animal": [
+      "an animal licks its"
+    ],
+    "palm": [
+      "licking its palm"
+    ]
+  }
+}

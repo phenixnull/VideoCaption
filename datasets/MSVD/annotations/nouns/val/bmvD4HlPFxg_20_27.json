@@ -1,0 +1,52 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman drops down",
+      "a woman climbs down",
+      "a woman slides down",
+      "a woman is hanging",
+      "a woman is climbing down",
+      "a woman swings down",
+      "a woman is descending"
+    ],
+    "vine": [
+      "down a vine",
+      "on a vine",
+      "from a vine"
+    ],
+    "cage": [
+      "by a cage",
+      "near the cage"
+    ],
+    "rope": [
+      "down a rope",
+      "in a rope",
+      "using the rope"
+    ],
+    "hairdo": [
+      "a weird hairdo"
+    ],
+    "creeper": [
+      "down a creeper"
+    ],
+    "ground": [
+      "on the ground"
+    ],
+    "lady": [
+      "the lady came down",
+      "a lady is coming",
+      "a lady is getting down using"
+    ],
+    "tree": [
+      "down the tree",
+      "from the tree",
+      "on a tree",
+      "from a tree"
+    ],
+    "girl": [
+      "a girl is coming down",
+      "a girl is doing the something",
+      "fliping girl"
+    ]
+  }
+}

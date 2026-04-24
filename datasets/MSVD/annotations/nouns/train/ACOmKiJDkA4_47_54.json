@@ -1,0 +1,75 @@
+{
+  "video_objs": {
+    "girl": [
+      "a girl preparing food"
+    ],
+    "man": [
+      "a man is chopping",
+      "a man chops",
+      "a man is chopping up some",
+      "a man is cutting up",
+      "a man is slicing a long",
+      "a man is slicing",
+      "a man is slicing some long green onions",
+      "the man chopped",
+      "the man is chopping spring"
+    ],
+    "chef": [
+      "a chef cutting",
+      "a chef dicing",
+      "a chef is chopping",
+      "a chef dices"
+    ],
+    "onion": [
+      "dices an onion",
+      "chopping onion"
+    ],
+    "scallions": [
+      "scallions are being sliced",
+      "woman is dicing scallions"
+    ],
+    "vegetable": [
+      "chopping a vegetable",
+      "a cook is cutting a vegetable",
+      "chopped the vegetable"
+    ],
+    "leeks": [
+      "up some leeks"
+    ],
+    "scallion": [
+      "up a scallion",
+      "someone cutting a scallion"
+    ],
+    "stalk": [
+      "a long stalk"
+    ],
+    "person": [
+      "a person is chopping up",
+      "a person is chopping up a spring",
+      "a person is dicing",
+      "the person is cutting"
+    ],
+    "celery": [
+      "a small celery",
+      "is slicing celery",
+      "celery is cut",
+      "someone is cutting up celery"
+    ],
+    "woman": [
+      "a woman chopping",
+      "a woman is cutting",
+      "a woman is cutting a long",
+      "a woman is slicing",
+      "woman is dicing"
+    ],
+    "beans": [
+      "is slicing beans"
+    ],
+    "asparagus": [
+      "chef cutting asparagus"
+    ],
+    "knife": [
+      "a flat knife"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "video_objs": {
+    "cowboy": [
+      "a cowboy pushes",
+      "a cowboy is holding up",
+      "the cowboy is holding up"
+    ],
+    "pistols": [
+      "two pistols"
+    ],
+    "man": [
+      "another man s",
+      "a man points",
+      "a man is holding his hands up",
+      "a man is threatening",
+      "a man is holding",
+      "a man is pointing",
+      "a man holds",
+      "a man show",
+      "a man threatening",
+      "a man threatens",
+      "a man is trying"
+    ],
+    "guns": [
+      "two guns",
+      "guns"
+    ],
+    "guy": [
+      "a guy is holding a gun"
+    ],
+    "men": [
+      "two men are exchanging"
+    ],
+    "dialogues": [
+      "exchanging dialogues"
+    ],
+    "stagecoach": [
+      "up the stagecoach"
+    ],
+    "oldwomen": [
+      "a oldwomen gun"
+    ],
+    "group": [
+      "a group"
+    ],
+    "revolvers": [
+      "two revolvers"
+    ],
+    "persons": [
+      "two persons are acting"
+    ],
+    "movie": [
+      "the movie"
+    ]
+  }
+}

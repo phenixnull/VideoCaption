@@ -1,0 +1,87 @@
+{
+  "video_objs": {
+    "girl": [
+      "a girl making",
+      "a girl is preparing some",
+      "a girl is cooking",
+      "a girl is scooping out an avacado",
+      "a girl is scooping out",
+      "a girl is scooping out the inside",
+      "a girl is scooping",
+      "a girl pits"
+    ],
+    "food": [
+      "preparing some food"
+    ],
+    "avocado": [
+      "out an avocado",
+      "pits an avocado",
+      "is scooping avocado",
+      "scooping an avocado",
+      "of an avocado"
+    ],
+    "lime": [
+      "of a lime",
+      "out a lime",
+      "juicing a lime",
+      "scooping a lime"
+    ],
+    "pulp": [
+      "scooping the pulp",
+      "taking out pulp"
+    ],
+    "spoon": [
+      "with a spoon",
+      "uses a spoon"
+    ],
+    "blender": [
+      "inside a blender",
+      "in the blender",
+      "to a blender",
+      "into the blender"
+    ],
+    "fruit": [
+      "scooping a fruit",
+      "from the fruit"
+    ],
+    "ingredient": [
+      "put the ingredient"
+    ],
+    "kitchen": [
+      "in the kitchen",
+      "in a kitchen"
+    ],
+    "bowl": [
+      "from a bowl"
+    ],
+    "lemon": [
+      "squeezing a lemon"
+    ],
+    "skin": [
+      "of its skin"
+    ],
+    "peel": [
+      "of its peel"
+    ],
+    "mixer": [
+      "in the mixer"
+    ],
+    "juicer": [
+      "into a juicer"
+    ],
+    "baby": [
+      "a baby is cooking"
+    ],
+    "vegetables": [
+      "puts some vegetables"
+    ],
+    "child": [
+      "a child scoops",
+      "the child was preparing the cooking"
+    ],
+    "autumn": [
+      "cooking wtih autumn",
+      "the cooking autumn"
+    ]
+  }
+}

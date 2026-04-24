@@ -1,0 +1,36 @@
+{
+  "video_objs": {
+    "lady": [
+      "the lady is filing her",
+      "the lady filed her",
+      "a lady giving shape"
+    ],
+    "nails": [
+      "filing her nails",
+      "shaping her nails",
+      "files her nails"
+    ],
+    "fingernails": [
+      "filing their fingernails",
+      "filing her fingernails"
+    ],
+    "person": [
+      "a person is filing her",
+      "a person uses",
+      "the person is polishing"
+    ],
+    "woman": [
+      "a woman is filing her",
+      "a woman is filing her fingernail using",
+      "a woman is shaping her",
+      "a woman files her",
+      "a woman is styling her",
+      "the woman is filing her",
+      "a woman is filing her long"
+    ],
+    "girl": [
+      "a girl is filing her",
+      "a girl is correcting her"
+    ]
+  }
+}

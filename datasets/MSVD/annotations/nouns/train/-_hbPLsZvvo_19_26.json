@@ -1,0 +1,72 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman is cutting",
+      "a woman is slicing",
+      "a woman cuts up",
+      "the woman is slicing",
+      "a woman is dicing"
+    ],
+    "vegetable": [
+      "a vegetable",
+      "the vegetable"
+    ],
+    "man": [
+      "a man cuts",
+      "a man is slicing",
+      "a man cutting",
+      "the man is slicing",
+      "a man is cutting"
+    ],
+    "piece": [
+      "a piece"
+    ],
+    "zucchini": [
+      "cutting zucchini",
+      "chef cutting zucchini"
+    ],
+    "person": [
+      "a person is slicing",
+      "a person cuts up",
+      "a person is cutting"
+    ],
+    "cucumber": [
+      "is slicing cucumber",
+      "someone sliced a cucumber",
+      "slicing a cucumber",
+      "up a cucumber",
+      "someone is cutting up a cucumber",
+      "sliced the cucumber",
+      "sliced a cucumber",
+      "cutting a cucumber",
+      "cutting the cucumber",
+      "someone chops cucumber"
+    ],
+    "pieces": [
+      "small pieces",
+      "pieces"
+    ],
+    "chef": [
+      "a chef is slicing",
+      "chef cutting"
+    ],
+    "knife": [
+      "with a knife"
+    ],
+    "fruit": [
+      "someone is slicing fruit"
+    ],
+    "lady": [
+      "the lady sliced"
+    ],
+    "slices": [
+      "someone cutting the slices"
+    ],
+    "semicircles": [
+      "small semicircles"
+    ],
+    "guy": [
+      "a guy is slicing"
+    ]
+  }
+}

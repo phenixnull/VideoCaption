@@ -1,0 +1,49 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman fires",
+      "a woman is firing a riffle",
+      "a woman is firing",
+      "a woman is shooting",
+      "a woman shoots",
+      "a woman standing",
+      "a woman wearing"
+    ],
+    "girl": [
+      "a girl is shooting",
+      "the girl loaded and shot her",
+      "the girl shot",
+      "a girl shooting"
+    ],
+    "gun": [
+      "shooting a gun",
+      "with a gun"
+    ],
+    "rifle": [
+      "holding a rifle",
+      "shot her rifle",
+      "shooting a rifle",
+      "shot the rifle"
+    ],
+    "bullets": [
+      "and firing bullets"
+    ],
+    "headset": [
+      "wearing a headset"
+    ],
+    "target": [
+      "at a target"
+    ],
+    "person": [
+      "the person is shooting"
+    ],
+    "weapon": [
+      "firing a weapon"
+    ],
+    "lady": [
+      "a lady doing some sort",
+      "a lady aiming",
+      "the lady cocked and shot"
+    ]
+  }
+}

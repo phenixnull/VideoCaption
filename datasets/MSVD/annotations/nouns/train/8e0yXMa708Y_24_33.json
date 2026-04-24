@@ -1,0 +1,63 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman is quickly climbing",
+      "a woman is climbing",
+      "a woman climbs"
+    ],
+    "cliff": [
+      "a steep cliff",
+      "a cliff",
+      "a vertical cliff",
+      "the cliff",
+      "of a cliff"
+    ],
+    "man": [
+      "a man climbs",
+      "a man is climbing",
+      "the man is climbing",
+      "a man is",
+      "the man is climing"
+    ],
+    "rock": [
+      "climbing a rock",
+      "someone is climbing a rock"
+    ],
+    "hill": [
+      "climbing a hill",
+      "on the hill",
+      "on a hill"
+    ],
+    "person": [
+      "a person is climbing",
+      "a person quickly climbs"
+    ],
+    "girl": [
+      "a girl is climbing",
+      "the girl is trying"
+    ],
+    "lady": [
+      "the lady climed",
+      "the lady climbed",
+      "the lady climbed up",
+      "one lady is climbing"
+    ],
+    "mountain": [
+      "climbing the mountain",
+      "climbs a mountain",
+      "up the mountain",
+      "is climbing mountain",
+      "on the mountain",
+      "up a mountain"
+    ],
+    "upland": [
+      "to the upland"
+    ],
+    "women": [
+      "the women is climbing"
+    ],
+    "face": [
+      "the face"
+    ]
+  }
+}

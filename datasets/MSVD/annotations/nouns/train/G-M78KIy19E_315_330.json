@@ -1,0 +1,60 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is felling",
+      "a man is cutting",
+      "a man is chopping",
+      "a man cuts",
+      "a man chopped",
+      "a man is using",
+      "a man approaching",
+      "a man is describing"
+    ],
+    "tree": [
+      "a tree",
+      "the tree",
+      "a felled tree"
+    ],
+    "trunk": [
+      "a trunk"
+    ],
+    "axe": [
+      "an axe",
+      "axe",
+      "a axe",
+      "axe tool",
+      "the axe"
+    ],
+    "wood": [
+      "wood",
+      "the wood",
+      "the wood using"
+    ],
+    "log": [
+      "a log",
+      "a fallen log"
+    ],
+    "men": [
+      "a men cut",
+      "a men cuting"
+    ],
+    "guy": [
+      "guy chops"
+    ],
+    "ax": [
+      "an ax",
+      "a ax"
+    ],
+    "branch": [
+      "branch"
+    ],
+    "person": [
+      "the person is cutting",
+      "a person cutting",
+      "a person is ctting"
+    ],
+    "trees": [
+      "the trees"
+    ]
+  }
+}

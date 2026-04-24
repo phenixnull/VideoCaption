@@ -1,0 +1,50 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman carrying",
+      "a woman puts",
+      "a woman is putting",
+      "a woman put",
+      "a woman places"
+    ],
+    "baby": [
+      "a baby",
+      "a small baby",
+      "the baby",
+      "a baby being dropped",
+      "a baby is being placed"
+    ],
+    "trashcan": [
+      "a trashcan"
+    ],
+    "girl": [
+      "a young girl",
+      "a girl",
+      "the girl"
+    ],
+    "child": [
+      "a small child"
+    ],
+    "dustbin": [
+      "a dustbin"
+    ],
+    "lady": [
+      "the lady"
+    ],
+    "terrorists": [
+      "some terrorists"
+    ],
+    "town": [
+      "a town"
+    ],
+    "movie": [
+      "the movie"
+    ],
+    "tub": [
+      "a tub"
+    ],
+    "boy": [
+      "a small boy"
+    ]
+  }
+}

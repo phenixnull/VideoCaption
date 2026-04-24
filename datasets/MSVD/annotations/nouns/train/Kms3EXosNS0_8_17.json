@@ -1,0 +1,46 @@
+{
+  "video_objs": {
+    "chef": [
+      "a chef pealing",
+      "a chef is peeling",
+      "a chef peels",
+      "an elderly chef is peeling",
+      "the chef peeled"
+    ],
+    "onion": [
+      "pealing a onion"
+    ],
+    "apple": [
+      "a apple is being skinned",
+      "peeling an apple",
+      "peels an apple",
+      "of an apple"
+    ],
+    "man": [
+      "a man is peeling",
+      "a man is shown peeling",
+      "a man peels"
+    ],
+    "skin": [
+      "peeling the skin"
+    ],
+    "peeler": [
+      "using a peeler"
+    ],
+    "potatoes": [
+      "slicing potatoes",
+      "potatoes being chopped"
+    ],
+    "person": [
+      "a person is cutting",
+      "a person slicing",
+      "a person is peeling"
+    ],
+    "slices": [
+      "is cutting slices"
+    ],
+    "food": [
+      "is cutting food"
+    ]
+  }
+}

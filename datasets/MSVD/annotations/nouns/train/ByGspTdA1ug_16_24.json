@@ -1,0 +1,59 @@
+{
+  "video_objs": {
+    "person": [
+      "a person is sliding",
+      "a person is pushing a sleeping",
+      "a person is playing",
+      "a person is dragging",
+      "a person pushes"
+    ],
+    "cat": [
+      "a cat is sliding",
+      "cat is very happy",
+      "the sleeping cat",
+      "a cat enjoying its",
+      "a cat lies limp",
+      "a cat is being pushed",
+      "a cat is being slid",
+      "the cat"
+    ],
+    "floor": [
+      "the floor"
+    ],
+    "girl": [
+      "the girl is pushing the sleeping"
+    ],
+    "man": [
+      "a man pushing",
+      "a man wipes",
+      "a man is pushing",
+      "a man is sweeping",
+      "a man is shifting",
+      "a man is sliding",
+      "a man pushes"
+    ],
+    "corridor": [
+      "the corridor"
+    ],
+    "women": [
+      "a women is sliding",
+      "a women is stressing acat"
+    ],
+    "boy": [
+      "boy is cleaning",
+      "boy cleaning"
+    ],
+    "ride": [
+      "its ride"
+    ],
+    "guy": [
+      "a guy is pushing"
+    ],
+    "owner": [
+      "the owner"
+    ],
+    "lady": [
+      "a lady is dragging a lying"
+    ]
+  }
+}

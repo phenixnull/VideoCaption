@@ -1,0 +1,83 @@
+{
+  "video_objs": {
+    "boy": [
+      "a boy is dribbling",
+      "a boy is kicking",
+      "a boy keeping",
+      "a boy is playing",
+      "a boy is moving",
+      "a boy doing some sort",
+      "a boy bounces"
+    ],
+    "ball": [
+      "dribbling a ball",
+      "kicking a ball",
+      "with a ball",
+      "keeping a ball",
+      "keep a ball",
+      "kept a ball",
+      "kept the ball",
+      "bounces a ball"
+    ],
+    "guy": [
+      "a guy plays",
+      "a guy is showing some",
+      "a guy is kicking",
+      "a guy is playing"
+    ],
+    "man": [
+      "a man is doing tricks",
+      "a man is keeping",
+      "a man is performing some tricks",
+      "a man uses his feet",
+      "a man uses some fancy kicks",
+      "the man is kicking and playing",
+      "the man kept",
+      "a man is playing",
+      "a man is tapping",
+      "a man showing some kind",
+      "a man is performing",
+      "a man spins and bounces"
+    ],
+    "crowd": [
+      "of a crowd"
+    ],
+    "person": [
+      "the person is playing"
+    ],
+    "hands": [
+      "with his hands"
+    ],
+    "competition": [
+      "a competition involving the ability"
+    ],
+    "skills": [
+      "showing some skills"
+    ],
+    "norway": [
+      "in norway two young"
+    ],
+    "exhibition": [
+      "at an exhibition"
+    ],
+    "boys": [
+      "two boys are performing"
+    ],
+    "leg": [
+      "with his leg"
+    ],
+    "men": [
+      "a men playing",
+      "a men give"
+    ],
+    "game": [
+      "playing a game"
+    ],
+    "audience": [
+      "for an audience"
+    ],
+    "presentation": [
+      "give the presentation"
+    ]
+  }
+}

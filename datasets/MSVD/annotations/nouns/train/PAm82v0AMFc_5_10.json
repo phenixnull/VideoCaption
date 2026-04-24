@@ -1,0 +1,63 @@
+{
+  "video_objs": {
+    "someone": [
+      "someone is riding"
+    ],
+    "horse": [
+      "a white horse",
+      "a horse",
+      "the horse"
+    ],
+    "person": [
+      "a person rides",
+      "a person is riding",
+      "the person",
+      "the person is riding"
+    ],
+    "man": [
+      "a man is riding",
+      "a man rides",
+      "a man ridding",
+      "a man practicing"
+    ],
+    "woman": [
+      "a woman is riding",
+      "a woman rides",
+      "the woman is riding"
+    ],
+    "girl": [
+      "a girl is riding"
+    ],
+    "rider": [
+      "horse rider"
+    ],
+    "paddock": [
+      "around a paddock"
+    ],
+    "ground": [
+      "on an enclosed ground"
+    ],
+    "area": [
+      "in a fenced area"
+    ],
+    "lady": [
+      "a lady is riding"
+    ],
+    "mickey": [
+      "a mickey",
+      "mickey"
+    ],
+    "pen": [
+      "in the pen"
+    ],
+    "peoples": [
+      "peoples are riding"
+    ],
+    "men": [
+      "men are riding"
+    ],
+    "dressage": [
+      "dressage"
+    ]
+  }
+}

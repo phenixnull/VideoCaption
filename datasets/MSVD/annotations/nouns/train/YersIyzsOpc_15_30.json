@@ -1,0 +1,44 @@
+{
+  "video_objs": {
+    "man": [
+      "a young man",
+      "a man",
+      "the man"
+    ],
+    "bedroom": [
+      "a bedroom",
+      "his bedroom",
+      "the bedroom"
+    ],
+    "boy": [
+      "a boy",
+      "the boy"
+    ],
+    "room": [
+      "a room",
+      "his room"
+    ],
+    "bed": [
+      "the bed",
+      "his bed"
+    ],
+    "guy": [
+      "a guy"
+    ],
+    "door": [
+      "someone closes a door"
+    ],
+    "bedsheets": [
+      "his bedsheets"
+    ],
+    "head": [
+      "his head"
+    ],
+    "men": [
+      "the men"
+    ],
+    "person": [
+      "a person"
+    ]
+  }
+}

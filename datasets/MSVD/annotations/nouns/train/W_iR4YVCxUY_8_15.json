@@ -1,0 +1,26 @@
+{
+  "video_objs": {
+    "toy": [
+      "on a toy",
+      "chews his toy",
+      "with a toy",
+      "chewed a toy"
+    ],
+    "dog": [
+      "a dog chews his",
+      "a dog chews",
+      "a dog is chewing",
+      "a dog is eating",
+      "a dog is playing",
+      "a dog is trying"
+    ],
+    "doll": [
+      "eating a doll",
+      "biting a doll"
+    ],
+    "bed": [
+      "smelling the bed",
+      "on a bed"
+    ]
+  }
+}

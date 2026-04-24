@@ -1,0 +1,55 @@
+{
+  "video_objs": {
+    "man": [
+      "a man demonstrating",
+      "a man brushes off",
+      "a man holding",
+      "a man is brushing",
+      "a man is brushing or patting",
+      "a man is knocking",
+      "a man is rubbing",
+      "a man showed"
+    ],
+    "flower": [
+      "a flower",
+      "clean a flower"
+    ],
+    "roots": [
+      "the roots",
+      "off the roots"
+    ],
+    "sunflower": [
+      "a sunflower"
+    ],
+    "hand": [
+      "his hand",
+      "with his hand",
+      "in his hand"
+    ],
+    "sunflowers": [
+      "dead sunflowers",
+      "huge sunflowers",
+      "two sunflowers",
+      "showing sunflowers",
+      "dry sunflowers",
+      "holding some sunflowers",
+      "picking some sunflowers",
+      "holding two sunflowers"
+    ],
+    "seeds": [
+      "seeds"
+    ],
+    "garden": [
+      "garden"
+    ],
+    "farm": [
+      "farm",
+      "from a farm"
+    ],
+    "flowers": [
+      "flowers",
+      "showing flowers",
+      "talking about flowers"
+    ]
+  }
+}

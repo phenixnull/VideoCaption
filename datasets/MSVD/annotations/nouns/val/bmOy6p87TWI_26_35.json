@@ -1,0 +1,54 @@
+{
+  "video_objs": {
+    "man": [
+      "a man has",
+      "a man",
+      "the man talked",
+      "a man having scars",
+      "a man enquires about the delivery",
+      "a man is talking",
+      "a man talks"
+    ],
+    "boy": [
+      "the boy confronted",
+      "with a boy"
+    ],
+    "dad": [
+      "his dad",
+      "to his dad"
+    ],
+    "men": [
+      "the men are having",
+      "two men are having a discussion",
+      "two men are speaking",
+      "two men are talking",
+      "men are talking",
+      "two men"
+    ],
+    "people": [
+      "two people talk"
+    ],
+    "face": [
+      "his face"
+    ],
+    "persons": [
+      "two persons having",
+      "two persons doing conversion"
+    ],
+    "conversation": [
+      "a conversation"
+    ],
+    "actor": [
+      "actor kamala haashan is speaking"
+    ],
+    "restaurant": [
+      "outside the restaurant"
+    ],
+    "guys": [
+      "two guys are talking"
+    ],
+    "person": [
+      "two person talking"
+    ]
+  }
+}

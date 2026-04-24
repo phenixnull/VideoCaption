@@ -1,0 +1,65 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman is filling",
+      "a woman is collecting",
+      "a woman makes kool aid",
+      "a woman is making kool aid",
+      "a woman is taking",
+      "a woman cooking her kichen"
+    ],
+    "pitcher": [
+      "filling a pitcher",
+      "someone is filling a pitcher",
+      "up a pitcher",
+      "filled a pitcher",
+      "fills a pitcher",
+      "a pitcher is being filled",
+      "into a pitcher",
+      "in the pitcher"
+    ],
+    "water": [
+      "is collecting water",
+      "is filling water",
+      "water is being filled",
+      "collecting water",
+      "water is been take"
+    ],
+    "boy": [
+      "a boy is filling"
+    ],
+    "person": [
+      "a person fills",
+      "a person is filling",
+      "a person is filling up",
+      "the person is filling up",
+      "the person is filling",
+      "the person is putting"
+    ],
+    "mug": [
+      "in a mug"
+    ],
+    "container": [
+      "someone is filling a plastic container",
+      "in a container"
+    ],
+    "man": [
+      "a man adding",
+      "a man filled",
+      "a man is filling up",
+      "a man is taking"
+    ],
+    "jug": [
+      "filling a jug",
+      "someone is filling a jug",
+      "in a jug"
+    ],
+    "kid": [
+      "kid pours"
+    ],
+    "tap": [
+      "the kitchen tap",
+      "is collecting tap"
+    ]
+  }
+}

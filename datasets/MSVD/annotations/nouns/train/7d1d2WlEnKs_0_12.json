@@ -1,0 +1,40 @@
+{
+  "video_objs": {
+    "kitten": [
+      "a kitten comes out",
+      "a kitten is going",
+      "a kitten is sliding",
+      "a kitten gets stuck",
+      "a kitten is stuck",
+      "a kitten jumps",
+      "a sweet kitten is playing",
+      "a kitten slides"
+    ],
+    "cat": [
+      "a cat hides",
+      "a cat runs",
+      "a cat is playing"
+    ],
+    "box": [
+      "a box"
+    ],
+    "floor": [
+      "on the floor"
+    ],
+    "container": [
+      "an empty container"
+    ],
+    "hole": [
+      "the hole"
+    ],
+    "drawer": [
+      "a drawer"
+    ],
+    "envelope": [
+      "an envelope"
+    ],
+    "hardpaper": [
+      "hardpaper"
+    ]
+  }
+}

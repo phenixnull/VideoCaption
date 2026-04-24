@@ -1,0 +1,55 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is pushing",
+      "the man pushed",
+      "the man is pushing",
+      "a man pushes"
+    ],
+    "van": [
+      "pushing a van",
+      "pushes a van",
+      "a heavy van",
+      "pushed a van",
+      "pushing the van",
+      "a big van"
+    ],
+    "cameramen": [
+      "cameramen"
+    ],
+    "person": [
+      "a person pushes",
+      "a person is pushing",
+      "the person is pushing",
+      "the person is throwing"
+    ],
+    "bus": [
+      "pushing a bus"
+    ],
+    "vehicle": [
+      "pushing a vehicle",
+      "someone is pushing a vehicle",
+      "the heavy vehicle",
+      "a heavy vehicle",
+      "pushing the vehicle"
+    ],
+    "boy": [
+      "a boy is pushing"
+    ],
+    "child": [
+      "a child pushes a heavy"
+    ],
+    "car": [
+      "pushing a car",
+      "throwing the car"
+    ],
+    "kid": [
+      "a kid has push",
+      "a kid pushes",
+      "a strong kid pushing a heavy"
+    ],
+    "trolley": [
+      "push the trolley"
+    ]
+  }
+}

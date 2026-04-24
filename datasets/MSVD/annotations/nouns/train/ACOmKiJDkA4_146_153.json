@@ -1,0 +1,72 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman is pulling apart",
+      "a woman shreds",
+      "a woman is pulling",
+      "a woman is breaking",
+      "a woman is tearing apart",
+      "a woman is tearing",
+      "a woman splits",
+      "the woman is shredding"
+    ],
+    "piece": [
+      "a cooked piece",
+      "a piece"
+    ],
+    "fish": [
+      "is shredding fish",
+      "apart some fish",
+      "shredded the fish",
+      "breaking a fish",
+      "breaking the fish",
+      "is pulling fish",
+      "apart cooked fish"
+    ],
+    "skin": [
+      "pulling the skin"
+    ],
+    "person": [
+      "a person is shredding"
+    ],
+    "chef": [
+      "a chef is pulling apart",
+      "a chef is making"
+    ],
+    "slice": [
+      "apart a slice"
+    ],
+    "salmon": [
+      "someone is breaking some salmon",
+      "is shredding salmon",
+      "is tearing salmon"
+    ],
+    "meat": [
+      "someone is tearing meat",
+      "someone is pulling meat apart",
+      "splits some meat"
+    ],
+    "plate": [
+      "on a plate"
+    ],
+    "lady": [
+      "the lady shredded"
+    ],
+    "strips": [
+      "into small strips"
+    ],
+    "vegetable": [
+      "peeling a vegetable"
+    ],
+    "items": [
+      "there is items"
+    ],
+    "food": [
+      "is making food"
+    ],
+    "man": [
+      "a man coking",
+      "a man is talking about"
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman rides",
+      "a woman is riding",
+      "the woman is riding",
+      "a woman is being led around",
+      "a woman is given a ride"
+    ],
+    "donkey": [
+      "rides a donkey",
+      "rode a donkey",
+      "leading a donkey",
+      "riding a donkey",
+      "on a donkey",
+      "a white donkey"
+    ],
+    "lady": [
+      "a lady rode",
+      "the lady is going",
+      "a lady is riding",
+      "the lady is riding"
+    ],
+    "man": [
+      "a man is leading",
+      "a man is walking",
+      "a man helps",
+      "a man is riding",
+      "a man leading",
+      "a man leads",
+      "a man riding",
+      "a man"
+    ],
+    "person": [
+      "a person tries",
+      "the person is riding",
+      "the person is going"
+    ],
+    "animal": [
+      "ride an animal"
+    ],
+    "field": [
+      "around a field"
+    ],
+    "garden": [
+      "in the garden"
+    ],
+    "men": [
+      "men and"
+    ],
+    "women": [
+      "men and women riding",
+      "the women riding"
+    ],
+    "horse": [
+      "riding a horse",
+      "on a horse",
+      "riding the horse"
+    ],
+    "tourist": [
+      "a tourist is riding"
+    ],
+    "ass": [
+      "is riding ass"
+    ],
+    "people": [
+      "people are riding donkeys",
+      "people were going"
+    ],
+    "girl": [
+      "a girl enjoying",
+      "a girl is riding"
+    ],
+    "guy": [
+      "a guy practice"
+    ]
+  }
+}

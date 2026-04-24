@@ -1,0 +1,47 @@
+{
+  "video_objs": {
+    "girl": [
+      "a girl moves",
+      "a girl and",
+      "a little girl is moving",
+      "the girl and",
+      "and a girl"
+    ],
+    "table": [
+      "a picniclike table one way",
+      "a long table",
+      "moving a table",
+      "kids are moving a table"
+    ],
+    "boy": [
+      "a boy moves it back",
+      "a boy and",
+      "a little boy is moving it back",
+      "a boy is moving",
+      "the boy moved",
+      "the boy and"
+    ],
+    "bench": [
+      "moving a bench"
+    ],
+    "children": [
+      "two children are moving",
+      "two children move",
+      "children move an indoor"
+    ],
+    "room": [
+      "in a room"
+    ],
+    "kids": [
+      "kids are moving",
+      "kids move",
+      "kids are playing"
+    ],
+    "floor": [
+      "accross the floor"
+    ],
+    "person": [
+      "two person are walking together"
+    ]
+  }
+}

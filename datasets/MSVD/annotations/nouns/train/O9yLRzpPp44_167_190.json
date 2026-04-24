@@ -1,0 +1,41 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman is putting",
+      "a woman is painting her",
+      "a woman is applying",
+      "a woman applies",
+      "the woman is applying",
+      "a woman puts"
+    ],
+    "lipstick": [
+      "applying lipstick",
+      "applies lipstick",
+      "putting lipstick",
+      "applied lipstick"
+    ],
+    "brush": [
+      "with a brush"
+    ],
+    "lips": [
+      "painting her lips",
+      "to her lips"
+    ],
+    "girl": [
+      "a girl is putting",
+      "an hispanic girl is applying",
+      "a girl is doing",
+      "the girl applied"
+    ],
+    "makeup": [
+      "applying makeup",
+      "doing makeup"
+    ],
+    "cosmetics": [
+      "applies cosmetics"
+    ],
+    "lady": [
+      "a lady is doing"
+    ]
+  }
+}

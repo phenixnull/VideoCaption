@@ -1,0 +1,75 @@
+{
+  "video_objs": {
+    "flour": [
+      "someone is putting flour",
+      "is adding flour"
+    ],
+    "person": [
+      "a person breads",
+      "a person is breading",
+      "a person is seasoning",
+      "a person is cooking",
+      "a person demonstrates"
+    ],
+    "chef": [
+      "a chef",
+      "chef is making catsu curry"
+    ],
+    "woman": [
+      "a woman",
+      "a woman is adding",
+      "a woman is coating",
+      "a woman is breading some",
+      "a woman coats",
+      "the woman is breading",
+      "a woman adds",
+      "a woman is flouring",
+      "a woman is breading",
+      "a woman seasoning",
+      "a woman is putting"
+    ],
+    "breadcrumbs": [
+      "breadcrumbs"
+    ],
+    "man": [
+      "a man",
+      "a man dredges",
+      "a man is breading some",
+      "a man doing some prepration",
+      "a man cooking his"
+    ],
+    "crust": [
+      "crust"
+    ],
+    "meat": [
+      "meat"
+    ],
+    "dish": [
+      "a dish"
+    ],
+    "mixture": [
+      "a mixture"
+    ],
+    "batter": [
+      "the batter"
+    ],
+    "steak": [
+      "a steak"
+    ],
+    "bowl": [
+      "a bowl"
+    ],
+    "grams": [
+      "the grams"
+    ],
+    "bread": [
+      "the bread"
+    ],
+    "dpg": [
+      "dpg"
+    ],
+    "kichen": [
+      "his kichen"
+    ]
+  }
+}

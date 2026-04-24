@@ -1,0 +1,58 @@
+{
+  "video_objs": {
+    "band": [
+      "a band playing music"
+    ],
+    "umbrella": [
+      "a umbrella is floating",
+      "an open black umbrella floating",
+      "an open umbrella sinks",
+      "an umbrella floated",
+      "an umbrella floating",
+      "an umbrella floats and then sinks",
+      "an umbrella floats",
+      "an umbrella is floating",
+      "an umbrella is sinking",
+      "an umbrella is floating away",
+      "an open umbrella floating upside down flips",
+      "an umbrella is",
+      "umbrella floating",
+      "an umbrella is being tossed around",
+      "an umbrella floating upside down",
+      "an umbrella is floating across",
+      "an umbrella is drowning",
+      "a umbrella dropping",
+      "a black umbrella briefly floats and then flips",
+      "a umbrella flows",
+      "an umbrella floated away",
+      "the umbrella floated",
+      "a floating umbrella overturns and sinks"
+    ],
+    "water": [
+      "into the water",
+      "in the water",
+      "on the water",
+      "on some water",
+      "across the water"
+    ],
+    "sea": [
+      "in the sea"
+    ],
+    "river": [
+      "in the river",
+      "in a river"
+    ],
+    "ocean": [
+      "in the ocean"
+    ],
+    "waves": [
+      "on the waves"
+    ],
+    "orchestra": [
+      "a large orchestra"
+    ],
+    "men": [
+      "two men and two"
+    ]
+  }
+}

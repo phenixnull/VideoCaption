@@ -1,0 +1,93 @@
+{
+  "video_objs": {
+    "wallaby": [
+      "a wallaby bagged",
+      "a wallaby crawls",
+      "a wallaby is carried",
+      "a wallaby jumps",
+      "a wallaby is jumping",
+      "a wallaby climbs"
+    ],
+    "office": [
+      "a office",
+      "her office"
+    ],
+    "cat": [
+      "a cat is jumping",
+      "the cat got",
+      "a cat gets",
+      "the cat is entered"
+    ],
+    "bag": [
+      "a bag"
+    ],
+    "animal": [
+      "a small animal climbs",
+      "an animal"
+    ],
+    "woman": [
+      "a woman s",
+      "a woman is carrying",
+      "a woman puts",
+      "a woman"
+    ],
+    "purse": [
+      "in a purse"
+    ],
+    "kangaroo": [
+      "a small kangaroo is sitting",
+      "a kangaroo is snatched",
+      "a kangaroo is jumping",
+      "a kangaroo jumps"
+    ],
+    "man": [
+      "a man holds",
+      "the man s",
+      "a man is catching"
+    ],
+    "pouch": [
+      "a pouch"
+    ],
+    "individual": [
+      "an individual puts"
+    ],
+    "sack": [
+      "a sack",
+      "a sack held"
+    ],
+    "handbag": [
+      "the handbag",
+      "a handbag"
+    ],
+    "person": [
+      "a person"
+    ],
+    "rocky": [
+      "this is rocky",
+      "rocky"
+    ],
+    "guy": [
+      "a guy is standing"
+    ],
+    "floor": [
+      "the floor"
+    ],
+    "monkey": [
+      "a monkey is packed",
+      "a monkey",
+      "a monkey is getting"
+    ],
+    "clip": [
+      "a short clip"
+    ],
+    "road": [
+      "the road"
+    ],
+    "lady": [
+      "one lady"
+    ],
+    "dog": [
+      "a dog"
+    ]
+  }
+}

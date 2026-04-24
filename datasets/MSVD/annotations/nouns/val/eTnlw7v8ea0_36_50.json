@@ -1,0 +1,48 @@
+{
+  "video_objs": {
+    "kettle": [
+      "a large kettle"
+    ],
+    "person": [
+      "a person makes",
+      "a person is making",
+      "a person is frying",
+      "a person puts",
+      "a person is cooking",
+      "the person is cooking"
+    ],
+    "food": [
+      "frying a food"
+    ],
+    "woman": [
+      "a woman is frying"
+    ],
+    "pot": [
+      "a pot"
+    ],
+    "potatoes": [
+      "someone is frying potatoes"
+    ],
+    "oil": [
+      "some oil",
+      "hot oil",
+      "the oil"
+    ],
+    "noodles": [
+      "noodles"
+    ],
+    "lady": [
+      "the lady"
+    ],
+    "man": [
+      "a man cooking his",
+      "the man is dropping"
+    ],
+    "kichen": [
+      "his kichen"
+    ],
+    "pan": [
+      "a pan"
+    ]
+  }
+}

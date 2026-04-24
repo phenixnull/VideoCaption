@@ -1,0 +1,50 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman slices",
+      "a woman is slicing",
+      "a woman is splitting",
+      "a woman",
+      "a woman is slicing some",
+      "a woman is carefully slicing",
+      "a woman is cutting"
+    ],
+    "tofu": [
+      "tofu",
+      "a tofu"
+    ],
+    "girl": [
+      "a girl is slicing"
+    ],
+    "butter": [
+      "a butter",
+      "some butter",
+      "the butter"
+    ],
+    "knife": [
+      "with a knife"
+    ],
+    "cheese": [
+      "sliced the cheese"
+    ],
+    "person": [
+      "the person is cutting"
+    ],
+    "lady": [
+      "the lady sliced",
+      "one lady making slices"
+    ],
+    "chef": [
+      "a chef is slicing"
+    ],
+    "dog": [
+      "his dog"
+    ],
+    "man": [
+      "a man cooking his"
+    ],
+    "kichen": [
+      "his kichen"
+    ]
+  }
+}

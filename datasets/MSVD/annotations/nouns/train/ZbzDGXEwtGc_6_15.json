@@ -1,0 +1,41 @@
+{
+  "video_objs": {
+    "plane": [
+      "a plane flying",
+      "a plane flies",
+      "a plane is flying",
+      "the plane flew",
+      "the plane is soaring",
+      "an plane is flying"
+    ],
+    "jet": [
+      "a jet is flying",
+      "a large jet is flying",
+      "a commercial jet if flying"
+    ],
+    "aeroplane": [
+      "an aeroplane is flying",
+      "an aeroplane flying",
+      "aeroplane is fling",
+      "aeroplane is flying",
+      "a aeroplane is flying"
+    ],
+    "airplane": [
+      "an airplane is flying",
+      "the airplane is flying",
+      "an airplane flying"
+    ],
+    "avi": [
+      "the avi n"
+    ],
+    "flight": [
+      "a flight is flying"
+    ],
+    "clip": [
+      "a clip showing"
+    ],
+    "plain": [
+      "a plain is fly"
+    ]
+  }
+}

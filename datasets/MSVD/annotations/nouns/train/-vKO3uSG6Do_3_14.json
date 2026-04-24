@@ -1,0 +1,42 @@
+{
+  "video_objs": {
+    "women": [
+      "three animated women are synchronized dancing",
+      "animated cartoon women",
+      "three animated women dance"
+    ],
+    "cartoons": [
+      "all cartoons are dancing",
+      "some cartoons are dancing",
+      "the cartoons danced together"
+    ],
+    "girls": [
+      "three girls are dancing",
+      "three animated girls are dancing and singing",
+      "three cartoon girls are dancing",
+      "some animated girls are dancing",
+      "the girls are dancing"
+    ],
+    "group": [
+      "a group"
+    ],
+    "characters": [
+      "animated characters are dancing",
+      "several animated characters are dancing",
+      "the cartoon characters did a synchronized dance",
+      "the cartoon characters are dancing",
+      "the cartoon characters danced"
+    ],
+    "people": [
+      "people are dancing",
+      "the people are dancing",
+      "of costumed people"
+    ],
+    "boys": [
+      "some animated boys and"
+    ],
+    "toys": [
+      "three toys are dancing"
+    ]
+  }
+}

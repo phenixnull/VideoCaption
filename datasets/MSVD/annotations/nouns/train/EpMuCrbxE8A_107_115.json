@@ -1,0 +1,54 @@
+{
+  "video_objs": {
+    "song": [
+      "a song",
+      "the song supper"
+    ],
+    "guitar": [
+      "playing a guitar",
+      "is playing guitar",
+      "playing the guitar",
+      "someone is playing guitar",
+      "performing a guitar",
+      "someone is playing a guitar",
+      "somebody is playing a guitar",
+      "on the guitar",
+      "someone plays guitar"
+    ],
+    "man": [
+      "a man is playing",
+      "a man is playing en",
+      "a man is rocking and playing",
+      "a man jams",
+      "the man is playing",
+      "man playing hard rock music",
+      "a man performing",
+      "a man plays",
+      "a man playing",
+      "one man playing a gitar"
+    ],
+    "person": [
+      "a person is playing",
+      "the person is playing the music",
+      "the person is playing guttier"
+    ],
+    "guy": [
+      "a guy is playing"
+    ],
+    "boy": [
+      "a boy speaking something"
+    ],
+    "mic": [
+      "on a mic"
+    ],
+    "people": [
+      "people playing music"
+    ],
+    "guitarist": [
+      "a guitarist plays music"
+    ],
+    "singer": [
+      "a singer is playing and singing gitar"
+    ]
+  }
+}

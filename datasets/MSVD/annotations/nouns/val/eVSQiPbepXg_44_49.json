@@ -1,0 +1,49 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman reading",
+      "a woman is flipping through",
+      "a woman is reading",
+      "a woman reads"
+    ],
+    "paper": [
+      "reading a paper",
+      "reads a paper"
+    ],
+    "female": [
+      "a female is reading"
+    ],
+    "magazine": [
+      "reading a magazine",
+      "through a magazine",
+      "at the magazine"
+    ],
+    "girl": [
+      "a girl is reading",
+      "a girl pages through",
+      "a girl was reading",
+      "the girl was reading",
+      "the girl is reading",
+      "girl reads",
+      "a girl is flipping pages",
+      "a girl read",
+      "a young girl reads"
+    ],
+    "bohemian": [
+      "reading the bohemian",
+      "is reading bohemian",
+      "read the bohemian"
+    ],
+    "lady": [
+      "the lady is looking",
+      "a lady",
+      "a lady is reding",
+      "a lady named kaia wakes up",
+      "a lady is reading",
+      "lady reading"
+    ],
+    "book": [
+      "reading a book"
+    ]
+  }
+}

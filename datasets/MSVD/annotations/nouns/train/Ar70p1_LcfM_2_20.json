@@ -1,0 +1,48 @@
+{
+  "video_objs": {
+    "kid": [
+      "a kid playing",
+      "a kid uses",
+      "the small kid is using"
+    ],
+    "computer": [
+      "on a computer",
+      "in the computer",
+      "on the computer",
+      "with a computer",
+      "playing a computer"
+    ],
+    "boy": [
+      "a boy is learning",
+      "a boy is playing",
+      "the boy is playing",
+      "the boy played",
+      "a boy is working",
+      "a boy working"
+    ],
+    "laptop": [
+      "in a laptop",
+      "on a laptop",
+      "on the laptop",
+      "with his laptop",
+      "in the laptop",
+      "the laptop is portable"
+    ],
+    "game": [
+      "playing a game",
+      "played a game"
+    ],
+    "child": [
+      "a child is playing",
+      "a child is working",
+      "a small child working",
+      "one child working"
+    ],
+    "mousepad": [
+      "uses the mousepad"
+    ],
+    "system": [
+      "using the system"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "video_objs": {
+    "man": [
+      "a man jumps up and goes",
+      "a man sits",
+      "a man jumps",
+      "a man climbs",
+      "a man is jumping",
+      "a man is jumping up"
+    ],
+    "fence": [
+      "a wooden fence",
+      "a fence"
+    ],
+    "wall": [
+      "a short wall",
+      "a wall",
+      "a stone wall",
+      "the short wall"
+    ],
+    "people": [
+      "two people"
+    ],
+    "person": [
+      "a person"
+    ]
+  }
+}

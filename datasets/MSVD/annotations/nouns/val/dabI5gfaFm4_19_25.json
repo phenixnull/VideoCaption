@@ -1,0 +1,42 @@
+{
+  "video_objs": {
+    "man": [
+      "a man cuts",
+      "a man is cutting",
+      "the man is slicing",
+      "the man cut",
+      "the man is cutting up",
+      "a man chops",
+      "a man slices",
+      "the man is cutting"
+    ],
+    "potato": [
+      "a potato",
+      "a raw potato",
+      "a potato is being cut",
+      "a potato is cut"
+    ],
+    "male": [
+      "a male is slicing"
+    ],
+    "person": [
+      "a person is cutting up",
+      "a person is cutting",
+      "a person trying"
+    ],
+    "knife": [
+      "using a knife",
+      "with a knife"
+    ],
+    "potatoes": [
+      "potatoes",
+      "potatoes cooking"
+    ],
+    "potatto": [
+      "is cutting potatto"
+    ],
+    "vegitable": [
+      "is slicing vegitable"
+    ]
+  }
+}

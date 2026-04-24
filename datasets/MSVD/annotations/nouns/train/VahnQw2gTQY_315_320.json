@@ -1,0 +1,59 @@
+{
+  "video_objs": {
+    "onion": [
+      "an onion",
+      "slices an onion",
+      "is slicing an onion",
+      "is cutting an onion"
+    ],
+    "knife": [
+      "a large knife",
+      "a knife"
+    ],
+    "person": [
+      "a person",
+      "a person slices",
+      "a person is slicing",
+      "a person is cutting",
+      "the person is slicing",
+      "a person cuts"
+    ],
+    "chef": [
+      "a chef",
+      "a chef is slicing",
+      "a chef is cutting"
+    ],
+    "man": [
+      "a man",
+      "a man is slicing",
+      "a man is preparing"
+    ],
+    "woman": [
+      "a woman",
+      "the woman is dicing"
+    ],
+    "lady": [
+      "the lady",
+      "the lady sliced"
+    ],
+    "onions": [
+      "onions"
+    ],
+    "food": [
+      "food"
+    ],
+    "items": [
+      "some items"
+    ],
+    "vegetables": [
+      "the vegetables",
+      "vegetables"
+    ],
+    "kichen": [
+      "his kichen"
+    ],
+    "vegetable": [
+      "vegetable"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "video_objs": {
+    "shrimp": [
+      "cutting shrimp",
+      "cuts up shrimp",
+      "chopping shrimp",
+      "cut the shrimp up",
+      "cutting up shrimp"
+    ],
+    "salad": [
+      "into a salad"
+    ],
+    "knife": [
+      "with a knife"
+    ],
+    "fish": [
+      "chopping some fish"
+    ],
+    "pieces": [
+      "into bitesized pieces",
+      "into small pieces",
+      "cuts up several pieces"
+    ],
+    "lady": [
+      "the lady cut up",
+      "the lady cut"
+    ],
+    "chef": [
+      "a chef is cutting",
+      "the chef show"
+    ],
+    "man": [
+      "a man cooking his",
+      "a man is cutting some"
+    ],
+    "kichen": [
+      "cooking his kichen"
+    ],
+    "food": [
+      "is cutting food"
+    ],
+    "woman": [
+      "a woman is chopping some",
+      "the woman is cutting"
+    ],
+    "prawn": [
+      "he is cutting prawn"
+    ],
+    "meats": [
+      "cutting some meats"
+    ],
+    "person": [
+      "a person cuts up",
+      "a person is cutting",
+      "a person is chopping",
+      "a person cuts up several",
+      "a person is making the chinese",
+      "the person is cooking",
+      "the person is cutting the something"
+    ]
+  }
+}

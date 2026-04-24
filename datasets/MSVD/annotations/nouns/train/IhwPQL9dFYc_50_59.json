@@ -1,0 +1,59 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman is chopping and dicing",
+      "a woman is chopping",
+      "a woman is mincing",
+      "a woman is slicing",
+      "a woman dices a small onion",
+      "a woman is cutting something"
+    ],
+    "onions": [
+      "chopping and dicing onions",
+      "chopping onions"
+    ],
+    "knife": [
+      "with a knife"
+    ],
+    "clove": [
+      "mincing a clove",
+      "minces a clove"
+    ],
+    "garlic": [
+      "chopping garlic",
+      "slicing garlic",
+      "is mincing some garlic",
+      "dicing garlic",
+      "is chopping garlic",
+      "is cutting garlic",
+      "is chopping some garlic"
+    ],
+    "lady": [
+      "the lady cup up",
+      "the lady chopped up",
+      "a lady is chooping onion"
+    ],
+    "vegetable": [
+      "cup up the vegetable",
+      "chopped up the vegetable"
+    ],
+    "potatos": [
+      "cuts potatos"
+    ],
+    "person": [
+      "a person is cooking"
+    ],
+    "food": [
+      "cooking the food"
+    ],
+    "potato": [
+      "cutting potato"
+    ],
+    "man": [
+      "a man cooking his"
+    ],
+    "kichen": [
+      "cooking his kichen"
+    ]
+  }
+}

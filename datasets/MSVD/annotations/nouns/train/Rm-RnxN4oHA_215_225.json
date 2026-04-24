@@ -1,0 +1,67 @@
+{
+  "video_objs": {
+    "man": [
+      "a man firing",
+      "a man fires",
+      "a man is firing",
+      "a man is shooting",
+      "a man is aiming and shooting"
+    ],
+    "rounds": [
+      "firing rounds"
+    ],
+    "handgun": [
+      "a handgun"
+    ],
+    "gun": [
+      "firing a gun",
+      "shooting a gun",
+      "with the gun",
+      "man shooting a gun",
+      "with a gun",
+      "shot his gun"
+    ],
+    "bullets": [
+      "is firing bullets"
+    ],
+    "point": [
+      "a focused point"
+    ],
+    "pistol": [
+      "by his pistol",
+      "firing his pistol",
+      "shooting a pistol",
+      "man shooting a pistol",
+      "firing a pistol"
+    ],
+    "range": [
+      "an open range",
+      "a range"
+    ],
+    "target": [
+      "his target",
+      "a target"
+    ],
+    "guy": [
+      "a guy is shooting"
+    ],
+    "men": [
+      "some men outdoors"
+    ],
+    "country": [
+      "the country"
+    ],
+    "object": [
+      "the object"
+    ],
+    "desert": [
+      "the desert"
+    ],
+    "camp": [
+      "camp"
+    ],
+    "forest": [
+      "forest"
+    ]
+  }
+}

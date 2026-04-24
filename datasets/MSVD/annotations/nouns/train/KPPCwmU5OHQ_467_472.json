@@ -1,0 +1,66 @@
+{
+  "video_objs": {
+    "man": [
+      "the man poured",
+      "a man is adding sliced",
+      "a man pours",
+      "the man added chopped",
+      "the man added",
+      "a man is pouring",
+      "a man is putting some chopped vegetable"
+    ],
+    "vegetables": [
+      "vegetables",
+      "chopped vegetables",
+      "choppd vegetables",
+      "cut up vegetables"
+    ],
+    "broth": [
+      "the broth",
+      "broth"
+    ],
+    "bowl": [
+      "a bowl",
+      "a cooking bowl"
+    ],
+    "pan": [
+      "a large pan",
+      "a pan"
+    ],
+    "person": [
+      "a person",
+      "the person"
+    ],
+    "pot": [
+      "a pot",
+      "the pot"
+    ],
+    "soup": [
+      "the soup",
+      "a soup",
+      "chicken soup",
+      "chicken noodle soup"
+    ],
+    "chef": [
+      "a chef"
+    ],
+    "water": [
+      "water"
+    ],
+    "vessel": [
+      "the vessel"
+    ],
+    "stove": [
+      "the stove"
+    ],
+    "kichen": [
+      "his kichen"
+    ],
+    "dish": [
+      "dish"
+    ],
+    "chicken": [
+      "chicken"
+    ]
+  }
+}

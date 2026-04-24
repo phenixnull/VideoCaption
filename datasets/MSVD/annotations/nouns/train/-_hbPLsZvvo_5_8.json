@@ -1,0 +1,47 @@
+{
+  "video_objs": {
+    "dog": [
+      "a dog is chewing",
+      "a dog appears",
+      "a dog is barking",
+      "a dog is eating",
+      "a dog is chewing something",
+      "the dog happily ate"
+    ],
+    "food": [
+      "a tasty food"
+    ],
+    "sushi": [
+      "ate the sushi"
+    ],
+    "puppy": [
+      "a puppy is barking"
+    ],
+    "master": [
+      "her master"
+    ],
+    "kitchen": [
+      "in the kitchen",
+      "her kitchen"
+    ],
+    "women": [
+      "a women cooked a tasty"
+    ],
+    "bento": [
+      "making an easy japanese lunch bento",
+      "a woman making a bento",
+      "is making bento"
+    ],
+    "lady": [
+      "a lady is cooking",
+      "a lady cooking",
+      "a lady"
+    ],
+    "man": [
+      "a man cooking"
+    ],
+    "person": [
+      "a person is making"
+    ]
+  }
+}

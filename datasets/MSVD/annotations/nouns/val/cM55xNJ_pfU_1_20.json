@@ -1,0 +1,34 @@
+{
+  "video_objs": {
+    "guitar": [
+      "a guitar is played",
+      "playing a guitar",
+      "is playing guitar",
+      "played the guitar",
+      "plays a guitar",
+      "plays the guitar",
+      "someone is playing a guitar"
+    ],
+    "man": [
+      "a man is playing",
+      "a man is seated and playing",
+      "a man played",
+      "a man plays",
+      "the man is playing",
+      "the man played his",
+      "a man finger picks"
+    ],
+    "person": [
+      "a person is playing"
+    ],
+    "individual": [
+      "an individual plays"
+    ],
+    "song": [
+      "picks a song"
+    ],
+    "men": [
+      "a men playing"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "video_objs": {
+    "boys": [
+      "boys are bathing",
+      "the boys are playing",
+      "the three boys splashed",
+      "the three little boys splashed",
+      "three boys are",
+      "three boys are playing",
+      "three boys are swimming",
+      "three little boys are playing"
+    ],
+    "children": [
+      "children are playing",
+      "some children are playing",
+      "three children are playing",
+      "children playing",
+      "children having fun",
+      "three children were bathing"
+    ],
+    "pool": [
+      "the little pool",
+      "in the pool",
+      "a swimming pool",
+      "in a pool",
+      "a wading pool",
+      "a small pool",
+      "kids are bothing the swimming pool"
+    ],
+    "kids": [
+      "kids are playing",
+      "kids are enjoying",
+      "kids playing",
+      "some kids are playing",
+      "kids are swimming"
+    ],
+    "water": [
+      "into the water"
+    ],
+    "toddlers": [
+      "three toddlers are playing"
+    ]
+  }
+}

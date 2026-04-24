@@ -1,0 +1,69 @@
+{
+  "video_objs": {
+    "teams": [
+      "two teams are playing",
+      "two teams playing"
+    ],
+    "soccer": [
+      "playing soccer",
+      "soccer player scores",
+      "soccer player slides",
+      "soccer player made",
+      "kicking the soccer",
+      "soccer match",
+      "soccer game is played",
+      "soccer game"
+    ],
+    "man": [
+      "a man scores",
+      "the man made",
+      "a man makes"
+    ],
+    "goal": [
+      "scores a goal",
+      "made a goal",
+      "making a goal",
+      "making goal",
+      "into the goal"
+    ],
+    "men": [
+      "men are playing",
+      "men are playing soccar"
+    ],
+    "ball": [
+      "dribbles the ball",
+      "kicked the ball",
+      "pushing the ball"
+    ],
+    "attacker": [
+      "an attacker"
+    ],
+    "goalkeeper": [
+      "goalkeeper"
+    ],
+    "person": [
+      "a person makes",
+      "the person is playing"
+    ],
+    "players": [
+      "the players are playing"
+    ],
+    "post": [
+      "into the post"
+    ],
+    "viewers": [
+      "the viewers are seeing"
+    ],
+    "match": [
+      "the match"
+    ],
+    "player": [
+      "a player is pushing",
+      "a player is hitting",
+      "the player"
+    ],
+    "football": [
+      "playing football"
+    ]
+  }
+}

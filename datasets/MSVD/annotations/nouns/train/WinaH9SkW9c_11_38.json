@@ -1,0 +1,49 @@
+{
+  "video_objs": {
+    "man": [
+      "a man",
+      "the man",
+      "man"
+    ],
+    "horse": [
+      "a horse",
+      "the horse",
+      "his horse"
+    ],
+    "area": [
+      "an enclosed area",
+      "an open enclosed area"
+    ],
+    "back": [
+      "the back"
+    ],
+    "motion": [
+      "a circular motion"
+    ],
+    "circle": [
+      "a circle",
+      "a small circle"
+    ],
+    "garden": [
+      "the garden"
+    ],
+    "shirt": [
+      "a blue shirt"
+    ],
+    "stable": [
+      "a stable"
+    ],
+    "paddock": [
+      "a paddock"
+    ],
+    "corral": [
+      "a corral"
+    ],
+    "pen": [
+      "a pen"
+    ],
+    "person": [
+      "a person"
+    ]
+  }
+}

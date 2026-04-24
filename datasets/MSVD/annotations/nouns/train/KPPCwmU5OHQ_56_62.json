@@ -1,0 +1,44 @@
+{
+  "video_objs": {
+    "man": [
+      "a man opens",
+      "a man is opening",
+      "a man is adding something",
+      "a man opend"
+    ],
+    "can": [
+      "opens a can",
+      "opening a can",
+      "opened the can"
+    ],
+    "pulltab": [
+      "with a pulltab"
+    ],
+    "bowl": [
+      "into a bowl",
+      "to a bowl",
+      "in a bowl"
+    ],
+    "person": [
+      "a person is opening",
+      "a person opens",
+      "one person is cooking",
+      "a person is about"
+    ],
+    "boy": [
+      "the boy is opening"
+    ],
+    "box": [
+      "opening the box"
+    ],
+    "tin": [
+      "open a tin"
+    ],
+    "woman": [
+      "a woman is opening"
+    ],
+    "kichen": [
+      "cooking his kichen"
+    ]
+  }
+}

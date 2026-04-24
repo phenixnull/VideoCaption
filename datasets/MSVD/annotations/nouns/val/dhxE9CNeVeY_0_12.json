@@ -1,0 +1,60 @@
+{
+  "video_objs": {
+    "boy": [
+      "a boy wearing",
+      "a boy",
+      "a boy is leaning",
+      "a boy is yelling",
+      "a boy throwing a fit",
+      "a boy sitting and looking",
+      "a boy pretending",
+      "a boy throws his"
+    ],
+    "kid": [
+      "a kid plays",
+      "a kid is screaming",
+      "is possessed kid",
+      "possessed kid screaming",
+      "a kid is playing",
+      "a kid is throwing a tantrum",
+      "a kid possessed screaming"
+    ],
+    "back": [
+      "over the back"
+    ],
+    "child": [
+      "a child screams",
+      "a child is acting out a tantrum",
+      "a child is having",
+      "a child is screaming"
+    ],
+    "hands": [
+      "waving his hands"
+    ],
+    "air": [
+      "in the air"
+    ],
+    "side": [
+      "over the side"
+    ],
+    "couch": [
+      "of a couch",
+      "on a couch",
+      "behind a couch"
+    ],
+    "head": [
+      "placing his head",
+      "have his head"
+    ],
+    "sofa": [
+      "on a sofa",
+      "over the sofa"
+    ],
+    "guy": [
+      "a guy is screaming"
+    ],
+    "man": [
+      "a man"
+    ]
+  }
+}

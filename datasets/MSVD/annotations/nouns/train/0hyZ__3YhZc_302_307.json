@@ -1,0 +1,65 @@
+{
+  "video_objs": {
+    "vegetables": [
+      "chopped vegetables",
+      "vegetables",
+      "cooked vegetables",
+      "some vegetables",
+      "vegetables which is"
+    ],
+    "kettle": [
+      "kettle"
+    ],
+    "spatula": [
+      "wooden spatula"
+    ],
+    "man": [
+      "a man",
+      "the man"
+    ],
+    "pot": [
+      "a pot",
+      "pot"
+    ],
+    "person": [
+      "a person",
+      "the person"
+    ],
+    "bowl": [
+      "a bowl"
+    ],
+    "pan": [
+      "a pan"
+    ],
+    "salad": [
+      "salad"
+    ],
+    "ingredients": [
+      "ingredients"
+    ],
+    "lady": [
+      "a lady"
+    ],
+    "dish": [
+      "dish"
+    ],
+    "chef": [
+      "a chef"
+    ],
+    "food": [
+      "food"
+    ],
+    "stove": [
+      "the stove"
+    ],
+    "vessel": [
+      "the vessel"
+    ],
+    "kichen": [
+      "kichen"
+    ],
+    "vegetable": [
+      "vegetable"
+    ]
+  }
+}

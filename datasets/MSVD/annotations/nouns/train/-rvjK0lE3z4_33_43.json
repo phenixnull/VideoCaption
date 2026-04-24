@@ -1,0 +1,43 @@
+{
+  "video_objs": {
+    "potato": [
+      "a potato",
+      "a large potato"
+    ],
+    "knife": [
+      "a knife"
+    ],
+    "person": [
+      "a person",
+      "the person"
+    ],
+    "man": [
+      "a man"
+    ],
+    "woman": [
+      "a woman",
+      "the woman"
+    ],
+    "potatoes": [
+      "potatoes"
+    ],
+    "bread": [
+      "bread"
+    ],
+    "vegetable": [
+      "vegetable"
+    ],
+    "tomatoes": [
+      "tomatoes"
+    ],
+    "chef": [
+      "a chef"
+    ],
+    "lady": [
+      "the lady"
+    ],
+    "kichen": [
+      "his kichen"
+    ]
+  }
+}

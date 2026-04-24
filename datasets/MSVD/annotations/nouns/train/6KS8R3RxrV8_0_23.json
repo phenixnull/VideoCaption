@@ -1,0 +1,50 @@
+{
+  "video_objs": {
+    "dog": [
+      "a dog is",
+      "a dog is looking around",
+      "a dog is looking",
+      "a dog is resting",
+      "a dog is sitting",
+      "a dog is standing",
+      "a dog is watching",
+      "a dog leans",
+      "a dog sat",
+      "a dog tends",
+      "the dog is standing",
+      "the dog sat and watched",
+      "the dog is setting",
+      "a dog watching",
+      "a dog is looking after",
+      "a dog",
+      "a dog sitting",
+      "a dog sits",
+      "a dog is sitting and looking around",
+      "a dog mans",
+      "a dog stays"
+    ],
+    "counter": [
+      "leans against a counter",
+      "standing behind a counter"
+    ],
+    "newsstand": [
+      "in a newsstand",
+      "at a newsstand",
+      "of a newsstand"
+    ],
+    "store": [
+      "in a store",
+      "behind a store",
+      "of a store"
+    ],
+    "people": [
+      "and watched people"
+    ],
+    "shop": [
+      "setting the shop",
+      "after the shop",
+      "from the shop",
+      "in the shop"
+    ]
+  }
+}

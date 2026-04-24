@@ -1,0 +1,26 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is sharpening",
+      "a man sharpens"
+    ],
+    "pencil": [
+      "a pencil"
+    ],
+    "knife": [
+      "a large knife",
+      "a knife",
+      "a hunting knife"
+    ],
+    "person": [
+      "a person sharpens",
+      "a person is sharpening",
+      "a person is cutting",
+      "a person cuts",
+      "a person is cut"
+    ],
+    "wire": [
+      "a wire"
+    ]
+  }
+}

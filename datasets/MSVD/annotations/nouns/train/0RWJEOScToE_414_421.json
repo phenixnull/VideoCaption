@@ -1,0 +1,66 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is rinsing",
+      "a man is washing",
+      "a man washes",
+      "the man is rinsing",
+      "the man rinsed",
+      "a man washing",
+      "a man rinses",
+      "one man is washing"
+    ],
+    "steak": [
+      "a large steak",
+      "a steak",
+      "rinsing a steak",
+      "rinses a steak"
+    ],
+    "meat": [
+      "meat",
+      "some meat",
+      "is rinsing meat",
+      "is washing meat",
+      "washes some meat",
+      "washing the meat",
+      "rinsing some meat"
+    ],
+    "sink": [
+      "the sink",
+      "kitchen sink",
+      "in the sink"
+    ],
+    "salt": [
+      "the salt"
+    ],
+    "person": [
+      "a person is rinsing",
+      "the person is cleaning",
+      "a person is washing",
+      "a person is cleaning"
+    ],
+    "water": [
+      "water",
+      "running water",
+      "running tap water",
+      "with water",
+      "under the water"
+    ],
+    "flesh": [
+      "the flesh",
+      "cleaning the flesh"
+    ],
+    "faucet": [
+      "a faucet",
+      "under a faucet"
+    ],
+    "filet": [
+      "filet",
+      "washing filet"
+    ],
+    "beef": [
+      "beef",
+      "washing beef"
+    ]
+  }
+}

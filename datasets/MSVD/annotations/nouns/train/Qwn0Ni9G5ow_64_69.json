@@ -1,0 +1,78 @@
+{
+  "video_objs": {
+    "car": [
+      "a car traveling"
+    ],
+    "city": [
+      "the city",
+      "a city"
+    ],
+    "bus": [
+      "a bus designed",
+      "a bus is running",
+      "a red colored bus travels",
+      "the bus drove",
+      "a bus runs",
+      "bus is moving",
+      "the bus going",
+      "a bus is moving"
+    ],
+    "trolley": [
+      "a trolley is driving",
+      "a trolley is going",
+      "a trolley is moving",
+      "the trolley is going",
+      "a trolley is riding"
+    ],
+    "street": [
+      "down the street",
+      "down a street"
+    ],
+    "road": [
+      "on the road",
+      "down a road",
+      "down the road",
+      "on road"
+    ],
+    "streetcar": [
+      "a streetcar driving",
+      "a streetcar is going"
+    ],
+    "people": [
+      "the people are playing",
+      "some people visting"
+    ],
+    "garden": [
+      "the garden"
+    ],
+    "children": [
+      "the children s are playing",
+      "his children"
+    ],
+    "tram": [
+      "a moving tram",
+      "a tram is shown",
+      "a tram"
+    ],
+    "man": [
+      "a man is teaching",
+      "a man playing"
+    ],
+    "class": [
+      "a class"
+    ],
+    "lady": [
+      "a lady showing"
+    ],
+    "tour": [
+      "a tour"
+    ],
+    "video": [
+      "a video",
+      "a charlottes video"
+    ],
+    "family": [
+      "charlotte s family"
+    ]
+  }
+}

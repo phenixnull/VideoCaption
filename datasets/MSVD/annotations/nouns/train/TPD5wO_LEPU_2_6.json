@@ -1,0 +1,48 @@
+{
+  "video_objs": {
+    "boy": [
+      "a young boy is cleaning",
+      "a boy is vacuuming",
+      "a little boy is vacuuming",
+      "the little boy is vacuuming",
+      "a boy is doing vacuum cleaning",
+      "the boy is cleaning",
+      "one little boy is moping",
+      "the little boy swept"
+    ],
+    "sweeper": [
+      "a sweeper"
+    ],
+    "floor": [
+      "vacuuming the floor",
+      "cleaning the floor",
+      "moping the floor"
+    ],
+    "carpet": [
+      "vacuuming the carpet",
+      "swept the carpet"
+    ],
+    "house": [
+      "vacuuming a house",
+      "cleaning the house"
+    ],
+    "child": [
+      "a small child is vacuuming",
+      "a child is vacuuming",
+      "a child is cleaning"
+    ],
+    "girl": [
+      "a small girl is cleaning"
+    ],
+    "room": [
+      "cleaning room"
+    ],
+    "person": [
+      "a person is cleaning"
+    ],
+    "baby": [
+      "a baby is wiping",
+      "a baby is cleaning"
+    ]
+  }
+}

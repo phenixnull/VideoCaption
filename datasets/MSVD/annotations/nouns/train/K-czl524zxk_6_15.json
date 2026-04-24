@@ -1,0 +1,45 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman dials",
+      "a woman making",
+      "a woman is placing",
+      "a woman is using",
+      "a woman is making",
+      "a woman is dialing and talking"
+    ],
+    "girl": [
+      "a girl",
+      "an angry girl calls",
+      "girl is making",
+      "a girl is making",
+      "a girl is calling someone",
+      "a girl dials",
+      "a girl is calling someone through"
+    ],
+    "lady": [
+      "the lady is dialing",
+      "a lady is trying",
+      "a lady is making"
+    ],
+    "call": [
+      "making a call",
+      "a women is making a call",
+      "she is making a call"
+    ],
+    "date": [
+      "on a date"
+    ],
+    "phone": [
+      "on her phone"
+    ],
+    "person": [
+      "the person"
+    ],
+    "mobile": [
+      "touch screen mobile",
+      "on her mobile",
+      "dialing a mobile"
+    ]
+  }
+}

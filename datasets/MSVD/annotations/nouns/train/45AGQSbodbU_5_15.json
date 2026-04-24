@@ -1,0 +1,59 @@
+{
+  "video_objs": {
+    "animal": [
+      "a small furry animal is biting",
+      "a small furry animal has",
+      "an animal bites",
+      "an animal is biting",
+      "the animal bit",
+      "the animal is biting"
+    ],
+    "finger": [
+      "someone s finger",
+      "a persons finger",
+      "a finger",
+      "the finger"
+    ],
+    "loris": [
+      "a slow loris bites",
+      "a slow loris is biting",
+      "a loris is biting",
+      "in a loris"
+    ],
+    "person": [
+      "a person is petting",
+      "a person",
+      "a person s"
+    ],
+    "monkey": [
+      "a monkey is biting",
+      "a naughty monkey playing"
+    ],
+    "mammal": [
+      "the mammal bit"
+    ],
+    "cat": [
+      "the cat is eating",
+      "a cat eating",
+      "playing the cat"
+    ],
+    "lemur": [
+      "a lemur is biting"
+    ],
+    "dog": [
+      "a dog playing"
+    ],
+    "boy": [
+      "the boy is playing"
+    ],
+    "puppy": [
+      "looking like puppy"
+    ],
+    "liris": [
+      "the liris is biting"
+    ],
+    "bushbaby": [
+      "a bushbaby gnaws"
+    ]
+  }
+}

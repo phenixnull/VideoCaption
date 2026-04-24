@@ -1,0 +1,47 @@
+{
+  "video_objs": {
+    "seasonings": [
+      "seasonings"
+    ],
+    "eggs": [
+      "eggs"
+    ],
+    "person": [
+      "a person"
+    ],
+    "bowl": [
+      "a bowl"
+    ],
+    "ingredients": [
+      "ingredients"
+    ],
+    "spices": [
+      "spices"
+    ],
+    "woman": [
+      "a woman",
+      "the woman"
+    ],
+    "salt": [
+      "salt"
+    ],
+    "egg": [
+      "egg"
+    ],
+    "mix": [
+      "a mix"
+    ],
+    "sugar": [
+      "some sugar"
+    ],
+    "lady": [
+      "the lady"
+    ],
+    "paste": [
+      "some paste"
+    ],
+    "man": [
+      "a man"
+    ]
+  }
+}

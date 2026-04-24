@@ -1,0 +1,38 @@
+{
+  "video_objs": {
+    "fox": [
+      "a fox or",
+      "resembles a fox"
+    ],
+    "dog": [
+      "dog",
+      "dog is very happy",
+      "the dog is smiling and wagging its",
+      "a dog wagging its",
+      "a dog smiles",
+      "dog is shaking his",
+      "a dog is shaking his"
+    ],
+    "tail": [
+      "wags its tail",
+      "wagging its tail",
+      "wagging his tail",
+      "shaking his tail",
+      "wagging is tail",
+      "waving its tail"
+    ],
+    "person": [
+      "a known person",
+      "person"
+    ],
+    "location": [
+      "a location"
+    ],
+    "bos": [
+      "his bos"
+    ],
+    "passerby": [
+      "a passerby"
+    ]
+  }
+}

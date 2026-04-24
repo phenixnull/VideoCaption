@@ -1,0 +1,45 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman",
+      "a woman puts",
+      "a woman is wearing",
+      "a woman is putting",
+      "the woman put",
+      "a woman is opening her"
+    ],
+    "bag": [
+      "a dark bag",
+      "from the bag"
+    ],
+    "glasses": [
+      "she is wearing glasses"
+    ],
+    "pair": [
+      "on a pair"
+    ],
+    "purse": [
+      "opening her purse"
+    ],
+    "lady": [
+      "the lady put her",
+      "a lady is taking her"
+    ],
+    "beach": [
+      "at the beach"
+    ],
+    "girl": [
+      "a girl having",
+      "a girl is waring"
+    ],
+    "women": [
+      "the women is wear"
+    ],
+    "speds": [
+      "wear a speds"
+    ],
+    "glass": [
+      "waring a glass"
+    ]
+  }
+}

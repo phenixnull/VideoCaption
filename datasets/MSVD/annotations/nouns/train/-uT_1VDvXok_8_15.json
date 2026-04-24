@@ -1,0 +1,46 @@
+{
+  "video_objs": {
+    "rhinos": [
+      "two rhinos are walking together",
+      "two rhinos walk around"
+    ],
+    "rhino": [
+      "a rhino and its",
+      "a rhino and its baby are walking"
+    ],
+    "kid": [
+      "and its kid"
+    ],
+    "parent": [
+      "it s parent"
+    ],
+    "mother": [
+      "its mother",
+      "his mother",
+      "it s mother",
+      "the mother"
+    ],
+    "rhinoceros": [
+      "a baby rhinoceros follows his"
+    ],
+    "animal": [
+      "an animal is walking around",
+      "an animal is walking",
+      "an animal walking"
+    ],
+    "pen": [
+      "a pen",
+      "his pen"
+    ],
+    "grass": [
+      "grass"
+    ],
+    "mom": [
+      "its mom",
+      "her mom"
+    ],
+    "zoo": [
+      "the zoo"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is playing",
+      "a man plays",
+      "a man is playing some",
+      "a man seated is playing a set",
+      "a man is drumming"
+    ],
+    "drums": [
+      "is playing drums",
+      "playing the drums",
+      "plays the drums",
+      "playing some drums",
+      "played his drums"
+    ],
+    "drummer": [
+      "the drummer played his",
+      "a drummer showing his musical theory"
+    ],
+    "boy": [
+      "a boy plays",
+      "a boy is playing"
+    ],
+    "person": [
+      "the person is playing",
+      "the person is playing the music"
+    ],
+    "guy": [
+      "a guy beating"
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is playing",
+      "the man is playing"
+    ],
+    "guitar": [
+      "playing the guitar",
+      "is playing guitar",
+      "playing a guitar",
+      "someone is playing a guitar"
+    ],
+    "band": [
+      "of a band",
+      "a band is performing",
+      "a band is playing",
+      "a band performs",
+      "a band s",
+      "a silhouetted band is playing",
+      "a band plays",
+      "the band played"
+    ],
+    "hole": [
+      "a hole"
+    ],
+    "piece": [
+      "a piece"
+    ],
+    "silhouette": [
+      "a silhouette",
+      "only the silhouette"
+    ],
+    "views": [
+      "several views"
+    ],
+    "group": [
+      "group"
+    ],
+    "music": [
+      "group playing music",
+      "men are playing music",
+      "men are performing stage music",
+      "is making music",
+      "playing the music",
+      "is playing music"
+    ],
+    "stage": [
+      "on a stage",
+      "men are performing stage music"
+    ],
+    "instruments": [
+      "people are playing instruments"
+    ],
+    "people": [
+      "people are playing"
+    ],
+    "men": [
+      "men are playing",
+      "men are performing"
+    ],
+    "guy": [
+      "a guy is playing"
+    ],
+    "videoclip": [
+      "in a videoclip"
+    ],
+    "shadows": [
+      "in the shadows"
+    ],
+    "wall": [
+      "on the wall"
+    ],
+    "backdrop": [
+      "a surreal backdrop"
+    ],
+    "seabeats": [
+      "nice and fantastic seabeats"
+    ],
+    "someone": [
+      "someone is playing"
+    ],
+    "person": [
+      "a person is playing guttier",
+      "a person is making",
+      "a person is playing",
+      "the person is playing",
+      "a person playing gitter and singing"
+    ],
+    "song": [
+      "playing a song"
+    ],
+    "sheet": [
+      "a white sheet"
+    ],
+    "kraken": [
+      "the kraken is more"
+    ],
+    "vhs": [
+      "of a vhs"
+    ],
+    "clouds": [
+      "on a clouds"
+    ]
+  }
+}

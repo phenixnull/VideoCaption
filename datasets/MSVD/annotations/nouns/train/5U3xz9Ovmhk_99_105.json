@@ -1,0 +1,63 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is finely chopping",
+      "a man is chopping",
+      "a man and",
+      "a man is slicing something",
+      "a man is chopping some"
+    ],
+    "person": [
+      "a person is chopping an herb",
+      "a person",
+      "a person is slicing some",
+      "a person cuts up",
+      "a person is cutting something"
+    ],
+    "woman": [
+      "a woman is chopping"
+    ],
+    "kitchen": [
+      "in a kitchen"
+    ],
+    "knife": [
+      "using a knife",
+      "with a knife",
+      "a large knife",
+      "a cook is cutting leaveswith the knife"
+    ],
+    "parsley": [
+      "is chopping parsley",
+      "chopped the parsley"
+    ],
+    "food": [
+      "the very delicious food"
+    ],
+    "herbs": [
+      "is chopping herbs",
+      "chopping some herbs",
+      "is cutting herbs",
+      "the cook is slicing herbs",
+      "is dicing herbs"
+    ],
+    "onions": [
+      "slicing some onions"
+    ],
+    "vegetable": [
+      "chopping a vegetable"
+    ],
+    "boy": [
+      "the boy and"
+    ],
+    "leaves": [
+      "cutting the leaves"
+    ],
+    "chef": [
+      "the chef is dicing",
+      "a chef cutting coriander"
+    ],
+    "kichen": [
+      "cooking his kichen"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "video_objs": {
+    "dazzle": [
+      "a dazzle"
+    ],
+    "zebras": [
+      "many zebras",
+      "the zebras",
+      "zebras",
+      "some zebras"
+    ],
+    "grassland": [
+      "grassland"
+    ],
+    "flock": [
+      "a flock"
+    ],
+    "group": [
+      "a group"
+    ],
+    "zebra": [
+      "zebra are eating",
+      "zebra s having they food"
+    ],
+    "herd": [
+      "a herd"
+    ],
+    "pack": [
+      "a pack"
+    ],
+    "grass": [
+      "zebra are eating grass",
+      "zebras are eating grass",
+      "are eating grass",
+      "zebras are standing and eating grass",
+      "on the grass"
+    ]
+  }
+}

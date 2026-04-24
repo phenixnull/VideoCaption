@@ -1,0 +1,68 @@
+{
+  "video_objs": {
+    "foot": [
+      "their foot",
+      "his bare foot",
+      "his foot",
+      "of her foot"
+    ],
+    "toothbrush": [
+      "a toothbrush"
+    ],
+    "person": [
+      "a person is scrubbing their",
+      "a person is rubbing",
+      "a person brushes his",
+      "the person is scrubbing the bottom",
+      "the person is cleaning",
+      "a person is brushing",
+      "the person is scrubbing his",
+      "a person is brushing off the bottom"
+    ],
+    "girl": [
+      "a girl is scrubbing the bottom",
+      "a girl is cleaning her",
+      "the girl scrubbed the bottom"
+    ],
+    "man": [
+      "a man is brushing"
+    ],
+    "feet": [
+      "rubbing a feet",
+      "scrubbing their feet",
+      "of her feet",
+      "making his feet"
+    ],
+    "brush": [
+      "a brush",
+      "a dirty brush"
+    ],
+    "boy": [
+      "a boy is cleaning his",
+      "a boy is scrubbing his"
+    ],
+    "woman": [
+      "a woman is brushing her",
+      "a woman standing uses",
+      "a woman is scrubbing"
+    ],
+    "mud": [
+      "the mud"
+    ],
+    "sole": [
+      "the sole"
+    ],
+    "lady": [
+      "the lady"
+    ],
+    "dirt": [
+      "the dirt"
+    ],
+    "kids": [
+      "one kids is making his"
+    ],
+    "leg": [
+      "cleaning leg"
+    ]
+  }
+}

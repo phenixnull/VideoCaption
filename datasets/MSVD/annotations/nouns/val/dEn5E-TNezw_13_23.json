@@ -1,0 +1,58 @@
+{
+  "video_objs": {
+    "hedgehog": [
+      "a small hedgehog is",
+      "a hedgehog is pulling",
+      "a hedgehog is biting",
+      "a hedgehog is chewing",
+      "a hedgehog is eating",
+      "the hedgehog is biting"
+    ],
+    "table": [
+      "on a table"
+    ],
+    "towel": [
+      "on a towel",
+      "pulling a towel",
+      "biting a towel",
+      "eating a towel",
+      "biting the towel",
+      "bites a towel",
+      "to eat towel"
+    ],
+    "blanket": [
+      "at a blanket",
+      "on a blanket",
+      "eating a blanket"
+    ],
+    "cloth": [
+      "chewing a cloth",
+      "cutting the cloth"
+    ],
+    "cat": [
+      "the cat is playing"
+    ],
+    "animal": [
+      "the animal is cutting",
+      "an animal is chewing",
+      "featuring a animal",
+      "a some animal is beating"
+    ],
+    "bird": [
+      "the bird is eating"
+    ],
+    "rug": [
+      "on a rug"
+    ],
+    "rat": [
+      "a rat is cutting"
+    ],
+    "mascota": [
+      "a mascota is eating the tova l"
+    ],
+    "erizo": [
+      "one erizo trying",
+      "an erizo is biting"
+    ]
+  }
+}

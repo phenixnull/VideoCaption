@@ -1,0 +1,40 @@
+{
+  "video_objs": {
+    "puppy": [
+      "a puppy is walking down",
+      "a tiny puppy is trying",
+      "a puppy is coming down",
+      "a puppy is going down",
+      "a puppy is climbing down",
+      "a puppy is attempting",
+      "a little puppy tries"
+    ],
+    "stair": [
+      "down a stair",
+      "down one stair",
+      "down the stair"
+    ],
+    "downstairs": [
+      "butterball downstairs"
+    ],
+    "step": [
+      "down a step"
+    ],
+    "dog": [
+      "a dog is jumping",
+      "a dog is seeing down",
+      "a dog is slowly making its way down some",
+      "a dog is trying",
+      "a small dog is climbing down carpeted",
+      "a dog as fear",
+      "a dog"
+    ],
+    "cat": [
+      "the cat is trying"
+    ],
+    "butterball": [
+      "butterball",
+      "a butterball"
+    ]
+  }
+}

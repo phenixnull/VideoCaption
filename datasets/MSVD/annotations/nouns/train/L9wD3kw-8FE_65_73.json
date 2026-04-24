@@ -1,0 +1,59 @@
+{
+  "video_objs": {
+    "man": [
+      "a man chopping",
+      "a man chops",
+      "a man hacks",
+      "a man is chopping",
+      "a man is cutting",
+      "the man is chopping",
+      "the man is cutting",
+      "man cutting"
+    ],
+    "tree": [
+      "chopping a tree",
+      "chopping the tree",
+      "cutting the tree",
+      "up the tree"
+    ],
+    "branch": [
+      "a branch is chopped",
+      "chopping a branch",
+      "cutting a branch",
+      "chopped the branch"
+    ],
+    "log": [
+      "a log is being chopped",
+      "a thin log",
+      "up a log",
+      "someone is chopping a log",
+      "a small log",
+      "chopping a log",
+      "someone chopped a log"
+    ],
+    "wood": [
+      "is cutting wood",
+      "is chopping wood",
+      "wood is chopped",
+      "chopping some wood"
+    ],
+    "knife": [
+      "a large knife",
+      "with a knife"
+    ],
+    "machete": [
+      "with a machete",
+      "using a machete"
+    ],
+    "person": [
+      "a person is chopping",
+      "a person is cutting"
+    ],
+    "trees": [
+      "the trees are cutting"
+    ],
+    "logs": [
+      "logs lying"
+    ]
+  }
+}

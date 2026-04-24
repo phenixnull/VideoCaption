@@ -1,0 +1,61 @@
+{
+  "video_objs": {
+    "dog": [
+      "a dog running",
+      "a dog chews",
+      "a dog is playing",
+      "a dog puts",
+      "a dog returns his",
+      "a dog runs and places",
+      "a dog runs down",
+      "a dog runs up"
+    ],
+    "ball": [
+      "with a ball",
+      "a yellow ball",
+      "returns his ball"
+    ],
+    "mouth": [
+      "in his mouth",
+      "in its mouth"
+    ],
+    "house": [
+      "into the house"
+    ],
+    "rack": [
+      "on a rack"
+    ],
+    "machine": [
+      "to a machine",
+      "on a machine",
+      "into a machine"
+    ],
+    "apparatus": [
+      "into an apparatus"
+    ],
+    "hall": [
+      "into the hall",
+      "down the hall"
+    ],
+    "room": [
+      "in the room"
+    ],
+    "puppy": [
+      "a puppy is playing",
+      "a puppy happily brings"
+    ],
+    "robot": [
+      "in a robot"
+    ],
+    "corridoor": [
+      "around the corridoor"
+    ],
+    "contraption": [
+      "to a contraption"
+    ],
+    "dachshund": [
+      "a brown dachshund holding a yellow",
+      "a dachshund carries"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "video_objs": {
+    "car": [
+      "a car drives backwards",
+      "a car is driving",
+      "a car is going backwards",
+      "a car is driving backwards",
+      "a car being backed up",
+      "the car was pushed backwards",
+      "the car is going backward"
+    ],
+    "police": [
+      "the police",
+      "police is chasing",
+      "police are attempting"
+    ],
+    "street": [
+      "down a street"
+    ],
+    "highway": [
+      "on the highway",
+      "on a highway",
+      "on highway"
+    ],
+    "driver": [
+      "a getaway driver"
+    ],
+    "bike": [
+      "in his bike"
+    ],
+    "man": [
+      "a man is driving backward",
+      "a man is driving backwards"
+    ],
+    "vehicle": [
+      "a blue vehicle is driving backwards"
+    ],
+    "authorities": [
+      "the authorities"
+    ],
+    "guy": [
+      "a guy is riding too fast"
+    ],
+    "person": [
+      "a person is driving",
+      "a person is driving away"
+    ],
+    "cop": [
+      "cop and an errant"
+    ],
+    "cars": [
+      "police cars",
+      "two cars",
+      "the two cars"
+    ],
+    "freeway": [
+      "down the freeway",
+      "on a freeway"
+    ],
+    "suspect": [
+      "a suspect"
+    ],
+    "wall": [
+      "the wall"
+    ]
+  }
+}

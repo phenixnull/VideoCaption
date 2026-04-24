@@ -1,0 +1,47 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman wraps",
+      "a woman is wrapping some",
+      "a woman is wrapping",
+      "the woman is wrapping seaweed around"
+    ],
+    "leaf": [
+      "with a leaf",
+      "in a leaf"
+    ],
+    "rice": [
+      "wrapping some rice",
+      "someone is wrapping rice",
+      "is wrapping rice"
+    ],
+    "ball": [
+      "wraps a ball",
+      "wrapping a ball"
+    ],
+    "food": [
+      "wrapping some food",
+      "packing some food",
+      "somebody is wrapping food"
+    ],
+    "onigiri": [
+      "wraps an onigiri"
+    ],
+    "lady": [
+      "the lady wrapped",
+      "a lady is preparing something"
+    ],
+    "leaves": [
+      "in the leaves"
+    ],
+    "chef": [
+      "a chef making"
+    ],
+    "person": [
+      "a person is wrapping"
+    ],
+    "man": [
+      "a man is packing some"
+    ]
+  }
+}

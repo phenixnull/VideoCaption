@@ -1,0 +1,39 @@
+{
+  "video_objs": {
+    "boy": [
+      "a boy",
+      "a boy is throwing",
+      "a boy tosses",
+      "one boy is throwing",
+      "the boy is throwing",
+      "the boy threw"
+    ],
+    "balls": [
+      "throwing balls",
+      "throws balls"
+    ],
+    "kid": [
+      "a kid throws",
+      "hitting a kid"
+    ],
+    "man": [
+      "a man is throwing a tennis",
+      "a man is throwing",
+      "a man throws",
+      "the man threw",
+      "the man is talking"
+    ],
+    "boys": [
+      "two boys are playing"
+    ],
+    "bats": [
+      "bats"
+    ],
+    "edition": [
+      "edition"
+    ],
+    "guys": [
+      "guys are playing"
+    ]
+  }
+}

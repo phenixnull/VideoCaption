@@ -1,0 +1,43 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is sitting cross legged playing",
+      "a man is playing",
+      "a man sitting",
+      "a man seated",
+      "the man sat and played",
+      "the man is playing",
+      "a man plays",
+      "a man is tuning"
+    ],
+    "flute": [
+      "a flute",
+      "playing a flute",
+      "is playing a flute",
+      "playing flute",
+      "the flute"
+    ],
+    "boy": [
+      "a boy is sitting cross legged playing",
+      "a boy is playing",
+      "the boy sat and played",
+      "a boy plays"
+    ],
+    "kid": [
+      "a kid is playing"
+    ],
+    "instrument": [
+      "an instrument"
+    ],
+    "person": [
+      "a person plays",
+      "the person is playing"
+    ],
+    "courtyard": [
+      "the courtyard"
+    ],
+    "men": [
+      "a men is playing"
+    ]
+  }
+}

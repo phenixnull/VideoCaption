@@ -1,0 +1,68 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is pouring seasoning",
+      "a man is adding something",
+      "a man is adding",
+      "a man is seasoning",
+      "a man puts seasoning",
+      "a man is sprinkling seasoning"
+    ],
+    "person": [
+      "a person is adding",
+      "a person is cooking something"
+    ],
+    "pepper": [
+      "is adding pepper",
+      "putting the pepper"
+    ],
+    "container": [
+      "to a container",
+      "into a container"
+    ],
+    "water": [
+      "seasoned the water"
+    ],
+    "powder": [
+      "is adding powder"
+    ],
+    "box": [
+      "in the box"
+    ],
+    "bowl": [
+      "into a bowl",
+      "in a bowl"
+    ],
+    "spices": [
+      "is adding spices",
+      "is pouring spices",
+      "is sprinkling spices"
+    ],
+    "dish": [
+      "seasoning a dish",
+      "into a dish",
+      "on some dish"
+    ],
+    "sauce": [
+      "is pouring sauce"
+    ],
+    "seasonings": [
+      "seasonings are being put"
+    ],
+    "bottle": [
+      "from a bottle"
+    ],
+    "marinade": [
+      "seasoning the marinade"
+    ],
+    "meat": [
+      "for his meat"
+    ],
+    "liquid": [
+      "on the liquid"
+    ],
+    "kichen": [
+      "cooking his kichen"
+    ]
+  }
+}

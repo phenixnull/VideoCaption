@@ -1,0 +1,57 @@
+{
+  "video_objs": {
+    "man": [
+      "a young man is pushing",
+      "a man pushes",
+      "a man is pushing",
+      "the man is pushing",
+      "the man pushed"
+    ],
+    "van": [
+      "a van"
+    ],
+    "street": [
+      "the street"
+    ],
+    "car": [
+      "a car",
+      "the car"
+    ],
+    "vehicle": [
+      "a vehicle"
+    ],
+    "boy": [
+      "a boy is pushing",
+      "the boy pushed",
+      "a boy pushes",
+      "the boy is pushing",
+      "a young boy is pushing"
+    ],
+    "kid": [
+      "a kid is pushing"
+    ],
+    "truck": [
+      "a truck",
+      "a truck down",
+      "pushing the truck"
+    ],
+    "suv": [
+      "an suv",
+      "pushed the suv",
+      "pushing the suv"
+    ],
+    "guy": [
+      "a guy is pushing"
+    ],
+    "person": [
+      "a person is throwing",
+      "a person is pushing"
+    ],
+    "body": [
+      "a body pushing"
+    ],
+    "road": [
+      "a road"
+    ]
+  }
+}

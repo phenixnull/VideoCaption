@@ -1,0 +1,79 @@
+{
+  "video_objs": {
+    "man": [
+      "a man and"
+    ],
+    "woman": [
+      "a woman and man are driving",
+      "a woman and man are riding",
+      "a woman drives",
+      "a woman drives a man",
+      "a woman driving",
+      "a woman is driving",
+      "the woman is driving",
+      "a black woman gives ride"
+    ],
+    "car": [
+      "in a car",
+      "driving a car",
+      "driving the car",
+      "in the car",
+      "in her car",
+      "drives a car"
+    ],
+    "arnold": [
+      "drives the arnold",
+      "arnold going"
+    ],
+    "street": [
+      "down the street",
+      "arnold schwarzenegger and rae dawn chong drive down the street",
+      "on the street"
+    ],
+    "convertible": [
+      "in a convertible",
+      "drove the convertible"
+    ],
+    "girl": [
+      "the girl drove",
+      "a girl driving",
+      "taking the girl"
+    ],
+    "highway": [
+      "on the highway"
+    ],
+    "lady": [
+      "the lady drove",
+      "a lady is driving",
+      "a lady is driving acar",
+      "a lady talking",
+      "a lady is talking"
+    ],
+    "jeep": [
+      "riding the jeep"
+    ],
+    "people": [
+      "two people",
+      "two people following another person",
+      "two people talk"
+    ],
+    "actress": [
+      "an actress is driving"
+    ],
+    "actors": [
+      "two actors converse while travelling"
+    ],
+    "couple": [
+      "couple are travelling"
+    ],
+    "cop": [
+      "a cop is talking"
+    ],
+    "aarnold": [
+      "aarnold"
+    ],
+    "stranger": [
+      "to a stranger"
+    ]
+  }
+}

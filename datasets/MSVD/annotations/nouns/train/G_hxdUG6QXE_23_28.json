@@ -1,0 +1,49 @@
+{
+  "video_objs": {
+    "boy": [
+      "a boy",
+      "the boy",
+      "boy",
+      "the boy is singing",
+      "the boy played",
+      "boy is singing",
+      "a boy is playing"
+    ],
+    "guitar": [
+      "a guitar",
+      "guitar",
+      "the guitar",
+      "his guitar",
+      "guitar and singing",
+      "guitar and sang"
+    ],
+    "guy": [
+      "a guy"
+    ],
+    "man": [
+      "a man",
+      "the man",
+      "a man seated",
+      "a man plays",
+      "a man is playing",
+      "a man is singing",
+      "a man sings",
+      "a man who sang"
+    ],
+    "song": [
+      "a song"
+    ],
+    "person": [
+      "the person"
+    ],
+    "paino": [
+      "is playing paino"
+    ],
+    "music": [
+      "boy playing music"
+    ],
+    "teenager": [
+      "a teenager"
+    ]
+  }
+}

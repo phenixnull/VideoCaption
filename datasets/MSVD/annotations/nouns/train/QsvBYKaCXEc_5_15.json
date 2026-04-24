@@ -1,0 +1,66 @@
+{
+  "video_objs": {
+    "fish": [
+      "a big fish is swimming",
+      "a fish is swimming"
+    ],
+    "water": [
+      "in the water",
+      "in shallow water",
+      "in the water close",
+      "of the water",
+      "through the water",
+      "through water",
+      "in a water"
+    ],
+    "shark": [
+      "a large shark patrols",
+      "a shark is swimming",
+      "a shark swam",
+      "a shark swims",
+      "the shark is swimming",
+      "the shark swam",
+      "the shark is",
+      "a shark moving"
+    ],
+    "beach": [
+      "the beach"
+    ],
+    "shoreline": [
+      "along the shoreline",
+      "along a shoreline"
+    ],
+    "shore": [
+      "near the shore"
+    ],
+    "surface": [
+      "just below the surface"
+    ],
+    "lake": [
+      "in a lake",
+      "in lake"
+    ],
+    "animal": [
+      "an animal swims",
+      "an animal is swimming"
+    ],
+    "whale": [
+      "a whale is swimming"
+    ],
+    "ocean": [
+      "in the ocean"
+    ],
+    "river": [
+      "in the river"
+    ],
+    "video": [
+      "a video"
+    ],
+    "sea": [
+      "in the sea"
+    ],
+    "dolphin": [
+      "very long dolphin"
+    ]
+  }
+}

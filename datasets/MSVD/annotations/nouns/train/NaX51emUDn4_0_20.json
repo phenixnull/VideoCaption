@@ -1,0 +1,88 @@
+{
+  "video_objs": {
+    "cat": [
+      "a cat stares",
+      "a cat is attempting",
+      "a cat is drinking",
+      "a cat is playing",
+      "a cat is putting its",
+      "a cat is watching",
+      "a cat puts his",
+      "a cat puts its",
+      "a cat sticks its",
+      "a cat wets his",
+      "the cat is drinking",
+      "the cat put his",
+      "a cat looking",
+      "a cat is washing its",
+      "the cat drink",
+      "the cat is playing",
+      "a cat is getting wet",
+      "a cat is trying",
+      "a cat is bathing",
+      "a cat sticks it s",
+      "a cat gets splashed",
+      "a cat drinks",
+      "a cat trying",
+      "a cat puts it s",
+      "cat drinking",
+      "a cat doing sume funny acts",
+      "a cat is washing her",
+      "a cat drinking",
+      "cat is drinking",
+      "cat funny clip"
+    ],
+    "dish": [
+      "a dish being filled"
+    ],
+    "water": [
+      "to drink water",
+      "the running water",
+      "is watching water",
+      "water is being put",
+      "is drinking water",
+      "by flowing water",
+      "cat is drinking water"
+    ],
+    "fountain": [
+      "of a fountain",
+      "under a fountain"
+    ],
+    "faucet": [
+      "of a faucet",
+      "from a faucet",
+      "under a faucet",
+      "from the faucet"
+    ],
+    "bowl": [
+      "into its bowl",
+      "from a bowl",
+      "from the bowl"
+    ],
+    "head": [
+      "putting its head",
+      "puts his head",
+      "puts its head",
+      "sticks its head",
+      "wets his head",
+      "put his head",
+      "the cate got his head wet",
+      "it s head"
+    ],
+    "kitten": [
+      "a kitten is drinking"
+    ],
+    "sink": [
+      "under a sink"
+    ],
+    "toilet": [
+      "inside the toilet"
+    ],
+    "pail": [
+      "of a pail"
+    ],
+    "face": [
+      "washing her face"
+    ]
+  }
+}

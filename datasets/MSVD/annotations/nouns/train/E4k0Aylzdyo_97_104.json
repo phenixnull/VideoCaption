@@ -1,0 +1,58 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman climbs",
+      "a woman gets",
+      "a woman is wearing a hamlet",
+      "a woman is sitting"
+    ],
+    "motorcycle": [
+      "of a motorcycle",
+      "mount a motorcycle",
+      "on a motorcycle",
+      "onto a motorcycle",
+      "riding a motorcycle",
+      "ride the motorcycle",
+      "on his motorcycle",
+      "on the motorcycle"
+    ],
+    "man": [
+      "a man and",
+      "the man and",
+      "a man riding"
+    ],
+    "helmet": [
+      "on a helmet",
+      "wearing a helmet"
+    ],
+    "girl": [
+      "a girl gets",
+      "a girl climbs",
+      "a guy is giving a girl",
+      "the girl climbed",
+      "gave the girl",
+      "a girl is getting",
+      "a girl is wearing",
+      "the girl got"
+    ],
+    "couple": [
+      "a couple mount"
+    ],
+    "boy": [
+      "a boy and",
+      "of the boy",
+      "the boy gave",
+      "of a boy",
+      "with the boy",
+      "the boy and"
+    ],
+    "people": [
+      "two people are getting",
+      "two people are riding"
+    ],
+    "bike": [
+      "riding a bike",
+      "on the bike"
+    ]
+  }
+}

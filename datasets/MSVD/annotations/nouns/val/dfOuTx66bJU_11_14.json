@@ -1,0 +1,44 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is sitting",
+      "a man is playing",
+      "a man plays",
+      "a man seated",
+      "a man playing"
+    ],
+    "rock": [
+      "a large rock",
+      "a rock",
+      "a huge rock"
+    ],
+    "flute": [
+      "a flute"
+    ],
+    "woman": [
+      "a woman watches",
+      "a woman watches him"
+    ],
+    "hero": [
+      "hero is tuning"
+    ],
+    "song": [
+      "singing song"
+    ],
+    "lady": [
+      "a lady admiring",
+      "a lady is singing"
+    ],
+    "person": [
+      "a person is playing"
+    ],
+    "girl": [
+      "a girl viewing",
+      "the girl"
+    ],
+    "instrument": [
+      "an instrument",
+      "instrument"
+    ]
+  }
+}

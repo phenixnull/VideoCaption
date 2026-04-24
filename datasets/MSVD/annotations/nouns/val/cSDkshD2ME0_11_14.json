@@ -1,0 +1,51 @@
+{
+  "video_objs": {
+    "rock": [
+      "someone behind a rock",
+      "behind a rock",
+      "behind the rock"
+    ],
+    "man": [
+      "a man",
+      "a man shoots",
+      "a man is crouching",
+      "a man is shooting",
+      "the man shot",
+      "one man is shooting"
+    ],
+    "rifle": [
+      "with a rifle",
+      "holding a rifle"
+    ],
+    "horse": [
+      "on a horse",
+      "of a horse",
+      "on the horse"
+    ],
+    "bullet": [
+      "fires a bullet"
+    ],
+    "shotgun": [
+      "with a shotgun"
+    ],
+    "cowboy": [
+      "the cowboy"
+    ],
+    "boulder": [
+      "behind a boulder"
+    ],
+    "person": [
+      "one person",
+      "another person"
+    ],
+    "hunter": [
+      "a hunter"
+    ],
+    "gun": [
+      "with a gun"
+    ],
+    "horseman": [
+      "a horseman"
+    ]
+  }
+}

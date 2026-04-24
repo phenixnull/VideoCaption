@@ -1,0 +1,70 @@
+{
+  "video_objs": {
+    "man": [
+      "a man explaining",
+      "a man is brushing his thin blue",
+      "a man is showing how",
+      "a man shows how",
+      "a man shows various",
+      "the man is brushing his",
+      "a man is describing what is needed",
+      "the man showing how"
+    ],
+    "hair": [
+      "his hair",
+      "his thin blue hair",
+      "his colored hair"
+    ],
+    "boy": [
+      "a boy demonstrated how",
+      "a boy is combing his",
+      "a boy is demonstrating how",
+      "a boy is styling his",
+      "a boy is standing",
+      "a boy",
+      "a boy illustrating how"
+    ],
+    "mohawk": [
+      "style a mohawk",
+      "liberty spike mohawk",
+      "a spike mohawk",
+      "make a mohawk"
+    ],
+    "items": [
+      "various items needed"
+    ],
+    "hairdo": [
+      "a spiky hairdo"
+    ],
+    "room": [
+      "inside the room"
+    ],
+    "guy": [
+      "a guy is doing his",
+      "a guy is preparing his",
+      "a guy is combing his"
+    ],
+    "person": [
+      "the person is showing how",
+      "the person is combing"
+    ],
+    "men": [
+      "a men make a liberty spike"
+    ],
+    "makeup": [
+      "doing a makeup"
+    ],
+    "equipments": [
+      "some equipments"
+    ],
+    "beautician": [
+      "a beautician is teaching how"
+    ],
+    "spray": [
+      "some spray"
+    ],
+    "hairstyle": [
+      "a different hairstyle"
+    ]
+  }
+}

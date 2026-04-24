@@ -1,0 +1,73 @@
+{
+  "video_objs": {
+    "teacher": [
+      "a teacher explaining",
+      "a teacher is teaching",
+      "the teacher is explaining",
+      "the teacher explained his",
+      "a teacher is teaching his",
+      "a teacher teaching",
+      "a teacher is explaining"
+    ],
+    "man": [
+      "a man gives",
+      "a man is demonstrating",
+      "a man is discussing",
+      "a man is lecturing about",
+      "a man is solving",
+      "a man is standing",
+      "a man is taking some",
+      "a man is talking and pointing",
+      "a man is talking",
+      "a man is teaching",
+      "a man talks about geometry",
+      "the man is explaining",
+      "a man is explaining something",
+      "a man is explaining how",
+      "a man is giving",
+      "a man teaching lesson",
+      "a man teaching"
+    ],
+    "diagram": [
+      "explaining a diagram",
+      "from a diagram",
+      "explained his diagram"
+    ],
+    "math": [
+      "lecturing about math",
+      "is teaching math"
+    ],
+    "figure": [
+      "to a figure"
+    ],
+    "board": [
+      "on a board"
+    ],
+    "class": [
+      "teaching a class",
+      "to the class",
+      "in the class"
+    ],
+    "professor": [
+      "a professor teach"
+    ],
+    "student": [
+      "teaching his student"
+    ],
+    "lessons": [
+      "is teaching lessons"
+    ],
+    "vectors": [
+      "is describing vectors"
+    ],
+    "lecture": [
+      "giving a lecture"
+    ],
+    "maths": [
+      "sir is teaching maths"
+    ],
+    "person": [
+      "the person is teaching"
+    ]
+  }
+}

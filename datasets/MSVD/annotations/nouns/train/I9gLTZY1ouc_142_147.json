@@ -1,0 +1,64 @@
+{
+  "video_objs": {
+    "person": [
+      "a person walking",
+      "a person is walking",
+      "a person is stepping",
+      "a person walks",
+      "a person is hiking",
+      "the person is walking",
+      "a person walking and take"
+    ],
+    "woods": [
+      "the woods"
+    ],
+    "man": [
+      "a man crosses",
+      "a man is crossing",
+      "a man is stepping",
+      "a man steps",
+      "a man walks",
+      "the man is walking",
+      "the man stepped",
+      "a man is researching"
+    ],
+    "tree": [
+      "a tree"
+    ],
+    "forest": [
+      "a forest"
+    ],
+    "log": [
+      "a log"
+    ],
+    "guy": [
+      "a guy is standing",
+      "a guy is walking"
+    ],
+    "trees": [
+      "green trees"
+    ],
+    "shirt": [
+      "man s shirt"
+    ],
+    "jungle": [
+      "a jungle",
+      "the jungle"
+    ],
+    "branch": [
+      "a branch"
+    ],
+    "woman": [
+      "a woman is walking"
+    ],
+    "litter": [
+      "litter"
+    ],
+    "cloth": [
+      "a cloth"
+    ],
+    "stick": [
+      "stick"
+    ]
+  }
+}

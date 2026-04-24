@@ -1,0 +1,31 @@
+{
+  "video_objs": {
+    "woman": [
+      "a young woman is singing and playing",
+      "a woman is playing",
+      "a woman is singing and playing",
+      "a woman is singing while playing",
+      "a woman plays",
+      "a woman playing music"
+    ],
+    "guitar": [
+      "playing the guitar",
+      "a guitar",
+      "the guitar",
+      "guitar"
+    ],
+    "girl": [
+      "a girl is playing",
+      "a girl is singing and playing",
+      "the girl sang and played",
+      "the girl is singing and playing",
+      "the girl played her"
+    ],
+    "lady": [
+      "a lady is playing"
+    ],
+    "song": [
+      "a song"
+    ]
+  }
+}

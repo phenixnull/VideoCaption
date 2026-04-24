@@ -1,0 +1,41 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman is dancing",
+      "a woman",
+      "a woman dances",
+      "a woman dances enthusiastically"
+    ],
+    "dress": [
+      "a blue dress"
+    ],
+    "street": [
+      "in the street"
+    ],
+    "girl": [
+      "a girl is dancing",
+      "a girl is dancing along side",
+      "the girl is dancing"
+    ],
+    "song": [
+      "a song"
+    ],
+    "lady": [
+      "the lady danced",
+      "a lady is dancing",
+      "a lady enjoying dancing"
+    ],
+    "actor": [
+      "actor are acting"
+    ],
+    "person": [
+      "a person is dancing"
+    ],
+    "subway": [
+      "in the subway"
+    ],
+    "shreya": [
+      "shreya dancing very well"
+    ]
+  }
+}

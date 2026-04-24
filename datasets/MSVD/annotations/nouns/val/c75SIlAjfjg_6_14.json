@@ -1,0 +1,50 @@
+{
+  "video_objs": {
+    "children": [
+      "several children practice their",
+      "children are dancing",
+      "children are singing and dancing",
+      "children danced",
+      "children proforming"
+    ],
+    "routine": [
+      "their routine"
+    ],
+    "onstage": [
+      "dance onstage",
+      "dancing onstage",
+      "performing onstage"
+    ],
+    "group": [
+      "a group"
+    ],
+    "stage": [
+      "on a stage",
+      "on the stage"
+    ],
+    "kids": [
+      "kids are dancing",
+      "kids dance",
+      "little kids are dancing",
+      "of small kids"
+    ],
+    "adult": [
+      "an adult stands",
+      "an adult and five"
+    ],
+    "babies": [
+      "the babies are dancing",
+      "the little babies are dancing"
+    ],
+    "child": [
+      "the child s funny"
+    ],
+    "program": [
+      "s funny program",
+      "dance program"
+    ],
+    "toddlers": [
+      "five toddlers dance"
+    ]
+  }
+}

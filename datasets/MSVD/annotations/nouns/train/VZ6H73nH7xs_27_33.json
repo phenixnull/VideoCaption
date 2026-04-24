@@ -1,0 +1,28 @@
+{
+  "video_objs": {
+    "cartoon": [
+      "a cartoon"
+    ],
+    "man": [
+      "a man",
+      "an animated man"
+    ],
+    "trapeze": [
+      "a trapeze"
+    ],
+    "net": [
+      "a net"
+    ],
+    "person": [
+      "a person"
+    ],
+    "rope": [
+      "a rope"
+    ],
+    "bar": [
+      "a bar",
+      "the bar",
+      "the hanging bar"
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "video_objs": {
+    "lady": [
+      "a lady cutting",
+      "the lady is showing",
+      "the lady is cutting",
+      "a lady is cutting",
+      "a lady chopping",
+      "a lady is cutting qa"
+    ],
+    "pineapple": [
+      "a pineapple is being cut",
+      "a pineapple is cut"
+    ],
+    "girl": [
+      "a girl cut",
+      "a girl cutting"
+    ],
+    "top": [
+      "the top",
+      "chops off the top",
+      "cuts off the top"
+    ],
+    "woman": [
+      "a woman chops off",
+      "a woman cuts",
+      "a woman is chopping",
+      "a woman is cutting",
+      "a woman is peeling",
+      "a woman is removing",
+      "a woman is skinning",
+      "a woman is slicing",
+      "the woman is peeling",
+      "a woman showing",
+      "a woman is slicing open",
+      "a woman is cutting up",
+      "a woman carefully",
+      "a woman cuts up",
+      "a woman peels",
+      "a woman is slicing and peeling",
+      "the woman is slicing",
+      "a woman cuts up some"
+    ],
+    "bottom": [
+      "bottom portions"
+    ],
+    "skin": [
+      "taking the skin off",
+      "removes the skin",
+      "cutting the ends and skin off",
+      "removing the skin",
+      "skin off"
+    ],
+    "fruits": [
+      "cut the fruits",
+      "cutting the fruits",
+      "cutting fruits"
+    ],
+    "fruit": [
+      "cutting the fruit",
+      "cutting up fruit"
+    ],
+    "kitchen": [
+      "in the kitchen"
+    ],
+    "pulp": [
+      "remove its pulp"
+    ],
+    "fruite": [
+      "cutting the fruite"
+    ]
+  }
+}

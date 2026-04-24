@@ -1,0 +1,70 @@
+{
+  "video_objs": {
+    "man": [
+      "a man shoots",
+      "a man is firing",
+      "a man showing"
+    ],
+    "target": [
+      "at a target",
+      "a target is being hit",
+      "a target is being riddled",
+      "a target is being shot",
+      "a target is being shot full",
+      "a target is hit",
+      "the target got more",
+      "the target was being shot",
+      "a target is shot repeatably",
+      "hitting a target"
+    ],
+    "person": [
+      "a person is shooting",
+      "a person shoots",
+      "the person is loading"
+    ],
+    "gun": [
+      "showing a gun",
+      "showing the gun",
+      "loading the gun",
+      "gun shooting"
+    ],
+    "bullets": [
+      "bullets are being fired",
+      "bullets are hitting",
+      "bullets kept hitting",
+      "is shooting bullets"
+    ],
+    "chat": [
+      "a chat is hanging"
+    ],
+    "guy": [
+      "a guy is showing",
+      "the guy is shooting"
+    ],
+    "men": [
+      "a men is shooting",
+      "a men shooting"
+    ],
+    "toys": [
+      "some toys are"
+    ],
+    "forest": [
+      "in the forest"
+    ],
+    "board": [
+      "at a board",
+      "someone hitting the hanging board"
+    ],
+    "projectiles": [
+      "small shot projectiles hitting"
+    ],
+    "steel": [
+      "somebody is shooting a steel",
+      "somebody is shooting steel",
+      "someone is shooting steel"
+    ],
+    "slappin": [
+      "someone slappin"
+    ]
+  }
+}

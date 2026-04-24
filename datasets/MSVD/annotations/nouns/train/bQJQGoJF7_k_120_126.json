@@ -1,0 +1,73 @@
+{
+  "video_objs": {
+    "man": [
+      "the man is stirring oil",
+      "a man is mixing",
+      "a man is stirring slurry",
+      "a man is preparing",
+      "a man is stirring seasoning mix",
+      "a man is stirring",
+      "the man stirred"
+    ],
+    "liquid": [
+      "mixing a liquid",
+      "is stirring liquid",
+      "stirring some liquid",
+      "someone is mixing a liquid",
+      "stirring a liquid",
+      "someone stirs a liquid"
+    ],
+    "person": [
+      "a person is mixing liquids",
+      "a person is mixing",
+      "a person stirs",
+      "a person is stirring some",
+      "a person is cooking"
+    ],
+    "spoon": [
+      "by a spoon",
+      "with a spoon"
+    ],
+    "chef": [
+      "a chef is stirring"
+    ],
+    "meat": [
+      "is preparing meat"
+    ],
+    "bowl": [
+      "in a bowl",
+      "a small bowl"
+    ],
+    "sauce": [
+      "mixing a sauce",
+      "stirred the sauce",
+      "stirred a sauce"
+    ],
+    "marinade": [
+      "is stirring marinade",
+      "stirring the marinade",
+      "making the marinade",
+      "stirring some marinade"
+    ],
+    "mixture": [
+      "a mixture is stired",
+      "stiring a mixture"
+    ],
+    "chicken": [
+      "for the chicken"
+    ],
+    "water": [
+      "in the water",
+      "is stirring water"
+    ],
+    "seasonings": [
+      "stirred the seasonings"
+    ],
+    "package": [
+      "to a package"
+    ],
+    "dish": [
+      "any one is making dish"
+    ]
+  }
+}

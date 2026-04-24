@@ -1,0 +1,50 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman and",
+      "a woman is walking",
+      "a woman walks her",
+      "a woman shows off her prancing",
+      "a woman walks"
+    ],
+    "dog": [
+      "with a dog",
+      "walks her dog",
+      "and a dog",
+      "her prancing dog",
+      "walks a dog",
+      "a dog is following"
+    ],
+    "stage": [
+      "a stage"
+    ],
+    "show": [
+      "a show"
+    ],
+    "grass": [
+      "the grass"
+    ],
+    "crowd": [
+      "the crowd"
+    ],
+    "field": [
+      "the field"
+    ],
+    "lady": [
+      "the lady",
+      "a lady"
+    ],
+    "feet": [
+      "her feet"
+    ],
+    "person": [
+      "the person"
+    ],
+    "ground": [
+      "the ground"
+    ],
+    "women": [
+      "the women"
+    ]
+  }
+}

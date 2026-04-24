@@ -1,0 +1,53 @@
+{
+  "video_objs": {
+    "lemur": [
+      "a lemur is sitting",
+      "a lemur is sitting upright",
+      "a lemur sits and looks around",
+      "a lemur sitting"
+    ],
+    "ground": [
+      "the ground",
+      "on the ground"
+    ],
+    "legs": [
+      "legs stretched out"
+    ],
+    "road": [
+      "on the road",
+      "sitting the road"
+    ],
+    "tail": [
+      "its tail beneath the stretched"
+    ],
+    "camera": [
+      "facing the camera"
+    ],
+    "animal": [
+      "the animal sat",
+      "the animal is sitting down",
+      "a animal setting"
+    ],
+    "bottom": [
+      "on his bottom"
+    ],
+    "grass": [
+      "on the grass"
+    ],
+    "rock": [
+      "on the rock"
+    ],
+    "monkey": [
+      "a monkey is sitting like"
+    ],
+    "lap": [
+      "in it s lap"
+    ],
+    "peoples": [
+      "the peoples"
+    ],
+    "cameraman": [
+      "the cameraman"
+    ]
+  }
+}

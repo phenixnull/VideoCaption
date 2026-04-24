@@ -1,0 +1,49 @@
+{
+  "video_objs": {
+    "man": [
+      "the man",
+      "a young man",
+      "a man"
+    ],
+    "drums": [
+      "the drums",
+      "drums"
+    ],
+    "women": [
+      "two women",
+      "women"
+    ],
+    "boy": [
+      "the boy"
+    ],
+    "musicians": [
+      "the two other musicians",
+      "musicians"
+    ],
+    "band": [
+      "the band",
+      "a band"
+    ],
+    "hologram": [
+      "hologram"
+    ],
+    "piano": [
+      "the piano"
+    ],
+    "person": [
+      "a person"
+    ],
+    "song": [
+      "a song"
+    ],
+    "guitar": [
+      "the guitar"
+    ],
+    "instrument": [
+      "instrument"
+    ],
+    "guy": [
+      "a guy"
+    ]
+  }
+}

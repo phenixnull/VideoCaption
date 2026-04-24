@@ -1,0 +1,59 @@
+{
+  "video_objs": {
+    "baby": [
+      "a baby is singing",
+      "the baby is taking a bath and singing",
+      "the baby is telling something",
+      "baby",
+      "a baby is sitting",
+      "a baby is smiling",
+      "a baby smilling",
+      "a small baby singing"
+    ],
+    "boy": [
+      "a boy is taking a bath",
+      "a little boy is",
+      "a little boy is taking a bath",
+      "the little boy sang",
+      "the little boy is taking a bath"
+    ],
+    "child": [
+      "a child is singing",
+      "a small child is singing",
+      "a small child sitting",
+      "a young child is singing while bathing",
+      "a young child is sitting",
+      "a young child is taking a bath",
+      "a young child sings",
+      "a child reciting twinkle twinkle little star",
+      "a child is playing",
+      "a small child is singing while taking a bath"
+    ],
+    "tub": [
+      "in the tub",
+      "in a tub",
+      "the bath tub",
+      "a bath tub"
+    ],
+    "kid": [
+      "a kid",
+      "kid taking bath",
+      "a kid is taking a bath"
+    ],
+    "girl": [
+      "a little girl sings",
+      "a cute girl is bathing and singing",
+      "the little girl sang"
+    ],
+    "bathroom": [
+      "in the bathroom"
+    ],
+    "song": [
+      "an infant sings a song",
+      "singing a song"
+    ],
+    "poem": [
+      "singing a poem"
+    ]
+  }
+}

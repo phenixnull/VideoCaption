@@ -1,0 +1,48 @@
+{
+  "video_objs": {
+    "cat": [
+      "a cat hidden",
+      "a cat",
+      "a cat is jumping",
+      "a cat is popping",
+      "a cat pops out",
+      "with a cat",
+      "a white cat is striking"
+    ],
+    "box": [
+      "in a box",
+      "a cardboard box",
+      "of a box",
+      "of the box",
+      "a box is",
+      "inside the box"
+    ],
+    "hand": [
+      "someone s hand"
+    ],
+    "person": [
+      "a person s",
+      "at a person"
+    ],
+    "finger": [
+      "a finger",
+      "moves his finger",
+      "with their finger"
+    ],
+    "man": [
+      "a man playing",
+      "a man brings his",
+      "a man teases",
+      "a man watching ninja",
+      "a man is playing",
+      "a man",
+      "a man s"
+    ],
+    "kitten": [
+      "a white kitten"
+    ],
+    "table": [
+      "on the table"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "video_objs": {
+    "boy": [
+      "a boy is beating other boy",
+      "a boy smacks",
+      "a boy spanks",
+      "a boy whacks",
+      "the boy is beating",
+      "a boy hits",
+      "a boy is hitting",
+      "a boy beating his"
+    ],
+    "stick": [
+      "by stick",
+      "with a stick"
+    ],
+    "sword": [
+      "with a sword",
+      "using a plastic sword"
+    ],
+    "man": [
+      "a man is beating another man",
+      "a man is being hit",
+      "a man is getting hit",
+      "a man is hitting another",
+      "a man is striking another man",
+      "a man strikes another man",
+      "a man whacks another",
+      "one man is hitting another man"
+    ],
+    "buttock": [
+      "on the buttock"
+    ],
+    "bat": [
+      "with a bat"
+    ],
+    "object": [
+      "with an object",
+      "using an object"
+    ],
+    "guy": [
+      "another guy"
+    ],
+    "person": [
+      "the another person"
+    ],
+    "father": [
+      "his father"
+    ]
+  }
+}

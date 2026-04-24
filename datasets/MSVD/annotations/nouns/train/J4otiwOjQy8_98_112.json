@@ -1,0 +1,48 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is cutting up",
+      "a man is slicing",
+      "a man is chopping",
+      "a man is cutting",
+      "a man chops",
+      "the man sliced",
+      "the man is slicing"
+    ],
+    "vegetable": [
+      "a tubular looking white vegetable",
+      "a purple skinned vegetable",
+      "slicing a vegetable",
+      "cutting a vegetable",
+      "up a vegetable"
+    ],
+    "rind": [
+      "purple rind"
+    ],
+    "person": [
+      "a person slices",
+      "the person is cooking"
+    ],
+    "eggplant": [
+      "eggplant"
+    ],
+    "pieces": [
+      "pieces"
+    ],
+    "guy": [
+      "a guy is slicing"
+    ],
+    "food": [
+      "food"
+    ],
+    "brinjals": [
+      "brinjals"
+    ],
+    "brinjal": [
+      "brinjal"
+    ],
+    "kichen": [
+      "kichen"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "video_objs": {
+    "group": [
+      "a group"
+    ],
+    "men": [
+      "five men dive",
+      "five men diving",
+      "five men jump",
+      "five men line up",
+      "men are competing",
+      "men are diving",
+      "men are falling",
+      "men are jumping",
+      "the men jumped",
+      "men fall",
+      "five men are diving"
+    ],
+    "swimmers": [
+      "the swimmers dived",
+      "swimmers dive stupidly",
+      "swimmers ready",
+      "five swimmers stand",
+      "swimmers dive"
+    ],
+    "people": [
+      "five people dive",
+      "people are diving",
+      "people flip",
+      "people jump",
+      "people are jumping",
+      "people are runing",
+      "people getting",
+      "people dive"
+    ],
+    "signal": [
+      "on a signal"
+    ],
+    "water": [
+      "into the water"
+    ],
+    "boys": [
+      "the boys are swimming"
+    ],
+    "olympics": [
+      "watching the olympics",
+      "they are playing a silly olympics",
+      "silly olympics"
+    ],
+    "athlets": [
+      "athlets performing swimming"
+    ],
+    "girls": [
+      "a girls are swimming"
+    ],
+    "participants": [
+      "participants are doing funny actions"
+    ],
+    "players": [
+      "some players participate",
+      "some players are swiming"
+    ],
+    "man": [
+      "man s is swimming"
+    ],
+    "guys": [
+      "guys are participating"
+    ]
+  }
+}

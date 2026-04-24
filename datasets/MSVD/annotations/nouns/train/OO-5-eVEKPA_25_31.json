@@ -1,0 +1,34 @@
+{
+  "video_objs": {
+    "girl": [
+      "a young girl seated",
+      "a girl is playing",
+      "a little girl is playing",
+      "the little girl is performing",
+      "the little girl sat",
+      "the little girl sat and played",
+      "a small girl is playing",
+      "the girl is playing"
+    ],
+    "stage": [
+      "on stage"
+    ],
+    "piano": [
+      "a piano",
+      "the piano",
+      "piano recital",
+      "playing piano",
+      "played the piano",
+      "playing the piano"
+    ],
+    "baby": [
+      "the baby is playing"
+    ],
+    "kids": [
+      "kids are playing"
+    ],
+    "lady": [
+      "this lady is clearly"
+    ]
+  }
+}

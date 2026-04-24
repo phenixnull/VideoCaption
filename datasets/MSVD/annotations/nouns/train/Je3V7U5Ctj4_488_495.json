@@ -1,0 +1,63 @@
+{
+  "video_objs": {
+    "man": [
+      "a man peels",
+      "a man is peeling",
+      "a man is cutting",
+      "a man peels part",
+      "the man cut",
+      "the man prepared",
+      "man cleaning",
+      "a man is talking",
+      "the man peeled",
+      "a man pulls"
+    ],
+    "piece": [
+      "a piece"
+    ],
+    "onion": [
+      "an onion",
+      "an onion that is already cut",
+      "onion"
+    ],
+    "chef": [
+      "a chef peals"
+    ],
+    "skin": [
+      "the skin off",
+      "the skin"
+    ],
+    "onions": [
+      "onions",
+      "peels onions"
+    ],
+    "potato": [
+      "cleaning potato",
+      "cutting the potato",
+      "peeling out the potato"
+    ],
+    "hands": [
+      "hands"
+    ],
+    "person": [
+      "a person is cooking",
+      "the person is cutting",
+      "a person preparing"
+    ],
+    "food": [
+      "preparing the food"
+    ],
+    "vegetable": [
+      "some vegetable"
+    ],
+    "recipe": [
+      "the recipe"
+    ],
+    "kichen": [
+      "his kichen"
+    ],
+    "parts": [
+      "parts"
+    ]
+  }
+}

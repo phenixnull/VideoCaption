@@ -1,0 +1,52 @@
+{
+  "video_objs": {
+    "man": [
+      "a man walks",
+      "a man inspects",
+      "a man is looking",
+      "a man is checking out",
+      "a man treading",
+      "the man found",
+      "the man approached",
+      "a man examines"
+    ],
+    "deer": [
+      "a dead deer",
+      "a deer he has shot",
+      "a deer fallen",
+      "the deer that he had shot",
+      "the dead deer",
+      "a deer",
+      "a deer he shot",
+      "the deer",
+      "the deer died"
+    ],
+    "hunter": [
+      "a hunter walks",
+      "a hunter is touching",
+      "a hunter is examining",
+      "a hunter is investigating",
+      "a hunter is walking",
+      "a hunter approaches"
+    ],
+    "shooter": [
+      "shooter is walking"
+    ],
+    "animal": [
+      "a dead animal",
+      "the animal is dead"
+    ],
+    "leaves": [
+      "dried leaves"
+    ],
+    "gun": [
+      "the gun"
+    ],
+    "person": [
+      "a person is searching"
+    ],
+    "ship": [
+      "the ship"
+    ]
+  }
+}

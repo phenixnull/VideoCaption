@@ -1,0 +1,92 @@
+{
+  "video_objs": {
+    "man": [
+      "a man kneads",
+      "a man is making tortillas",
+      "a man is preparing",
+      "a man is kneading"
+    ],
+    "wad": [
+      "a wad"
+    ],
+    "dough": [
+      "is kneading dough",
+      "kneading some dough",
+      "dough is being kneaded",
+      "dough is knead",
+      "is molding dough",
+      "kneading the dough",
+      "kneads some dough",
+      "someone is kneading dough",
+      "someone is kneeding dough",
+      "someone kneaded dough",
+      "is kneeding dough"
+    ],
+    "person": [
+      "a person is kneading",
+      "a person is kneading some",
+      "a person kneads",
+      "a person kneads some",
+      "a person has completed kneading"
+    ],
+    "mixture": [
+      "kneading a mixture",
+      "kneading the mixture"
+    ],
+    "bowl": [
+      "in a bowl",
+      "inside a bowl",
+      "of a bowl"
+    ],
+    "woman": [
+      "a woman is kneading a floured doughlike",
+      "a woman is kneading",
+      "a woman kneads",
+      "a woman making",
+      "a woman is cooking his",
+      "a woman is doing",
+      "a woman is mixing",
+      "a woman is showing how",
+      "a woman shows how",
+      "the woman is kneeding",
+      "the woman knead"
+    ],
+    "breaddough": [
+      "someone is kneading breaddough"
+    ],
+    "flour": [
+      "the cook is kneading the flour",
+      "is squeezing flour",
+      "is kneading flour",
+      "mixing the flour",
+      "someone is kneading the flour",
+      "someone is kneading flour",
+      "knead the flour",
+      "flour is been mashed is a bowle",
+      "flour is been mashed"
+    ],
+    "lady": [
+      "a lady is mixing something",
+      "a lady is squeezing",
+      "a lady is kneading"
+    ],
+    "girl": [
+      "a girl is kneading"
+    ],
+    "kichen": [
+      "cooking his kichen"
+    ],
+    "chapattis": [
+      "to make chapattis"
+    ],
+    "someone": [
+      "someone is kneading",
+      "someone is kneeding",
+      "someone kneaded"
+    ],
+    "batter": [
+      "the cook is kneading the batter",
+      "mixing the batter"
+    ]
+  }
+}

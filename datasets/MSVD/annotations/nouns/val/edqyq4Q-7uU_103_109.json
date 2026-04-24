@@ -1,0 +1,66 @@
+{
+  "video_objs": {
+    "man": [
+      "the man danced",
+      "a man danced",
+      "a man dances",
+      "a man is dancing",
+      "the man is dancing",
+      "a man",
+      "a man is performing"
+    ],
+    "stage": [
+      "on the stage"
+    ],
+    "guy": [
+      "a guy dancing",
+      "a guy is dancing"
+    ],
+    "studio": [
+      "in a studio"
+    ],
+    "room": [
+      "in a room"
+    ],
+    "floor": [
+      "on a floor",
+      "on the floor"
+    ],
+    "men": [
+      "a men dancing"
+    ],
+    "artist": [
+      "an artist performing"
+    ],
+    "clip": [
+      "a clip"
+    ],
+    "movie": [
+      "from a movie"
+    ],
+    "dancer": [
+      "a dancer teaching few",
+      "one dancer is dancing"
+    ],
+    "steps": [
+      "teaching few steps"
+    ],
+    "learner": [
+      "a new learner"
+    ],
+    "chair": [
+      "to a chair"
+    ],
+    "student": [
+      "to his student"
+    ],
+    "dance": [
+      "doing jazz dance",
+      "performing a dance",
+      "a dance",
+      "dance performed",
+      "dance",
+      "performing the dance"
+    ]
+  }
+}

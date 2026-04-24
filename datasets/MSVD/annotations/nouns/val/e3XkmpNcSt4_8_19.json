@@ -1,0 +1,33 @@
+{
+  "video_objs": {
+    "folder": [
+      "a folder",
+      "creates a folder",
+      "makes a folder",
+      "is creating a folder",
+      "created a new folder",
+      "making a new folder",
+      "creates a new folder",
+      "is opening a folder",
+      "make new folder"
+    ],
+    "man": [
+      "a man"
+    ],
+    "computer": [
+      "a computer"
+    ],
+    "person": [
+      "a person"
+    ],
+    "mouse": [
+      "a mouse"
+    ],
+    "applications": [
+      "applications"
+    ],
+    "class": [
+      "a class"
+    ]
+  }
+}

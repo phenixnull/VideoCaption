@@ -1,0 +1,64 @@
+{
+  "video_objs": {
+    "person": [
+      "a person",
+      "a person is rapidly typing",
+      "a person is typing",
+      "a person types",
+      "the person is typing"
+    ],
+    "computer": [
+      "on a computer",
+      "of a computer"
+    ],
+    "man": [
+      "a man is typing",
+      "a man or",
+      "a man is tying",
+      "a man typing very fast",
+      "a man trying"
+    ],
+    "keyboard": [
+      "on the keyboard",
+      "in a keyboard",
+      "on a keyboard"
+    ],
+    "woman": [
+      "a woman is typing fast"
+    ],
+    "fingers": [
+      "fingers type",
+      "the fingers are typing"
+    ],
+    "somebody": [
+      "somebody typing",
+      "somebody is typing",
+      "somebody is typing too fast"
+    ],
+    "hands": [
+      "hands are typing quickly"
+    ],
+    "lady": [
+      "a lady typing fastly",
+      "a lady is typing"
+    ],
+    "guy": [
+      "a guy typing"
+    ],
+    "letters": [
+      "is tying letters"
+    ],
+    "typewriter": [
+      "in a typewriter"
+    ],
+    "girl": [
+      "a girl doing some sort"
+    ],
+    "typist": [
+      "a typist is typing fast"
+    ],
+    "boy": [
+      "a boy is typing 500 strokes per minute"
+    ]
+  }
+}

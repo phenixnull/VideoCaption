@@ -1,0 +1,48 @@
+{
+  "video_objs": {
+    "man": [
+      "a man making",
+      "a man fixes his",
+      "a man is making",
+      "a man is putting",
+      "a man is putting two",
+      "a man makes",
+      "the man made up"
+    ],
+    "bed": [
+      "a bed"
+    ],
+    "hotel": [
+      "a hotel",
+      "hotel"
+    ],
+    "cover": [
+      "a cover"
+    ],
+    "pillows": [
+      "pillows",
+      "two pillows"
+    ],
+    "person": [
+      "a person"
+    ],
+    "housekeeper": [
+      "the housekeeper"
+    ],
+    "lady": [
+      "a lady"
+    ],
+    "room": [
+      "the room"
+    ],
+    "bedrooms": [
+      "the bedrooms"
+    ],
+    "quilt": [
+      "a quilt"
+    ],
+    "clip": [
+      "this clip"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman is cutting",
+      "a woman cuts and dices",
+      "a woman cuts",
+      "a woman cuts up",
+      "a woman is chopping"
+    ],
+    "onion": [
+      "cutting an onion",
+      "is slicing onion",
+      "slicing one onion",
+      "a fresh onion"
+    ],
+    "lady": [
+      "a japanese lady is finely chopping",
+      "the lady cut up",
+      "the lady sliced",
+      "a lady is slicing some"
+    ],
+    "leek": [
+      "chopping a leek",
+      "chops a leek"
+    ],
+    "vegetable": [
+      "dices a vegetable",
+      "slicing a vegetable",
+      "up the vegetable",
+      "sliced a vegetable",
+      "cutting a vegetable"
+    ],
+    "stem": [
+      "cuts the stem"
+    ],
+    "food": [
+      "cuts up food",
+      "is cutting food"
+    ],
+    "person": [
+      "a person coking",
+      "a person is making yakibuta ramen",
+      "a person is coring and soaking"
+    ],
+    "man": [
+      "a man making pieces",
+      "a man trying"
+    ],
+    "dog": [
+      "with her dog"
+    ],
+    "toppings": [
+      "for preparing toppings"
+    ],
+    "bowl": [
+      "in a bowl"
+    ]
+  }
+}

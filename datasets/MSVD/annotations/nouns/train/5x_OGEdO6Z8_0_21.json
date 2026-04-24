@@ -1,0 +1,36 @@
+{
+  "video_objs": {
+    "girl": [
+      "a little girl is doing her",
+      "a girl is brushing her",
+      "a girl is styling her",
+      "a girl plays",
+      "a little girl fusses",
+      "a little girl is brushing her wet",
+      "a little girl is playing",
+      "a small girl standing"
+    ],
+    "hair": [
+      "her hair",
+      "her wet hair"
+    ],
+    "mirror": [
+      "the mirror"
+    ],
+    "fingers": [
+      "her fingers"
+    ],
+    "bathroom": [
+      "the bathroom"
+    ],
+    "baby": [
+      "a baby"
+    ],
+    "makeup": [
+      "makeup"
+    ],
+    "child": [
+      "a child"
+    ]
+  }
+}

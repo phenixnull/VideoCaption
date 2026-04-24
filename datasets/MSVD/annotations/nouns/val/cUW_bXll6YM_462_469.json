@@ -1,0 +1,31 @@
+{
+  "video_objs": {
+    "man": [
+      "a man slices",
+      "a man is slicing",
+      "a man is cutting",
+      "a man cuts",
+      "the man cut",
+      "the man is slicing",
+      "the man sliced",
+      "a man cutting"
+    ],
+    "tomato": [
+      "a tomato",
+      "a large tomato",
+      "tomato"
+    ],
+    "knife": [
+      "a paring knife",
+      "a knife"
+    ],
+    "person": [
+      "a person is slicing",
+      "a person cutting",
+      "the person is cutting"
+    ],
+    "chef": [
+      "a chef cutting"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "video_objs": {
+    "person": [
+      "a person is chopping",
+      "a person dices a green",
+      "a person cuts up some",
+      "a person making onigiri",
+      "a person is slicing"
+    ],
+    "food": [
+      "is chopping food"
+    ],
+    "chef": [
+      "a chef is slicing"
+    ],
+    "onions": [
+      "someone is chopping onions"
+    ],
+    "woman": [
+      "a woman is chopping",
+      "a woman is cutting up some",
+      "the woman is dicing",
+      "a woman is chopping some",
+      "a woman is chopping some spring"
+    ],
+    "onion": [
+      "is chopping onion",
+      "someone is chopping an onion"
+    ],
+    "vegetables": [
+      "someone is slicing vegetables"
+    ],
+    "lady": [
+      "the lady cut up",
+      "a lady is cutting"
+    ],
+    "scallions": [
+      "is dicing scallions",
+      "person is chopping scallions"
+    ],
+    "celery": [
+      "cut up celery"
+    ],
+    "herbs": [
+      "chopping some herbs"
+    ],
+    "vegetable": [
+      "cutting the vegetable"
+    ],
+    "man": [
+      "a man cooking his",
+      "a man is chopping"
+    ],
+    "kichen": [
+      "cooking his kichen"
+    ],
+    "chillies": [
+      "is chopping chillies"
+    ],
+    "chives": [
+      "someone chops chives"
+    ]
+  }
+}

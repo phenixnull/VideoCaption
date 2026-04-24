@@ -1,0 +1,47 @@
+{
+  "video_objs": {
+    "mirror": [
+      "the mirror",
+      "a mirror"
+    ],
+    "bear": [
+      "a bear sees",
+      "a bear looking",
+      "a bear showing",
+      "a bear is seeing"
+    ],
+    "mattress": [
+      "a mattress"
+    ],
+    "reflection": [
+      "its own reflection",
+      "its reflection",
+      "their reflection"
+    ],
+    "puppy": [
+      "a puppy is looking",
+      "the puppy looked",
+      "a puppy is palying"
+    ],
+    "image": [
+      "it s image",
+      "his image"
+    ],
+    "bed": [
+      "the bed",
+      "a bed"
+    ],
+    "face": [
+      "her face"
+    ],
+    "cot": [
+      "the cot"
+    ],
+    "bears": [
+      "bears are sleeping"
+    ],
+    "puppies": [
+      "two puppies seeing"
+    ]
+  }
+}

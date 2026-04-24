@@ -1,0 +1,35 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is blowing",
+      "a man is making",
+      "a man is blowing a string",
+      "a man blowing"
+    ],
+    "bubbles": [
+      "is blowing bubbles",
+      "and connects bubbles",
+      "blowing soap bubbles"
+    ],
+    "chain": [
+      "making a chain",
+      "blowing a chain",
+      "creating a chain"
+    ],
+    "magician": [
+      "a magician is creating"
+    ],
+    "rings": [
+      "into two rings"
+    ],
+    "wands": [
+      "with two wands"
+    ],
+    "person": [
+      "a person is making bubles"
+    ],
+    "guy": [
+      "the guy is carefully blowing"
+    ]
+  }
+}

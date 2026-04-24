@@ -1,0 +1,39 @@
+{
+  "video_objs": {
+    "bowl": [
+      "a bowl"
+    ],
+    "chili": [
+      "chili"
+    ],
+    "man": [
+      "a man",
+      "the man"
+    ],
+    "bread": [
+      "bread"
+    ],
+    "person": [
+      "a person"
+    ],
+    "sauce": [
+      "some sauce",
+      "the sauce"
+    ],
+    "corner": [
+      "one corner"
+    ],
+    "plate": [
+      "the plate"
+    ],
+    "chef": [
+      "a chef"
+    ],
+    "kichen": [
+      "his kichen"
+    ],
+    "item": [
+      "the item"
+    ]
+  }
+}

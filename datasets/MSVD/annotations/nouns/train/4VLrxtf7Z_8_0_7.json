@@ -1,0 +1,57 @@
+{
+  "video_objs": {
+    "someone": [
+      "someone riding",
+      "someone is riding"
+    ],
+    "horse": [
+      "a horse",
+      "the horse",
+      "the horse and"
+    ],
+    "hurdles": [
+      "jumping hurdles"
+    ],
+    "woman": [
+      "a woman riding",
+      "a woman is riding",
+      "a woman is doing stunts",
+      "a woman",
+      "the woman is riding"
+    ],
+    "hurdle": [
+      "a hurdle",
+      "jumps a hurdle"
+    ],
+    "man": [
+      "a man is jumping",
+      "a man riding",
+      "the man is given practice",
+      "a man is rading",
+      "a man ridding",
+      "one man is riding",
+      "a man is riding"
+    ],
+    "obstacle": [
+      "an obstacle",
+      "jumped an obstacle",
+      "through an obstacle"
+    ],
+    "course": [
+      "a course"
+    ],
+    "girl": [
+      "a girl is riding",
+      "a girl is jumping her"
+    ],
+    "gate": [
+      "a gate"
+    ],
+    "person": [
+      "a person is riding"
+    ],
+    "set": [
+      "a set"
+    ]
+  }
+}

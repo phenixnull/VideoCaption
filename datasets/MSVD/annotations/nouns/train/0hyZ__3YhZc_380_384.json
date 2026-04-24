@@ -1,0 +1,51 @@
+{
+  "video_objs": {
+    "water": [
+      "someone pours water",
+      "someone is adding water",
+      "someone is pouring water",
+      "is adding water",
+      "pours some water",
+      "pouring the water",
+      "poured the water",
+      "pouring some water"
+    ],
+    "man": [
+      "a man",
+      "the man"
+    ],
+    "pot": [
+      "a pot"
+    ],
+    "can": [
+      "a can"
+    ],
+    "chili": [
+      "the chili"
+    ],
+    "person": [
+      "a person"
+    ],
+    "sauce": [
+      "some sauce"
+    ],
+    "liquid": [
+      "more liquid"
+    ],
+    "item": [
+      "the item"
+    ],
+    "vessel": [
+      "the vessel"
+    ],
+    "dish": [
+      "a dish"
+    ],
+    "pan": [
+      "a pan"
+    ],
+    "stove": [
+      "a stove"
+    ]
+  }
+}

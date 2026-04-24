@@ -1,0 +1,77 @@
+{
+  "video_objs": {
+    "seafood": [
+      "cuts up seafood"
+    ],
+    "person": [
+      "a person is slicing",
+      "a person",
+      "a person is cutting",
+      "a person cuts up",
+      "a person is chopping up",
+      "a person is slicing up some",
+      "a person cut",
+      "a person is chopping some kind",
+      "a person is cutting up some",
+      "the person id cutting",
+      "a person making"
+    ],
+    "octopus": [
+      "is slicing octopus",
+      "is cutting octopus",
+      "cutting some octopus",
+      "up the octopus",
+      "slicing cooked octopus",
+      "someone is cutting up some octopus",
+      "cut the octopus",
+      "up some octopus",
+      "slicing an octopus"
+    ],
+    "chef": [
+      "a chef is slicing"
+    ],
+    "woman": [
+      "a woman is chopping",
+      "a woman is slicing some",
+      "a woman is cutting",
+      "a woman is cutting some",
+      "the woman is slicing cooked",
+      "the woman is slicing",
+      "a woman is slicing"
+    ],
+    "piece": [
+      "chopping a piece",
+      "up a piece"
+    ],
+    "meat": [
+      "someone is cutting up meat"
+    ],
+    "lady": [
+      "the lady chopped up",
+      "the lady cut up",
+      "the lady choped up"
+    ],
+    "tentacle": [
+      "a tentacle is cut"
+    ],
+    "man": [
+      "a man cooking his",
+      "a man is making some"
+    ],
+    "kichen": [
+      "cooking his kichen"
+    ],
+    "vegetable": [
+      "cutting the vegetable"
+    ],
+    "girl": [
+      "a girl is mixing something"
+    ],
+    "bowl": [
+      "into the bowl"
+    ],
+    "flesh": [
+      "flesh is been cut"
+    ]
+  }
+}

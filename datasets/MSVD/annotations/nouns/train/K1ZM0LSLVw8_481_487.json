@@ -1,0 +1,71 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is scooping",
+      "a man scoops out",
+      "a man slices a peeled",
+      "a man is cutting",
+      "a man is slicing",
+      "a man is peeling",
+      "a man is coring",
+      "a man scrapes out"
+    ],
+    "seeds": [
+      "the seeds out",
+      "seeds",
+      "the seeds",
+      "seeds out"
+    ],
+    "cucumber": [
+      "a cucumber",
+      "a peeled cucumber"
+    ],
+    "pieces": [
+      "two pieces"
+    ],
+    "chef": [
+      "a chef"
+    ],
+    "cucumbers": [
+      "cucumbers"
+    ],
+    "spoon": [
+      "a spoon"
+    ],
+    "person": [
+      "a person",
+      "a person scoops out the innards",
+      "the person is cutting",
+      "the person show how",
+      "the person is removing",
+      "a person making big fat greek"
+    ],
+    "knife": [
+      "a knife"
+    ],
+    "vegetable": [
+      "a vegetable",
+      "vegetable"
+    ],
+    "pickle": [
+      "a pickle",
+      "the pickle"
+    ],
+    "banana": [
+      "a banana"
+    ],
+    "food": [
+      "food"
+    ],
+    "vegetables": [
+      "vegetables"
+    ],
+    "squash": [
+      "the squash"
+    ],
+    "sandwich": [
+      "big fat greek sandwich",
+      "the sandwich"
+    ]
+  }
+}

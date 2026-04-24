@@ -1,0 +1,41 @@
+{
+  "video_objs": {
+    "man": [
+      "a man lays his",
+      "a man is sad",
+      "a man is crying",
+      "a man is thinking",
+      "a man has his",
+      "a man is putting his",
+      "a man is picking his teeth",
+      "a man is looking"
+    ],
+    "hand": [
+      "his hand near his",
+      "his hand raised",
+      "his hand",
+      "his left hand"
+    ],
+    "lip": [
+      "his lip"
+    ],
+    "fingers": [
+      "his fingers beside his"
+    ],
+    "mouth": [
+      "beside his mouth",
+      "to his mouth",
+      "on his mouth"
+    ],
+    "face": [
+      "his face",
+      "a funny face"
+    ],
+    "person": [
+      "a person thinking"
+    ],
+    "actor": [
+      "an actor is acting"
+    ]
+  }
+}

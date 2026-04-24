@@ -1,0 +1,28 @@
+{
+  "video_objs": {
+    "snow": [
+      "snow",
+      "snow hill"
+    ],
+    "wolf": [
+      "a wolf is walking"
+    ],
+    "ice": [
+      "the ice",
+      "ice"
+    ],
+    "bear": [
+      "the bear is searching",
+      "a bear is searching"
+    ],
+    "walrus": [
+      "a walrus meet up"
+    ],
+    "animal": [
+      "an animal walking"
+    ],
+    "field": [
+      "an icy field"
+    ]
+  }
+}

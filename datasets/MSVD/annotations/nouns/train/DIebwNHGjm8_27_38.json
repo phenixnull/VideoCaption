@@ -1,0 +1,60 @@
+{
+  "video_objs": {
+    "man": [
+      "a man riding fast",
+      "a man is riding",
+      "a man rides",
+      "the man is riding",
+      "the man rode",
+      "a man roars",
+      "a man speeds",
+      "a man is driving"
+    ],
+    "bike": [
+      "riding a bike",
+      "riding the bike",
+      "on a bike",
+      "in a bike",
+      "driving his bike",
+      "driving the bike"
+    ],
+    "highway": [
+      "on a highway",
+      "on the highway",
+      "down the highway",
+      "the empty highway"
+    ],
+    "motorcycle": [
+      "riding a motorcycle",
+      "riding his motorcycle",
+      "rode his motorcycle",
+      "rides a motorcycle"
+    ],
+    "road": [
+      "on the road",
+      "down a road",
+      "down the road"
+    ],
+    "motorcyclist": [
+      "a motorcyclist is riding his"
+    ],
+    "person": [
+      "the person is riding",
+      "a person rides",
+      "a person is riding"
+    ],
+    "stunt": [
+      "stunt is being carried out"
+    ],
+    "guy": [
+      "a guy is sitting",
+      "a guy is riding"
+    ],
+    "movie": [
+      "a movie feet"
+    ],
+    "motorbicycle": [
+      "a percon is riding fast motorbicycle"
+    ]
+  }
+}

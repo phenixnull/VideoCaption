@@ -1,0 +1,41 @@
+{
+  "video_objs": {
+    "horse": [
+      "a horse",
+      "the horse"
+    ],
+    "beach": [
+      "the beach"
+    ],
+    "woman": [
+      "a woman",
+      "the woman"
+    ],
+    "person": [
+      "a person",
+      "the person"
+    ],
+    "ground": [
+      "the ground"
+    ],
+    "man": [
+      "the man",
+      "a man"
+    ],
+    "beachside": [
+      "the beachside"
+    ],
+    "colt": [
+      "a colt"
+    ],
+    "girl": [
+      "the girl"
+    ],
+    "animals": [
+      "funny animals"
+    ],
+    "hose": [
+      "a hose"
+    ]
+  }
+}

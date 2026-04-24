@@ -1,0 +1,54 @@
+{
+  "video_objs": {
+    "car": [
+      "a black car",
+      "a car",
+      "the car",
+      "somebody driving a car",
+      "is driving car"
+    ],
+    "man": [
+      "a man riding",
+      "a man driving",
+      "a man is driving"
+    ],
+    "road": [
+      "on the road"
+    ],
+    "motorcyclist": [
+      "a motorcyclist",
+      "the motorcyclist"
+    ],
+    "intersection": [
+      "in the intersection"
+    ],
+    "bike": [
+      "a bike",
+      "the bike",
+      "bike and"
+    ],
+    "person": [
+      "a person riding",
+      "the person"
+    ],
+    "cops": [
+      "cops"
+    ],
+    "accident": [
+      "a majar byk accident",
+      "an accident",
+      "the robers accident",
+      "got the accident",
+      "bike and car accident"
+    ],
+    "highway": [
+      "on the highway"
+    ],
+    "motorcycle": [
+      "a motorcycle"
+    ],
+    "men": [
+      "a men coming"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "video_objs": {
+    "elephants": [
+      "two elephants appear",
+      "two elephants are pushing",
+      "elephants are pushing",
+      "two elephants is pushing"
+    ],
+    "convertible": [
+      "a convertible",
+      "the red convertible"
+    ],
+    "woman": [
+      "a woman"
+    ],
+    "man": [
+      "a man either sitting",
+      "a man is singing",
+      "a man talks",
+      "a man is riding",
+      "one man is singing a song",
+      "a man is singing and sitting"
+    ],
+    "backseat": [
+      "the backseat"
+    ],
+    "windshield": [
+      "the windshield"
+    ],
+    "car": [
+      "a car",
+      "the car"
+    ],
+    "heads": [
+      "their heads"
+    ],
+    "trunk": [
+      "her trunk",
+      "its trunk"
+    ],
+    "girl": [
+      "the girl"
+    ],
+    "boy": [
+      "boy"
+    ],
+    "hero": [
+      "a hero"
+    ],
+    "back": [
+      "the back"
+    ],
+    "elephant": [
+      "an elephant",
+      "the elephant",
+      "a elephant"
+    ]
+  }
+}

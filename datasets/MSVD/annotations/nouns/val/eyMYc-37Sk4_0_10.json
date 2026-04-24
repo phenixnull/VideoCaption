@@ -1,0 +1,79 @@
+{
+  "video_objs": {
+    "cat": [
+      "the cat is playing",
+      "a cat is getting",
+      "a cat is playing",
+      "the cat tried",
+      "a cat tries",
+      "a cat gets",
+      "a cat playing",
+      "the cat is"
+    ],
+    "kitten": [
+      "a kitten is trying",
+      "a kitten is exploring some kind",
+      "a kitten is playing",
+      "a kitten tries",
+      "a kitten plays",
+      "a white kitten seated",
+      "a kitten is searching",
+      "the kitten tried",
+      "kitten is not smart",
+      "a funny kitten were playing",
+      "the cute kitten is trying",
+      "cute kitten try hard",
+      "a kitten is traying",
+      "funny kitten"
+    ],
+    "ball": [
+      "a small ball",
+      "get a ball",
+      "for a ball",
+      "get his ball",
+      "access a ball",
+      "take the ball",
+      "with a ball"
+    ],
+    "toy": [
+      "in a toy",
+      "with his toy",
+      "with a toy",
+      "inside a toy",
+      "into a toy",
+      "with its toy",
+      "get his toy"
+    ],
+    "floor": [
+      "on the floor"
+    ],
+    "object": [
+      "with an object"
+    ],
+    "contraption": [
+      "of the contraption"
+    ],
+    "puppy": [
+      "puppy searching",
+      "a puppy searching"
+    ],
+    "dog": [
+      "a dog is playing"
+    ],
+    "bowl": [
+      "into the bowl"
+    ],
+    "animal": [
+      "a cute animal is playing"
+    ],
+    "kitties": [
+      "kitties are playing"
+    ],
+    "pussy": [
+      "a white pussy searches"
+    ],
+    "roomba": [
+      "on the roomba"
+    ]
+  }
+}

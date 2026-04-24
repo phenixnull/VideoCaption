@@ -1,0 +1,29 @@
+{
+  "video_objs": {
+    "baby": [
+      "a crying baby falls down",
+      "a baby is crying",
+      "a baby is laughing and falling back",
+      "a giggling baby falls",
+      "a baby is falling",
+      "a baby laughs so hard he falls",
+      "a baby is laughing",
+      "a baby is laughting and falls"
+    ],
+    "boy": [
+      "a small boy is laughing too much",
+      "a small boy crying"
+    ],
+    "bed": [
+      "on a bed",
+      "on the bed"
+    ],
+    "child": [
+      "a child is laughing",
+      "a child is weeping"
+    ],
+    "toddler": [
+      "a toddler laughs and rolls back"
+    ]
+  }
+}

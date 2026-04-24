@@ -1,0 +1,83 @@
+{
+  "video_objs": {
+    "chef": [
+      "a chef cutting",
+      "a chef is slicing",
+      "a chef slicing",
+      "the chef sliced",
+      "chef chopping",
+      "a chef is chopping",
+      "a chef chops up some"
+    ],
+    "carrot": [
+      "cutting a carrot",
+      "a carrot is being cut",
+      "a carrot is carefully sliced",
+      "is slicing carrot",
+      "cuts a carrot",
+      "of peeled carrot",
+      "chopping a carrot",
+      "slicing a carrot",
+      "sliced a carrot",
+      "a cook is cutting a carrot deeply without slicing right through",
+      "some one is slicing a carrot",
+      "lidicing a carrot",
+      "is cutting carrot",
+      "up a carrot",
+      "up the carrot"
+    ],
+    "man": [
+      "a man cuts",
+      "a man cuts thin",
+      "a man is chopping",
+      "a man is shown slicing",
+      "a man is slicing",
+      "a man is slicing some",
+      "a man is cut the vegetable",
+      "a man is lidicing",
+      "a man is cutting vegetable",
+      "a man shows how",
+      "a man cut up",
+      "a man is slicing some vegitable",
+      "a man is skillfully cutting",
+      "a man is cutting",
+      "a man is slicing up",
+      "the man sliced up"
+    ],
+    "knife": [
+      "with a knife",
+      "with the knife"
+    ],
+    "slices": [
+      "cuts thin slices",
+      "into thin slices",
+      "cutting a slices",
+      "cutting slices"
+    ],
+    "piece": [
+      "from a piece",
+      "the cheff sliced up a piece"
+    ],
+    "person": [
+      "a person is cutting",
+      "a person is slicing"
+    ],
+    "carrots": [
+      "carrots are being chopped",
+      "the cook is slicing carrots",
+      "a cook is slicing carrots",
+      "a cook is cutting carrots",
+      "a cook cuts some carrots"
+    ],
+    "vegetables": [
+      "cutting the vegetables",
+      "chef chopping vegetables and showing how",
+      "to chop vegetables",
+      "is cutting vegetables"
+    ],
+    "woman": [
+      "a woman is slicing",
+      "a woman is slicing some"
+    ]
+  }
+}

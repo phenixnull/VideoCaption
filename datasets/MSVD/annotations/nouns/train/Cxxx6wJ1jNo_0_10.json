@@ -1,0 +1,40 @@
+{
+  "video_objs": {
+    "kitten": [
+      "a kitten is crying",
+      "a kitten is moving",
+      "a kitten is meowing",
+      "a kitten is being held up",
+      "a tiny kitten is crying",
+      "a kitten is being held",
+      "a kitten is calling or talking"
+    ],
+    "person": [
+      "a person is holding",
+      "a person holds",
+      "a person is holding up",
+      "a person is playing"
+    ],
+    "hand": [
+      "his hand",
+      "her hand"
+    ],
+    "cat": [
+      "a small cat crying",
+      "a small cat"
+    ],
+    "animal": [
+      "the animal is not comfort"
+    ],
+    "man": [
+      "a man playing",
+      "a man is holding up"
+    ],
+    "kitty": [
+      "a kitty is crying"
+    ],
+    "boy": [
+      "a boy"
+    ]
+  }
+}

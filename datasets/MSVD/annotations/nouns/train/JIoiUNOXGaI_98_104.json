@@ -1,0 +1,41 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman",
+      "a woman opens",
+      "a woman is opening",
+      "a woman is showing her"
+    ],
+    "closet": [
+      "opens a closet",
+      "opening a closet",
+      "opening her closet",
+      "well organized closet",
+      "opened the closet"
+    ],
+    "face": [
+      "makes a grim face",
+      "makes a face"
+    ],
+    "cupboard": [
+      "showing her cupboard",
+      "opening a cupboard"
+    ],
+    "girl": [
+      "a girl is opening",
+      "a girl opening"
+    ],
+    "lady": [
+      "a lady is showing his"
+    ],
+    "clothes": [
+      "his clothes"
+    ],
+    "almira": [
+      "opening the almira"
+    ],
+    "kichen": [
+      "cooking his kichen"
+    ]
+  }
+}

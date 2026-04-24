@@ -1,0 +1,79 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is performing",
+      "a man does",
+      "a man is doing some",
+      "a man is doing",
+      "a man is performing a complex",
+      "a man is performing various",
+      "a man is stretching",
+      "a man performing",
+      "a man performs",
+      "a man stretches",
+      "the man did",
+      "the man is doing",
+      "the man stretched outside",
+      "the man is stretching",
+      "a man is practicing",
+      "a man doing",
+      "this man doing surya namastey",
+      "man",
+      "a man is demonstrating",
+      "a man is doing exercise",
+      "a man giving",
+      "a man attent",
+      "a man doing stretching",
+      "the man stretche outside"
+    ],
+    "yoga": [
+      "performing yoga",
+      "does yoga",
+      "doing some yoga stretching",
+      "doing yoga",
+      "performing a complex yoga",
+      "performing various yoga",
+      "doing yoga outside",
+      "practicing yoga",
+      "demonstrating yoga",
+      "performs yoga"
+    ],
+    "rock": [
+      "top a rock",
+      "on a rock"
+    ],
+    "place": [
+      "an open place"
+    ],
+    "exercises": [
+      "chi stretching exercises",
+      "doing stretching exercises"
+    ],
+    "mountain": [
+      "on a mountain",
+      "of the mountain"
+    ],
+    "series": [
+      "performs a series"
+    ],
+    "woman": [
+      "a woman is doing",
+      "a woman does some stretching"
+    ],
+    "hill": [
+      "of a hill",
+      "on a hill",
+      "of the hill"
+    ],
+    "person": [
+      "a person is stretching",
+      "a person is doing"
+    ],
+    "demo": [
+      "is showing demo"
+    ],
+    "clip": [
+      "a short and some unique clip"
+    ]
+  }
+}

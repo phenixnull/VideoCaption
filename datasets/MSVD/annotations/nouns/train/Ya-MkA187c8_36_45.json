@@ -1,0 +1,43 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman is playing",
+      "a woman plays",
+      "the woman is playing",
+      "a woman is standing and playing",
+      "a woman playing"
+    ],
+    "guitar": [
+      "the guitar",
+      "a guitar",
+      "guitar",
+      "electric guitar"
+    ],
+    "girl": [
+      "a girl plays",
+      "a girl is playing",
+      "a girl",
+      "the girl played",
+      "a girl is playing gitur",
+      "a girl singing and playing"
+    ],
+    "kid": [
+      "a kid is playing"
+    ],
+    "rocker": [
+      "a rocker plays"
+    ],
+    "guitarist": [
+      "van halen female guitarist",
+      "a young female guitarist performing",
+      "a female guitarist van halen is playing guitar",
+      "very good female guitarist"
+    ],
+    "man": [
+      "a man is playing"
+    ],
+    "instrument": [
+      "playing an instrument"
+    ]
+  }
+}

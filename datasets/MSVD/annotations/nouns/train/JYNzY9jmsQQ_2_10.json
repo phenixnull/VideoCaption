@@ -1,0 +1,58 @@
+{
+  "video_objs": {
+    "dog": [
+      "a dog is picking",
+      "a very overweight dog is eating",
+      "a dog is eating",
+      "a dog is sniffing",
+      "an overweight dog is eating",
+      "a fat dog is eating"
+    ],
+    "earth": [
+      "the earth"
+    ],
+    "ground": [
+      "the ground",
+      "something off the ground",
+      "things off the ground",
+      "stuff off the ground"
+    ],
+    "farts": [
+      "is eating farts",
+      "eating the farts",
+      "the fat eating farts",
+      "eating some farts"
+    ],
+    "dirt": [
+      "in the dirt",
+      "eating dirt",
+      "ate the dirt",
+      "is eating dirt",
+      "was eating dirt",
+      "eats some dirt"
+    ],
+    "dachshund": [
+      "a fat brown dachshund standing",
+      "the dachshund"
+    ],
+    "garden": [
+      "in the garden"
+    ],
+    "food": [
+      "its food",
+      "their food"
+    ],
+    "grass": [
+      "is eating grass"
+    ],
+    "sand": [
+      "is eating sand"
+    ],
+    "stuff": [
+      "is eating stuff"
+    ],
+    "things": [
+      "is eating things"
+    ]
+  }
+}

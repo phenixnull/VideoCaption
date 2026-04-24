@@ -1,0 +1,53 @@
+{
+  "video_objs": {
+    "man": [
+      "a man",
+      "a man riding",
+      "a man and",
+      "a man is riding",
+      "a man is giving",
+      "a man rides"
+    ],
+    "dog": [
+      "a dog",
+      "a dog is riding",
+      "the dog is riding",
+      "the dog clung",
+      "a little white dog named",
+      "the dog"
+    ],
+    "bike": [
+      "riding a bike",
+      "rides a bike"
+    ],
+    "street": [
+      "down the street"
+    ],
+    "shoulders": [
+      "on his shoulders"
+    ],
+    "bicyclists": [
+      "on a bicyclists"
+    ],
+    "owner": [
+      "it s owner"
+    ],
+    "back": [
+      "on his back",
+      "on the back"
+    ],
+    "boy": [
+      "the boy is riding",
+      "over the boy",
+      "boy ride"
+    ],
+    "cycle": [
+      "riding the cycle",
+      "riding a cycle",
+      "boy ride the cycle"
+    ],
+    "master": [
+      "of his master"
+    ]
+  }
+}

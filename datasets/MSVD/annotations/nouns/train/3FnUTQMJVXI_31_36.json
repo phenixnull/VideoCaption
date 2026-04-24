@@ -1,0 +1,40 @@
+{
+  "video_objs": {
+    "kitten": [
+      "a kitten",
+      "a kitten is playing",
+      "the kitten played",
+      "the kitten is playing",
+      "a kitten plays",
+      "a kitten pounces",
+      "kitten playing"
+    ],
+    "cat": [
+      "a cat attacks",
+      "a cat is playing",
+      "the cat eating",
+      "a cat playing",
+      "the cat played",
+      "a cat is teasing",
+      "the cat is playing"
+    ],
+    "shoe": [
+      "a shoe",
+      "the shoe"
+    ],
+    "shoes": [
+      "a shoes",
+      "the shoes",
+      "shoes"
+    ],
+    "sneaker": [
+      "a sneaker"
+    ],
+    "cats": [
+      "the cats are playing"
+    ],
+    "kitty": [
+      "that kitty"
+    ]
+  }
+}

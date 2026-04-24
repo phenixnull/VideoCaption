@@ -1,0 +1,58 @@
+{
+  "video_objs": {
+    "girl": [
+      "a girl preparing"
+    ],
+    "woman": [
+      "a woman chops",
+      "a woman is slicing",
+      "a woman slicing",
+      "woman chops",
+      "a woman cuts",
+      "a woman cutting",
+      "a woman dicing",
+      "a woman is chopping",
+      "a woman is cutting",
+      "a woman is dicing",
+      "a woman is preparing",
+      "a woman slices",
+      "the woman is cutting",
+      "woman is slicing"
+    ],
+    "carrot": [
+      "a carrot",
+      "carrot",
+      "a carrot is being cut",
+      "a carrot is cut",
+      "chops a carrot",
+      "slicing some carrot",
+      "slicing a carrot",
+      "woman chops a carrot",
+      "cuts a carrot",
+      "cutting a carrot",
+      "chopping a carrot",
+      "up a carrot",
+      "is cutting carrot",
+      "dicing a carrot",
+      "of a carrot",
+      "dices a carrot",
+      "cutting carrot",
+      "someone is cutting the carrot",
+      "cutting the carrot"
+    ],
+    "vegetables": [
+      "chopping vegetables"
+    ],
+    "carrots": [
+      "a women is chopping carrots",
+      "a women is slicing some carrots",
+      "the cook is dicing up carrots"
+    ],
+    "knife": [
+      "using a knife"
+    ],
+    "food": [
+      "she making food"
+    ]
+  }
+}

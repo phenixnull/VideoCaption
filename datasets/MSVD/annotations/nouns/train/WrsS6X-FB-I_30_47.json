@@ -1,0 +1,47 @@
+{
+  "video_objs": {
+    "person": [
+      "a person is slicing",
+      "a person cuts up some"
+    ],
+    "bread": [
+      "slicing bread",
+      "bread is being sliced",
+      "bread is sliced",
+      "bread",
+      "bread is being handsliced"
+    ],
+    "man": [
+      "a man is using",
+      "a man is slicing",
+      "a man",
+      "a man is slicing a whole",
+      "a man is cutting",
+      "a man is making",
+      "a man slicing",
+      "a man making pieces",
+      "a man making",
+      "a man showing how"
+    ],
+    "knife": [
+      "using a knife",
+      "with a knife"
+    ],
+    "loaf": [
+      "slicing a loaf"
+    ],
+    "chef": [
+      "a chef is slicing",
+      "a chef is cutting"
+    ],
+    "pices": [
+      "cutting the pices"
+    ],
+    "piece": [
+      "buttering a piece"
+    ],
+    "demonstration": [
+      "demonstration"
+    ]
+  }
+}

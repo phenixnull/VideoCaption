@@ -1,0 +1,29 @@
+{
+  "video_objs": {
+    "dog": [
+      "a dog is eating",
+      "the dog ate",
+      "a brown dog eating",
+      "a dog eating"
+    ],
+    "slice": [
+      "a slice",
+      "a large slice"
+    ],
+    "watermelon": [
+      "watermelon",
+      "a watermelon",
+      "some watermelon",
+      "the watermelon"
+    ],
+    "plate": [
+      "a plate"
+    ],
+    "piece": [
+      "a piece"
+    ],
+    "watermelong": [
+      "a watermelong"
+    ]
+  }
+}

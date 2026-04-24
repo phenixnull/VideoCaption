@@ -1,0 +1,56 @@
+{
+  "video_objs": {
+    "lady": [
+      "a lady is peeling",
+      "a lady pealing",
+      "the lady is peeling",
+      "the lady peeled a cooked potatoe",
+      "the lady peeled",
+      "a lady is getting off",
+      "a lady removing"
+    ],
+    "skin": [
+      "the skin",
+      "the skin off"
+    ],
+    "potato": [
+      "a potato",
+      "a baked potato",
+      "potato s skin",
+      "potato",
+      "potato curry"
+    ],
+    "woman": [
+      "a woman is peeling a baked",
+      "a woman is peeling",
+      "a woman peels",
+      "a woman stands",
+      "a woman is removing",
+      "a woman is pulling",
+      "the woman is peeling",
+      "woman peels"
+    ],
+    "potatoes": [
+      "potatoes"
+    ],
+    "cover": [
+      "off the cover"
+    ],
+    "fingers": [
+      "with her fingers"
+    ],
+    "sink": [
+      "over the sink",
+      "in the sink"
+    ],
+    "angela": [
+      "angela"
+    ],
+    "hands": [
+      "with her hands"
+    ],
+    "kitchen": [
+      "is doing kitchen"
+    ]
+  }
+}

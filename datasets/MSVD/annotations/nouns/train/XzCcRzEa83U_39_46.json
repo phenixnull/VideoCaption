@@ -1,0 +1,54 @@
+{
+  "video_objs": {
+    "duck": [
+      "a duck runs after",
+      "a duck is pulling",
+      "a duck is biting",
+      "a duck is chasing",
+      "a duck make funny",
+      "a duck is beating",
+      "a duck playing",
+      "a duck"
+    ],
+    "man": [
+      "a man",
+      "a man s behind"
+    ],
+    "swan": [
+      "a swan attacks",
+      "a swan bit a mans"
+    ],
+    "goose": [
+      "a goose attacks",
+      "a white goose is chasing",
+      "a goose bites",
+      "a goose is pecking",
+      "a goose is attacking",
+      "a goose is chasing"
+    ],
+    "field": [
+      "a field"
+    ],
+    "buttock": [
+      "a mans buttock"
+    ],
+    "backside": [
+      "a backside"
+    ],
+    "chicken": [
+      "a chicken chases"
+    ],
+    "bird": [
+      "a bird"
+    ],
+    "animal": [
+      "the animal"
+    ],
+    "kids": [
+      "ttwo kids"
+    ],
+    "cat": [
+      "a cat"
+    ]
+  }
+}

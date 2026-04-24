@@ -1,0 +1,49 @@
+{
+  "video_objs": {
+    "piece": [
+      "a piece"
+    ],
+    "fish": [
+      "raw fish",
+      "fish"
+    ],
+    "strips": [
+      "strips"
+    ],
+    "person": [
+      "a person",
+      "the person"
+    ],
+    "salmon": [
+      "salmon",
+      "some salmon",
+      "salmon steak",
+      "fresh salmon"
+    ],
+    "meat": [
+      "a meat",
+      "meat",
+      "some meat",
+      "the meat"
+    ],
+    "pieces": [
+      "pieces"
+    ],
+    "woman": [
+      "a woman",
+      "the woman"
+    ],
+    "slices": [
+      "slices"
+    ],
+    "lady": [
+      "the lady"
+    ],
+    "man": [
+      "a man"
+    ],
+    "kichen": [
+      "his kichen"
+    ]
+  }
+}

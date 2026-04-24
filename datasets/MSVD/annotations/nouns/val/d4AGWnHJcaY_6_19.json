@@ -1,0 +1,71 @@
+{
+  "video_objs": {
+    "hamster": [
+      "a hamster is eating off",
+      "a brown hamster is eating",
+      "a hamster eats",
+      "a hamster is eating"
+    ],
+    "ground": [
+      "off the ground"
+    ],
+    "bits": [
+      "bits"
+    ],
+    "food": [
+      "food left",
+      "food"
+    ],
+    "line": [
+      "a line"
+    ],
+    "floor": [
+      "on the floor"
+    ],
+    "gerbil": [
+      "a gerbil is eating"
+    ],
+    "row": [
+      "a row"
+    ],
+    "trail": [
+      "a trail",
+      "the trail"
+    ],
+    "nuts": [
+      "nuts"
+    ],
+    "mouse": [
+      "a mouse is eating something",
+      "the mouse is eating",
+      "a mouse eats",
+      "a mouse is eating",
+      "a mouse eating"
+    ],
+    "rat": [
+      "a rat is eating",
+      "a rat is eating something",
+      "rat is looking nice",
+      "a rat taking",
+      "a rat is eat something"
+    ],
+    "carpet": [
+      "off the carpet"
+    ],
+    "cheeks": [
+      "his cheeks"
+    ],
+    "treats": [
+      "treats off"
+    ],
+    "animal": [
+      "an animal is eating"
+    ],
+    "cat": [
+      "the cat is eating"
+    ],
+    "power": [
+      "the power"
+    ]
+  }
+}

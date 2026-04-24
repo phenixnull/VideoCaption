@@ -1,0 +1,64 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is slicing",
+      "a man is shown chopping several",
+      "a man is cutting up",
+      "a man is slicing potato",
+      "a man dices several",
+      "a man is cutting",
+      "a man is rapidly chopping some",
+      "a man chopped up"
+    ],
+    "row": [
+      "a row",
+      "chopping a row"
+    ],
+    "mushrooms": [
+      "mushrooms are being chopped"
+    ],
+    "potatoes": [
+      "chopping several potatoes",
+      "chopped up potatoes",
+      "chopping potatoes"
+    ],
+    "knife": [
+      "using a knife",
+      "with a knife",
+      "a large knife"
+    ],
+    "person": [
+      "a person is quickly chopping",
+      "a person chopping",
+      "the person is slicing",
+      "the person cut",
+      "a person is chopping",
+      "a person cutting"
+    ],
+    "pieces": [
+      "into small pieces"
+    ],
+    "mushroom": [
+      "cutting a mushroom",
+      "a guy is slicing the mushroom",
+      "is slicing mushroom"
+    ],
+    "men": [
+      "a men slicing"
+    ],
+    "chef": [
+      "the chef is slicing the potato",
+      "a chef is slicing up some"
+    ],
+    "vegetables": [
+      "cut the vegetables",
+      "slicing some vegetables"
+    ],
+    "kitchen": [
+      "in a kitchen"
+    ],
+    "aloe": [
+      "cutting the aloe"
+    ]
+  }
+}

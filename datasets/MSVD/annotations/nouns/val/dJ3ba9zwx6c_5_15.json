@@ -1,0 +1,50 @@
+{
+  "video_objs": {
+    "someone": [
+      "someone is playing",
+      "someone plays"
+    ],
+    "piano": [
+      "playing the piano",
+      "a piano",
+      "the piano",
+      "piano",
+      "piano keyboard"
+    ],
+    "person": [
+      "a person plays",
+      "a person is playing",
+      "the person is playing"
+    ],
+    "keyboard": [
+      "playing a keyboard"
+    ],
+    "song": [
+      "playing a song"
+    ],
+    "man": [
+      "a man is playing",
+      "a man plays",
+      "the man played",
+      "a man playing"
+    ],
+    "boy": [
+      "the boy played",
+      "the boy is playing",
+      "a boy is playing",
+      "the boy sat"
+    ],
+    "piono": [
+      "playing the piono"
+    ],
+    "instrument": [
+      "anyone is playing instrument"
+    ],
+    "baby": [
+      "a baby playing"
+    ],
+    "child": [
+      "a child is playing"
+    ]
+  }
+}

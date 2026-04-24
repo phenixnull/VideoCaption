@@ -1,0 +1,40 @@
+{
+  "video_objs": {
+    "man": [
+      "a man emerges out",
+      "a man emerges",
+      "a man s head rises out",
+      "a man is coming out",
+      "a man rises",
+      "a man is climbing up",
+      "a man rises up",
+      "a man is rising"
+    ],
+    "puddle": [
+      "a puddle"
+    ],
+    "mud": [
+      "from a mud",
+      "from the mud"
+    ],
+    "pile": [
+      "a pile"
+    ],
+    "water": [
+      "into the water",
+      "from the water",
+      "of the water"
+    ],
+    "swamp": [
+      "from a swamp",
+      "of a swamp"
+    ],
+    "person": [
+      "a person rises out",
+      "the person is trying the out side"
+    ],
+    "boy": [
+      "the boy is doing the something"
+    ]
+  }
+}

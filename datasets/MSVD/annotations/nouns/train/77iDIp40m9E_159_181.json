@@ -1,0 +1,75 @@
+{
+  "video_objs": {
+    "chimpanzee": [
+      "a chimpanzee practicing martial arts",
+      "a chimpanzee does karate stunts",
+      "a chimpanzee dressed",
+      "a chimpanzee is performing martial arts",
+      "the chimpanzee demonstrated martial arts",
+      "the chimpanzee did martial arts",
+      "a chimpanzee is fighting",
+      "a chimpanzee is jumping",
+      "a chimpanzee is kickboxing",
+      "a chimpanzee is practicing martial arts",
+      "a chimpanzee kickboxes",
+      "a chimpanzee practising some sort",
+      "a chimpanzee show tricks",
+      "a chimpanzee is doing karate"
+    ],
+    "man": [
+      "a man does karate",
+      "a man"
+    ],
+    "monkey": [
+      "a monkey is doing karate",
+      "a monkey is doing martial arts",
+      "a monkey is doing some fight actions",
+      "a monkey is fighting",
+      "a monkey is kickboxing",
+      "a monkey is learning martial art",
+      "a monkey is performing karate moves",
+      "a monkey is practicing karate",
+      "a monkey practices martial arts",
+      "the monkey is doing martial arts",
+      "a monkey and",
+      "a monkey making flip",
+      "a monkey fighting",
+      "a monkey is performing martial arts"
+    ],
+    "trainer": [
+      "his trainer"
+    ],
+    "person": [
+      "a person fighting",
+      "the person"
+    ],
+    "men": [
+      "two men"
+    ],
+    "chimp": [
+      "a chimp",
+      "the chimp"
+    ],
+    "human": [
+      "a human"
+    ],
+    "coach": [
+      "his coach"
+    ],
+    "animal": [
+      "a funny animal"
+    ],
+    "video": [
+      "a video"
+    ],
+    "pictures": [
+      "pictures"
+    ],
+    "ape": [
+      "an ape"
+    ],
+    "jeep": [
+      "the jeep"
+    ]
+  }
+}

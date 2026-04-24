@@ -1,0 +1,68 @@
+{
+  "video_objs": {
+    "man": [
+      "a man shooting",
+      "a man aims",
+      "a man fires",
+      "a man holding",
+      "a man is aiming",
+      "a man is firing",
+      "a man is pulling the hammer",
+      "a man is rolling the barrel",
+      "a man is shooting",
+      "a man is trying",
+      "the man is aiming",
+      "the man shot",
+      "a man shoots",
+      "a man is explain",
+      "a man",
+      "a man is teaching",
+      "a man is doing firing",
+      "a man is dry firing",
+      "a man repeatedly cocks",
+      "a man making some trick",
+      "a man is preparing",
+      "a firing man",
+      "a man fiddles",
+      "a man wearing",
+      "a man aiming",
+      "a man try",
+      "a man is playing",
+      "a man is pulling back the hammer"
+    ],
+    "gun": [
+      "shooting a gun",
+      "aiming a gun",
+      "of a gun",
+      "with a gun",
+      "with his gun",
+      "shot his gun",
+      "shoots a gun",
+      "loading the gun",
+      "fire a gun"
+    ],
+    "revolver": [
+      "an empty revolver",
+      "holding a revolver",
+      "with a revolver",
+      "on a revolver",
+      "cocks a revolver"
+    ],
+    "pistol": [
+      "shooting a pistol",
+      "with a pistol",
+      "fires a pistol",
+      "firing a pistol"
+    ],
+    "bullet": [
+      "shoot a bullet"
+    ],
+    "person": [
+      "the person is loading"
+    ],
+    "colt": [
+      "through a colt",
+      "with his colt"
+    ]
+  }
+}

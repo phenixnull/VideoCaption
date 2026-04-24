@@ -1,0 +1,41 @@
+{
+  "video_objs": {
+    "animal": [
+      "an animal is sniffing around",
+      "an animal is walking",
+      "an animal is walking around",
+      "a small animal is walking",
+      "an animal is eating"
+    ],
+    "solenodon": [
+      "a solenodon is searching",
+      "a solenodon is walking along",
+      "a solenodon is searching his food",
+      "a solenodon is walking around"
+    ],
+    "oppossum": [
+      "the oppossum sniffed along"
+    ],
+    "rodent": [
+      "the rodent is looking",
+      "a rodent walks around"
+    ],
+    "mammal": [
+      "the mammal foraged"
+    ],
+    "rat": [
+      "the rat is searching something",
+      "like a rat"
+    ],
+    "mouse": [
+      "a mouse eating"
+    ],
+    "items": [
+      "searches the items"
+    ],
+    "grass": [
+      "in the grass",
+      "is eating grass"
+    ]
+  }
+}

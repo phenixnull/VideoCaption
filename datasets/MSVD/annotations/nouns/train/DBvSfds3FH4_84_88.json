@@ -1,0 +1,63 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman is rolling out",
+      "a woman is rolling",
+      "a woman is making some",
+      "a woman rolls some",
+      "the woman is using a rolling pin",
+      "the woman is rolling"
+    ],
+    "dough": [
+      "rolling out dough",
+      "rolling dough",
+      "rolling a dough",
+      "rolls some dough",
+      "rolled out the dough",
+      "rolls out dough"
+    ],
+    "surface": [
+      "a floured surface"
+    ],
+    "person": [
+      "a person is rolling",
+      "a person rolls out",
+      "a person is cooking",
+      "the person is preparing"
+    ],
+    "food": [
+      "making some food"
+    ],
+    "round": [
+      "a large round"
+    ],
+    "lady": [
+      "the lady rolled out",
+      "the lady demo how"
+    ],
+    "chef": [
+      "a chef rolls some",
+      "a chef kneading",
+      "a chef doing some preparation",
+      "the chef preparing"
+    ],
+    "roti": [
+      "making roti"
+    ],
+    "cake": [
+      "doing cake",
+      "preparing the cake",
+      "showing a cake",
+      "making the cake"
+    ],
+    "chapathi": [
+      "doing chapathi"
+    ],
+    "pizza": [
+      "preparing pizza"
+    ],
+    "baker": [
+      "a baker rolls out"
+    ]
+  }
+}

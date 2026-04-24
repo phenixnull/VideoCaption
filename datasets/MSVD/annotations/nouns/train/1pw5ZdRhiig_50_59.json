@@ -1,0 +1,38 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is playing",
+      "a man playing",
+      "the man played",
+      "the man is playing",
+      "a man seated is playing",
+      "a man plays",
+      "a young man"
+    ],
+    "flute": [
+      "a flute",
+      "playing flute",
+      "playing a flute",
+      "is playing flute",
+      "the flute"
+    ],
+    "instrument": [
+      "an instrument",
+      "some instrument",
+      "playing an instrument",
+      "playing some instrument",
+      "is playing instrument"
+    ],
+    "person": [
+      "a person is playing",
+      "the person is playing"
+    ],
+    "music": [
+      "playing music",
+      "is playing music"
+    ],
+    "musician": [
+      "the musician play"
+    ]
+  }
+}

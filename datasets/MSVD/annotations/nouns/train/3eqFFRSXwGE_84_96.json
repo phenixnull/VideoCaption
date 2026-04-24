@@ -1,0 +1,27 @@
+{
+  "video_objs": {
+    "dog": [
+      "a brown dog sitting halfway",
+      "the brown dog is biting"
+    ],
+    "dogs": [
+      "the dogs are wrestling",
+      "the dogs fought",
+      "the dogs wrestled",
+      "the dogs are playing",
+      "dogs are fighting",
+      "dogs are playing"
+    ],
+    "floor": [
+      "floor"
+    ],
+    "puppies": [
+      "two puppies are playing",
+      "two puppies roughhousing",
+      "two puppies are wresting"
+    ],
+    "carpet": [
+      "carpet"
+    ]
+  }
+}

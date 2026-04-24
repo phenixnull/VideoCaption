@@ -1,0 +1,61 @@
+{
+  "video_objs": {
+    "boy": [
+      "a boy is playing",
+      "a boy plays",
+      "the boy swayed",
+      "the boy"
+    ],
+    "cello": [
+      "playing a cello",
+      "playing the cello",
+      "plays the cello"
+    ],
+    "guy": [
+      "a guy is playing",
+      "a guy play"
+    ],
+    "man": [
+      "a man is playing",
+      "a man plays",
+      "a man seated is playing",
+      "the man is playing",
+      "the man played",
+      "the man is enjoying"
+    ],
+    "instrument": [
+      "playing an instrument",
+      "is playing instrument",
+      "someone is playing an instrument"
+    ],
+    "piano": [
+      "playing a piano"
+    ],
+    "violin": [
+      "playing a violin",
+      "plays the violin",
+      "with his violin",
+      "playing the violin",
+      "is playing violin"
+    ],
+    "shirt": [
+      "a white shirt"
+    ],
+    "musician": [
+      "the musician looks tired",
+      "a musician plays"
+    ],
+    "bass": [
+      "playing a bass"
+    ],
+    "guitar": [
+      "playing a guitar"
+    ],
+    "lady": [
+      "a lady is playing vilon"
+    ],
+    "video": [
+      "in the video"
+    ]
+  }
+}

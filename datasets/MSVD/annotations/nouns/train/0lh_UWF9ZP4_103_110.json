@@ -1,0 +1,70 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman is cooking",
+      "a woman is scrambling",
+      "the woman is cooking scrambled",
+      "a woman is rolling some"
+    ],
+    "skillet": [
+      "a deep skillet",
+      "a skillet"
+    ],
+    "chopsticks": [
+      "using chopsticks"
+    ],
+    "person": [
+      "a person is cooking",
+      "the person is cooking"
+    ],
+    "eggs": [
+      "cooking eggs",
+      "cooked the eggs"
+    ],
+    "egg": [
+      "cooking egg",
+      "cooking an egg"
+    ],
+    "tube": [
+      "into a tube"
+    ],
+    "wok": [
+      "in a wok"
+    ],
+    "pan": [
+      "in a hot frying pan",
+      "in a pan",
+      "in the pan",
+      "in a frying pan"
+    ],
+    "lady": [
+      "the lady cooked",
+      "the lady made"
+    ],
+    "omelette": [
+      "an omelette"
+    ],
+    "man": [
+      "a man cooking",
+      "a man cooking his"
+    ],
+    "dog": [
+      "with dog"
+    ],
+    "food": [
+      "preparing food"
+    ],
+    "demonstration": [
+      "a demonstration"
+    ],
+    "omelet": [
+      "making an omelet"
+    ],
+    "kichen": [
+      "his kichen"
+    ],
+    "stove": [
+      "on the stove"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman is firing",
+      "a woman is shooting",
+      "a woman is shooting off",
+      "a woman fires",
+      "a woman standing",
+      "the woman is shooting"
+    ],
+    "rifle": [
+      "firing a rifle",
+      "holding a rifle"
+    ],
+    "girl": [
+      "a girl is spraying",
+      "a girl is shooting",
+      "a girl is firing",
+      "the girl shot",
+      "a girl shots",
+      "a girl is standing and continuosly firing",
+      "a girl"
+    ],
+    "field": [
+      "spraying the field",
+      "in a field",
+      "in the field"
+    ],
+    "gun": [
+      "with a gun",
+      "shooting a gun",
+      "off a gun",
+      "shots a gun",
+      "with the gun",
+      "firing a gun",
+      "a large gun",
+      "is shooting gun",
+      "is firing gun",
+      "fires a gun",
+      "shoots a gun"
+    ],
+    "farm": [
+      "on the farm"
+    ],
+    "lady": [
+      "a lady doing some sort",
+      "a lady shoots",
+      "a lady shooting"
+    ]
+  }
+}

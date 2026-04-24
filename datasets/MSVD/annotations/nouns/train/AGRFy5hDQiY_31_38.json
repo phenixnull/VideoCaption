@@ -1,0 +1,39 @@
+{
+  "video_objs": {
+    "man": [
+      "a young man",
+      "a man falls",
+      "a man",
+      "a man is falling",
+      "a man dancing",
+      "a man attempts",
+      "a man is",
+      "a man is doing exercise"
+    ],
+    "pole": [
+      "pole dancing",
+      "pole dance",
+      "pole dances"
+    ],
+    "deck": [
+      "a guy is falling off a deck",
+      "fell off the deck",
+      "falls off the deck"
+    ],
+    "ledge": [
+      "falls off the ledge"
+    ],
+    "porch": [
+      "fell off the porch"
+    ],
+    "person": [
+      "a person is doing funny things"
+    ],
+    "boys": [
+      "the boys are playing"
+    ],
+    "portch": [
+      "falls off a portch"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "video_objs": {
+    "dolphin": [
+      "a dolphin jumps out",
+      "a dolphin dives",
+      "a dolphin is diving",
+      "a dolphin is jumping",
+      "a dolphin is jumping out",
+      "a dolphin jumped up out",
+      "a dolphin leaps"
+    ],
+    "water": [
+      "into the water",
+      "in water",
+      "from the water",
+      "in the water",
+      "into water"
+    ],
+    "ocean": [
+      "in the ocean"
+    ],
+    "shark": [
+      "a shark is jumping"
+    ],
+    "fish": [
+      "a big fish is swimming"
+    ],
+    "nature": [
+      "this is a nature",
+      "in beautiful nature"
+    ],
+    "sun": [
+      "the sun is rising"
+    ],
+    "whale": [
+      "a whale is diving"
+    ],
+    "sea": [
+      "in sea"
+    ],
+    "place": [
+      "a beautiful place"
+    ],
+    "penguins": [
+      "penguins"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is lifting",
+      "a man lifts a large",
+      "a man lifts",
+      "a man is lifting heavy",
+      "a man does"
+    ],
+    "weights": [
+      "lifting weights",
+      "lifting heavy weights"
+    ],
+    "barbell": [
+      "a large barbell",
+      "a barbell",
+      "a very heavy barbell"
+    ],
+    "weight": [
+      "a weight",
+      "the weight",
+      "heavy weight",
+      "a heavy weight"
+    ],
+    "weightlifter": [
+      "weightlifter is lifting a very heavy"
+    ],
+    "bodybuilder": [
+      "a bodybuilder lifts a barbel"
+    ],
+    "set": [
+      "a heavy set"
+    ],
+    "person": [
+      "the person is lifting"
+    ],
+    "dumbbel": [
+      "a very heavy and large dumbbel"
+    ]
+  }
+}

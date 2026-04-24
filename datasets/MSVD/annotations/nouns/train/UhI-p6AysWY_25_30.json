@@ -1,0 +1,58 @@
+{
+  "video_objs": {
+    "cat": [
+      "a white cat licking his",
+      "a cat is eating",
+      "a cat is licking its",
+      "a cat licks his",
+      "a fluffy white cat is constantly sticking it",
+      "the cat is eating"
+    ],
+    "tongue": [
+      "licking his tongue",
+      "sticking it tongue",
+      "sticking is tongue",
+      "out her tongue",
+      "it s tongue"
+    ],
+    "lips": [
+      "licking its lips",
+      "it s lips",
+      "licks his lips",
+      "licking his lips"
+    ],
+    "mouth": [
+      "licking its mouth",
+      "it s mouth"
+    ],
+    "nose": [
+      "licking its nose",
+      "it s nose"
+    ],
+    "chops": [
+      "licks his chops",
+      "licked his chops",
+      "licking his chops",
+      "licks its chops"
+    ],
+    "cream": [
+      "is eating cream"
+    ],
+    "potatos": [
+      "eating the potatos"
+    ],
+    "face": [
+      "licking his face",
+      "it s face"
+    ],
+    "cats": [
+      "two cats licking something off"
+    ],
+    "hands": [
+      "from the hands"
+    ],
+    "master": [
+      "of his master"
+    ]
+  }
+}

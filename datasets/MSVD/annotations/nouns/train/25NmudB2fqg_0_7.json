@@ -1,0 +1,51 @@
+{
+  "video_objs": {
+    "rocky": [
+      "apollo creed slugs rocky",
+      "rocky balboa takes a beating",
+      "rocky and apollo are boxing",
+      "rocky and apollo are"
+    ],
+    "man": [
+      "a man is beating",
+      "two man are boxing"
+    ],
+    "opponent": [
+      "a opponent"
+    ],
+    "boxers": [
+      "the boxers were boxing",
+      "two boxers are fighting",
+      "two boxers are punching",
+      "boxers are boxing"
+    ],
+    "men": [
+      "the two men boxed",
+      "two men are boxing each other",
+      "two men are boxing",
+      "two men box against each other",
+      "two men",
+      "men boxing inside the ring",
+      "the men are"
+    ],
+    "boxer": [
+      "two boxer are boxing",
+      "two boxer are fighting"
+    ],
+    "persons": [
+      "two persons are boxing"
+    ],
+    "rink": [
+      "in a rink"
+    ],
+    "boys": [
+      "two boys doing boxing"
+    ],
+    "player": [
+      "two player boxing"
+    ],
+    "people": [
+      "two people fight"
+    ]
+  }
+}

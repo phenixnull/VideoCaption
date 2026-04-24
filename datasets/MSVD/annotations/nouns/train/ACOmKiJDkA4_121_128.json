@@ -1,0 +1,83 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman is stir frying",
+      "a woman sautes some",
+      "a woman is frying something",
+      "a woman is frying some",
+      "a woman is frying meet",
+      "a woman is cooking",
+      "the woman is cooking"
+    ],
+    "pieces": [
+      "pieces"
+    ],
+    "meat": [
+      "meat is being cooked",
+      "frying some meat",
+      "someone is cooking meat",
+      "is cooking meat",
+      "the lady cooked the meat"
+    ],
+    "chopsticks": [
+      "using chopsticks"
+    ],
+    "person": [
+      "a person is cooking",
+      "the person is cooking"
+    ],
+    "beef": [
+      "cooking beef",
+      "sautes some beef"
+    ],
+    "skillet": [
+      "on a skillet",
+      "in a skillet"
+    ],
+    "pan": [
+      "in a pan",
+      "in the pan"
+    ],
+    "bowl": [
+      "into a bowl"
+    ],
+    "fish": [
+      "cooked the fish"
+    ],
+    "man": [
+      "a man cooking",
+      "a man cooking his"
+    ],
+    "onigiri": [
+      "cooking onigiri"
+    ],
+    "food": [
+      "making food",
+      "make the food"
+    ],
+    "dish": [
+      "making dish"
+    ],
+    "dog": [
+      "with her dog"
+    ],
+    "women": [
+      "the women is frying some"
+    ],
+    "ingredients": [
+      "frying some ingredients"
+    ],
+    "kichen": [
+      "cooking his kichen"
+    ],
+    "stove": [
+      "on the stove"
+    ],
+    "boy": [
+      "a boy is frying some"
+    ],
+    "meats": [
+      "frying some meats"
+    ]
+  }
+}

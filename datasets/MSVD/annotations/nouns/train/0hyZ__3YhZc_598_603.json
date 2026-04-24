@@ -1,0 +1,49 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is blowing",
+      "a man eats",
+      "a man is smelling something",
+      "a man is blowing something"
+    ],
+    "spoonful": [
+      "a spoonful"
+    ],
+    "chili": [
+      "of hot chili",
+      "tasting some chili",
+      "on some chili",
+      "tasted his chili"
+    ],
+    "spoon": [
+      "a spoon full",
+      "in a spoon",
+      "a spoon",
+      "the spoon"
+    ],
+    "food": [
+      "blowing a food",
+      "of hot food",
+      "on hot food"
+    ],
+    "fork": [
+      "a fork full"
+    ],
+    "contents": [
+      "contents"
+    ],
+    "person": [
+      "the person is cooking"
+    ],
+    "bean": [
+      "spicy2 bean vegetarian"
+    ],
+    "chef": [
+      "a chef tasting",
+      "a chef tasting what he has prepared"
+    ],
+    "kichen": [
+      "cooking his kichen"
+    ]
+  }
+}

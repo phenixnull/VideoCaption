@@ -1,0 +1,45 @@
+{
+  "video_objs": {
+    "person": [
+      "a person is holding",
+      "a person points out",
+      "the person is doing the something"
+    ],
+    "man": [
+      "a man is displaying",
+      "a man is showing",
+      "a man is holding",
+      "the man presented",
+      "the man is holding a sesame",
+      "the man talked about",
+      "the man prepare",
+      "man prepares",
+      "a man is making",
+      "a man is cooking big mac",
+      "the man is holding",
+      "a man turns",
+      "a man inspects"
+    ],
+    "bun": [
+      "showing a bun",
+      "someone is handling a bun",
+      "holding a bun",
+      "turns a bun"
+    ],
+    "bread": [
+      "showing a bread"
+    ],
+    "burger": [
+      "someone making a burger",
+      "any one is making burger",
+      "man prepares a burger",
+      "making the burger"
+    ],
+    "sesames": [
+      "out the sesames"
+    ],
+    "kichen": [
+      "cooking his kichen"
+    ]
+  }
+}

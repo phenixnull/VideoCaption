@@ -1,0 +1,56 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman dices",
+      "a woman is cutting",
+      "a woman is slicing",
+      "a woman is slicing some",
+      "a woman is dicing",
+      "a woman cuts"
+    ],
+    "potato": [
+      "dices a potato",
+      "cutting a potato",
+      "is slicing potato",
+      "dicing a potato",
+      "slicing a potato",
+      "cutting the potato"
+    ],
+    "knife": [
+      "with a knife"
+    ],
+    "person": [
+      "a person is slicing",
+      "a person",
+      "the person is cutting"
+    ],
+    "ginger": [
+      "is slicing ginger",
+      "slicing some ginger",
+      "is chopping ginger",
+      "is dicing ginger"
+    ],
+    "piece": [
+      "slicing a piece"
+    ],
+    "lady": [
+      "the lady cut",
+      "the lady sliced"
+    ],
+    "man": [
+      "a man is cutting",
+      "one man is chopping",
+      "a man cooking his"
+    ],
+    "chef": [
+      "a chef is cutting",
+      "a chef is dicing"
+    ],
+    "vegetable": [
+      "sliced the vegetable"
+    ],
+    "kichen": [
+      "cooking his kichen"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is",
+      "a man",
+      "a man is riding",
+      "a man is traveling",
+      "a man is taking",
+      "a man stands",
+      "the man looked out",
+      "the man is",
+      "a man is looking",
+      "a man rides",
+      "a man is standing",
+      "a man prepares",
+      "the man is standing",
+      "a man standing",
+      "a man watching"
+    ],
+    "boat": [
+      "a moving boat",
+      "a boat"
+    ],
+    "ocean": [
+      "the ocean"
+    ],
+    "water": [
+      "the water"
+    ],
+    "ship": [
+      "the ship"
+    ],
+    "michigan": [
+      "michigan"
+    ],
+    "deer": [
+      "deer"
+    ],
+    "someone": [
+      "someone"
+    ],
+    "sea": [
+      "the sea"
+    ],
+    "island": [
+      "the island"
+    ],
+    "guy": [
+      "a guy"
+    ],
+    "person": [
+      "the person"
+    ]
+  }
+}

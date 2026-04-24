@@ -1,0 +1,32 @@
+{
+  "video_objs": {
+    "egg": [
+      "an egg",
+      "a egg",
+      "an egg open",
+      "an egg open an egg"
+    ],
+    "bowl": [
+      "a bowl",
+      "the bowl"
+    ],
+    "person": [
+      "a person",
+      "the person"
+    ],
+    "man": [
+      "a man",
+      "the man",
+      "one man"
+    ],
+    "dish": [
+      "the one dish"
+    ],
+    "chef": [
+      "a chef"
+    ],
+    "eggs": [
+      "eggs"
+    ]
+  }
+}

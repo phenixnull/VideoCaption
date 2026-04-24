@@ -1,0 +1,67 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman is cutting",
+      "a woman",
+      "a woman is putting",
+      "a woman is cutting small",
+      "a woman makes small"
+    ],
+    "slots": [
+      "slots"
+    ],
+    "piece": [
+      "a piece"
+    ],
+    "meat": [
+      "meat"
+    ],
+    "slices": [
+      "small slices"
+    ],
+    "pork": [
+      "pork",
+      "pork loin",
+      "pork chop"
+    ],
+    "knife": [
+      "a knife",
+      "knife"
+    ],
+    "cuts": [
+      "cuts"
+    ],
+    "edges": [
+      "the edges"
+    ],
+    "surface": [
+      "the surface"
+    ],
+    "slab": [
+      "a slab"
+    ],
+    "lady": [
+      "the lady"
+    ],
+    "slits": [
+      "slits",
+      "little slits"
+    ],
+    "girl": [
+      "the girl",
+      "a girl"
+    ],
+    "dog": [
+      "her dog"
+    ],
+    "inch": [
+      "1 inch"
+    ],
+    "chef": [
+      "a chef"
+    ],
+    "man": [
+      "a man"
+    ]
+  }
+}

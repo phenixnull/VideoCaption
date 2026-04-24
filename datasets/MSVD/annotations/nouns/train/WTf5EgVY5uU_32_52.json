@@ -1,0 +1,46 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman cuts up some",
+      "a woman is chopping",
+      "a woman is chopping and slicing",
+      "a woman is cutting",
+      "a woman is dicing",
+      "a woman is dicing half"
+    ],
+    "vegetables": [
+      "some vegetables",
+      "vegetables"
+    ],
+    "onion": [
+      "chopping a onion",
+      "chopping an onion",
+      "slicing an onion",
+      "cutting an onion",
+      "dicing an onion",
+      "half an onion"
+    ],
+    "knife": [
+      "using a knife"
+    ],
+    "lady": [
+      "the lady sliced",
+      "a lady is cutting and chopping",
+      "a lady making"
+    ],
+    "person": [
+      "the person is cutting the something",
+      "a person is cutting"
+    ],
+    "vegetable": [
+      "is cutting vegetable",
+      "and chopping vegetable"
+    ],
+    "omurice": [
+      "called as omurice"
+    ],
+    "man": [
+      "a man cooking his"
+    ]
+  }
+}

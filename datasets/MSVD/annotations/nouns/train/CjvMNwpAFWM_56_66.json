@@ -1,0 +1,35 @@
+{
+  "video_objs": {
+    "puppies": [
+      "two puppies are wrestling and nipping",
+      "two puppies are playing",
+      "the puppies played together",
+      "the puppies were playing",
+      "the puppies wrestled",
+      "two puppies play"
+    ],
+    "dogs": [
+      "two dogs are playing",
+      "two dogs are barking and playing",
+      "two dogs play",
+      "the dogs are playing",
+      "two dogs are hugging each other",
+      "the dogs played"
+    ],
+    "puppy": [
+      "a puppy is running",
+      "two puppy playing",
+      "two small puppy is playing",
+      "a puppy"
+    ],
+    "patio": [
+      "on the patio"
+    ],
+    "deck": [
+      "on the deck"
+    ],
+    "porch": [
+      "on the porch"
+    ]
+  }
+}

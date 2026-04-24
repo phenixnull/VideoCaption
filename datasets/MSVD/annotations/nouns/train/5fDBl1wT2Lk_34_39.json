@@ -1,0 +1,49 @@
+{
+  "video_objs": {
+    "ball": [
+      "a big ball bounces",
+      "a ball hits",
+      "a ball knocked",
+      "a ball knocks down",
+      "the ball bumped",
+      "the ball hits",
+      "a ball is hitting"
+    ],
+    "nut": [
+      "a nut"
+    ],
+    "potato": [
+      "a potato",
+      "a potato kept erect",
+      "a potato that was standing",
+      "a potato propped vertically",
+      "the potato",
+      "a potato knocked"
+    ],
+    "balls": [
+      "a balls rolls"
+    ],
+    "man": [
+      "a man is colliding",
+      "a man is playing",
+      "a man using",
+      "a man"
+    ],
+    "boy": [
+      "a boy having",
+      "a boy is playing",
+      "a boy hits",
+      "a boy holding",
+      "the boy is explaining"
+    ],
+    "boys": [
+      "a boys can be talking"
+    ],
+    "woman": [
+      "a woman throughs"
+    ],
+    "mani": [
+      "a mani is playing"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "video_objs": {
+    "chipmunk": [
+      "the chipmunk is suddenly looking back",
+      "a chipmunk is looking",
+      "a chipmunk is turning around quickly",
+      "a chipmunk glares",
+      "a chipmunk looks surprised",
+      "a brown chipmunk standing",
+      "a chipmunk turning around and staring",
+      "the chipmunk is staring wideeyed"
+    ],
+    "camera": [
+      "into the camera",
+      "at the camera",
+      "chipmunk turning and looking towards the camera"
+    ],
+    "cage": [
+      "in the cage"
+    ],
+    "squirrel": [
+      "a squirrel is standing",
+      "squirrel is seeing"
+    ],
+    "mangoose": [
+      "a very scared mangoose"
+    ],
+    "aquarium": [
+      "at an aquarium"
+    ],
+    "room": [
+      "around the room"
+    ],
+    "gopher": [
+      "a gopher turns"
+    ],
+    "hamster": [
+      "a hamster turns and stares"
+    ],
+    "rat": [
+      "a rat is shown"
+    ],
+    "audience": [
+      "towards the audience"
+    ],
+    "animal": [
+      "the animal looked",
+      "an animal is giving stills",
+      "an animal is glaring",
+      "an animal is turning its face suddenly",
+      "the animal is playing"
+    ]
+  }
+}

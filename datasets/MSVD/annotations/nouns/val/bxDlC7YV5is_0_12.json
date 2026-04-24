@@ -1,0 +1,45 @@
+{
+  "video_objs": {
+    "boy": [
+      "a boy is playing",
+      "a boy plays",
+      "the boy is playing",
+      "the boy performed",
+      "a boy playing"
+    ],
+    "keyboard": [
+      "playing a keyboard"
+    ],
+    "people": [
+      "the people"
+    ],
+    "piano": [
+      "playing a piano",
+      "is playing piano",
+      "plays a piano",
+      "playing the piano"
+    ],
+    "crowd": [
+      "of a crowd"
+    ],
+    "group": [
+      "for a group"
+    ],
+    "kid": [
+      "a kid is playing"
+    ],
+    "audience": [
+      "before an audience",
+      "for an audience"
+    ],
+    "man": [
+      "a man is playing some"
+    ],
+    "instrument": [
+      "playing some instrument"
+    ],
+    "guy": [
+      "a guy is playing"
+    ]
+  }
+}

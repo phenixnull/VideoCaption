@@ -1,0 +1,60 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman puts four",
+      "a woman is boiling",
+      "a woman is adding",
+      "a woman is boiling some",
+      "a woman dumps",
+      "a woman is putting some",
+      "a woman boils"
+    ],
+    "okra": [
+      "four okra",
+      "cooking okra",
+      "boiling okra",
+      "putting some okra"
+    ],
+    "pan": [
+      "a pan",
+      "frying pan"
+    ],
+    "water": [
+      "boiling water"
+    ],
+    "peppers": [
+      "boiling peppers"
+    ],
+    "person": [
+      "a person is boiling",
+      "the person is the boiling"
+    ],
+    "someone": [
+      "someone is cooking",
+      "someone is boiling some",
+      "someone is boiling",
+      "someone boiling"
+    ],
+    "finger": [
+      "boiling finger"
+    ],
+    "vegetables": [
+      "boiling some vegetables",
+      "adding vegetables",
+      "dumps vegetables",
+      "boiling vegetables"
+    ],
+    "pot": [
+      "a pot"
+    ],
+    "chef": [
+      "a chef is boiling"
+    ],
+    "man": [
+      "a man cooking"
+    ],
+    "kichen": [
+      "cooking his kichen"
+    ]
+  }
+}

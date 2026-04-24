@@ -1,0 +1,92 @@
+{
+  "video_objs": {
+    "boy": [
+      "a boy is adding",
+      "a boy is pouring",
+      "a boy is pouring something",
+      "a boy pours",
+      "the boy poured"
+    ],
+    "juice": [
+      "adding juice",
+      "drinking juice"
+    ],
+    "cup": [
+      "in the cup",
+      "into a cup"
+    ],
+    "blender": [
+      "from a blender"
+    ],
+    "glasses": [
+      "into glasses"
+    ],
+    "pitcher": [
+      "from a pitcher"
+    ],
+    "kid": [
+      "a kid pours himself"
+    ],
+    "smoothie": [
+      "a smoothie"
+    ],
+    "liqud": [
+      "a liqud is poured"
+    ],
+    "man": [
+      "a man is pouring",
+      "a man is preparing",
+      "a man pours",
+      "the man is pouring"
+    ],
+    "liquid": [
+      "a brown liquid"
+    ],
+    "cups": [
+      "into two blue cups",
+      "into two cups"
+    ],
+    "drinks": [
+      "pouring drinks"
+    ],
+    "shake": [
+      "a shake",
+      "pours a shake",
+      "pours the shake"
+    ],
+    "tumbler": [
+      "a plastic tumbler"
+    ],
+    "tumblers": [
+      "two tumblers",
+      "blue tumblers"
+    ],
+    "jusee": [
+      "drinking jusee"
+    ],
+    "person": [
+      "the person drinking"
+    ],
+    "milkshakes": [
+      "milkshakes"
+    ],
+    "coffee": [
+      "coffee"
+    ],
+    "mug": [
+      "a mug"
+    ],
+    "boys": [
+      "the two boys"
+    ],
+    "mixture": [
+      "a mixture"
+    ],
+    "stuffs": [
+      "some stuffs"
+    ],
+    "guys": [
+      "guys"
+    ]
+  }
+}

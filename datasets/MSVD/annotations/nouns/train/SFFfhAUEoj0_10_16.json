@@ -1,0 +1,30 @@
+{
+  "video_objs": {
+    "man": [
+      "a young man",
+      "a man",
+      "the man"
+    ],
+    "chair": [
+      "a chair"
+    ],
+    "guitar": [
+      "playing a guitar",
+      "playing guitar",
+      "played his guitar",
+      "the guitar"
+    ],
+    "boy": [
+      "a boy"
+    ],
+    "person": [
+      "a person"
+    ],
+    "music": [
+      "playing the music"
+    ],
+    "song": [
+      "singing song"
+    ]
+  }
+}

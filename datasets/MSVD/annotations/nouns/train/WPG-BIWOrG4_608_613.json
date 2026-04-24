@@ -1,0 +1,37 @@
+{
+  "video_objs": {
+    "man": [
+      "a man holding",
+      "a man drops",
+      "a man slices",
+      "a man is throwing",
+      "a man is cutting",
+      "a man splits open"
+    ],
+    "tomato": [
+      "a tomato"
+    ],
+    "blades": [
+      "blades"
+    ],
+    "knife": [
+      "a knife"
+    ],
+    "person": [
+      "a person throws",
+      "a person is cutting"
+    ],
+    "pieces": [
+      "two pieces"
+    ],
+    "jack": [
+      "jack"
+    ],
+    "kichen": [
+      "his kichen"
+    ],
+    "types": [
+      "different types"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "video_objs": {
+    "man": [
+      "a man making",
+      "a man is combining",
+      "a man is mixing",
+      "a man is mixing dry",
+      "a man is stirring"
+    ],
+    "flour": [
+      "is combining flour",
+      "is mixing flour",
+      "mixing some flour",
+      "a person is mixing the flour"
+    ],
+    "bowl": [
+      "in a bowl"
+    ],
+    "dough": [
+      "is mixing dough",
+      "to make dough",
+      "is stirring dough",
+      "someone is mixing dough"
+    ],
+    "ingredients": [
+      "mixing dry ingredients",
+      "is mixing ingredients"
+    ],
+    "mixture": [
+      "stirs a mixture",
+      "preparing some mixture"
+    ],
+    "room": [
+      "in the room"
+    ],
+    "batter": [
+      "stirring a batter"
+    ],
+    "meal": [
+      "someone is mixing meal"
+    ],
+    "pizza": [
+      "is preparing pizza",
+      "home made pizza",
+      "to cook pizza",
+      "make a pizza"
+    ]
+  }
+}

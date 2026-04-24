@@ -1,0 +1,49 @@
+{
+  "video_objs": {
+    "kangaroo": [
+      "a kangaroo nibbles",
+      "a kangaroo eats",
+      "a kangaroo is eating",
+      "a kangaroo is picking up",
+      "a kangaroo plays",
+      "kangaroo eating",
+      "the kangaroo ate",
+      "a kangaroo is nibbling"
+    ],
+    "food": [
+      "it s food",
+      "food held",
+      "eating food",
+      "eating some food"
+    ],
+    "grassland": [
+      "in grassland"
+    ],
+    "grass": [
+      "in the grass"
+    ],
+    "marsupial": [
+      "a marsupial is eating"
+    ],
+    "animal": [
+      "the animal is eating",
+      "a playing animal"
+    ],
+    "paws": [
+      "his paws"
+    ],
+    "snack": [
+      "having a snack"
+    ],
+    "garden": [
+      "in the garden"
+    ],
+    "ground": [
+      "on the ground",
+      "in the ground"
+    ],
+    "wallaby": [
+      "the wallaby is eating"
+    ]
+  }
+}

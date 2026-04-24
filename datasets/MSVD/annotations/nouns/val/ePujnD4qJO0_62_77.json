@@ -1,0 +1,49 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman is walking down",
+      "a woman is walking along",
+      "a woman is walking down a city",
+      "a woman is walking"
+    ],
+    "street": [
+      "walking down the street",
+      "walking down a city street"
+    ],
+    "pavement": [
+      "walking along a pavement"
+    ],
+    "sidewalk": [
+      "walking down a sidewalk",
+      "walking down the sidewalk"
+    ],
+    "lane": [
+      "walks down a lane"
+    ],
+    "lady": [
+      "the lady walked down",
+      "a lady is walking",
+      "a lady walking"
+    ],
+    "man": [
+      "a man"
+    ],
+    "skateboard": [
+      "on a skateboard"
+    ],
+    "girl": [
+      "a girl is walking"
+    ],
+    "person": [
+      "few other person also walking"
+    ],
+    "wall": [
+      "along the wall"
+    ],
+    "women": [
+      "the women is walking",
+      "a women walk",
+      "a women is walking"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman demonstrating",
+      "a woman is doing",
+      "a woman is exercising",
+      "a woman is walking",
+      "a woman standing",
+      "a woman walks",
+      "a woman doing",
+      "a woman dancing"
+    ],
+    "girl": [
+      "a girl is exercising",
+      "a girl is standing",
+      "a girl is doing",
+      "a girl is workouting",
+      "a girl is excercising",
+      "a girl cardio kickboxing workout",
+      "a young girl is exercising"
+    ],
+    "arms": [
+      "raising and lowering her arms",
+      "fanning her arms overhead"
+    ],
+    "room": [
+      "in a room",
+      "in the room",
+      "inside the room"
+    ],
+    "lady": [
+      "the lady exercised",
+      "a lady is doing",
+      "a lady doing",
+      "a lady"
+    ]
+  }
+}

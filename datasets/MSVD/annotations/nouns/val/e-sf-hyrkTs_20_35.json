@@ -1,0 +1,49 @@
+{
+  "video_objs": {
+    "girl": [
+      "a girl",
+      "the girl",
+      "a japanees girl",
+      "the small girl"
+    ],
+    "flute": [
+      "playing a flute",
+      "playing the flute",
+      "plays a flute",
+      "played her flute",
+      "performed her flute",
+      "playing flute"
+    ],
+    "instruments": [
+      "an instruments"
+    ],
+    "woman": [
+      "a woman",
+      "the woman"
+    ],
+    "stage": [
+      "on stage"
+    ],
+    "clarinet": [
+      "the clarinet"
+    ],
+    "lady": [
+      "a lady",
+      "the lady",
+      "a young lady"
+    ],
+    "piano": [
+      "piano"
+    ],
+    "instrument": [
+      "an instrument",
+      "instrument"
+    ],
+    "song": [
+      "a song"
+    ],
+    "music": [
+      "flute music"
+    ]
+  }
+}

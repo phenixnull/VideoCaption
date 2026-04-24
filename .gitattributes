@@ -1,1 +1,2 @@
 projects/baseline/models/tokenizer_m_stage1/clip_model.pt filter=lfs diff=lfs merge=lfs -text
+datasets/MSVD/caption_db_clip_vitb32.pkl filter=lfs diff=lfs merge=lfs -text

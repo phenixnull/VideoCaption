@@ -1,0 +1,64 @@
+{
+  "video_objs": {
+    "animal": [
+      "petting a animal",
+      "scratching a small animal",
+      "scratching the animal",
+      "tickling an animal",
+      "pets an animal"
+    ],
+    "person": [
+      "a person is tickling",
+      "a person is itching",
+      "a person is petting",
+      "a person is scratching",
+      "a person is playing",
+      "a person petting",
+      "a person playing"
+    ],
+    "primate": [
+      "a small primate is holding"
+    ],
+    "woman": [
+      "a woman is petting",
+      "a woman is rubbing",
+      "a woman is holding and scratching",
+      "a woman is scratching",
+      "the woman is scratching"
+    ],
+    "lory": [
+      "itching a lory s hand"
+    ],
+    "loris": [
+      "holding and scratching a loris",
+      "petting a loris"
+    ],
+    "monkey": [
+      "petting a monkey",
+      "the little monkey"
+    ],
+    "man": [
+      "a man plays",
+      "a man is playing",
+      "a man is petting"
+    ],
+    "mammal": [
+      "scratched the mammal s stomach"
+    ],
+    "boy": [
+      "a boy is playing"
+    ],
+    "lemur": [
+      "tickling the lemur"
+    ],
+    "creature": [
+      "small fuzzy creature"
+    ],
+    "lady": [
+      "the lady scratched the little"
+    ],
+    "sonya": [
+      "sonya is enjoying"
+    ]
+  }
+}

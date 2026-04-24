@@ -1,0 +1,33 @@
+{
+  "video_objs": {
+    "men": [
+      "two men are karate kicking",
+      "two men are fighting",
+      "two men engage",
+      "two men are doing martial arts",
+      "two men are kicking",
+      "the men are fighting",
+      "the men kicked"
+    ],
+    "guys": [
+      "two guys act like they re fighting",
+      "two guys are fighting"
+    ],
+    "park": [
+      "park"
+    ],
+    "boys": [
+      "two boys are fighting"
+    ],
+    "people": [
+      "two people kick",
+      "the people are fighting"
+    ],
+    "field": [
+      "field"
+    ],
+    "persons": [
+      "two persons fighting"
+    ]
+  }
+}

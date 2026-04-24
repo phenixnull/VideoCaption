@@ -1,0 +1,32 @@
+{
+  "video_objs": {
+    "dog": [
+      "a dog barks",
+      "a dog barks excitedly",
+      "a dog has a barking fit",
+      "a dog is barking",
+      "a dog is barking incessantly",
+      "the dog is barking",
+      "the dog is looking up and shouting"
+    ],
+    "puppy": [
+      "a puppy is barking",
+      "a puppy is barks",
+      "the puppy is barking",
+      "one puppy is barking"
+    ],
+    "man": [
+      "a man is calling"
+    ],
+    "room": [
+      "in a room"
+    ],
+    "video": [
+      "a video"
+    ],
+    "pomeranian": [
+      "a white pomeranian",
+      "a pomeranian barks"
+    ]
+  }
+}

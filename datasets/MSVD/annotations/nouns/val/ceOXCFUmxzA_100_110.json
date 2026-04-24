@@ -1,0 +1,65 @@
+{
+  "video_objs": {
+    "boy": [
+      "a boy and",
+      "a boy and his",
+      "the boy",
+      "and a boy",
+      "a boy"
+    ],
+    "woman": [
+      "and a woman",
+      "a woman and",
+      "a woman",
+      "the woman and"
+    ],
+    "pumpkin": [
+      "a pumpkin",
+      "a small pumpkin",
+      "a mini pumpkin"
+    ],
+    "capsicum": [
+      "a capsicum"
+    ],
+    "mom": [
+      "a mom and",
+      "and his mom"
+    ],
+    "child": [
+      "and a child",
+      "a child"
+    ],
+    "ball": [
+      "a ball",
+      "playing the ball"
+    ],
+    "kid": [
+      "a kid"
+    ],
+    "people": [
+      "people",
+      "the people"
+    ],
+    "baby": [
+      "the baby"
+    ],
+    "mother": [
+      "his mother"
+    ],
+    "lady": [
+      "the lady"
+    ],
+    "tomato": [
+      "the tomato"
+    ],
+    "daughter": [
+      "mother and daughter"
+    ],
+    "girl": [
+      "a girl"
+    ],
+    "video": [
+      "this video"
+    ]
+  }
+}

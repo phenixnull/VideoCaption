@@ -1,0 +1,61 @@
+{
+  "video_objs": {
+    "man": [
+      "a man rides",
+      "a man is riding",
+      "a man is driving",
+      "a man wearing",
+      "the man is riding",
+      "a man is standing",
+      "a man dressed",
+      "the man is"
+    ],
+    "guy": [
+      "a guy is riding",
+      "a young guy rides"
+    ],
+    "road": [
+      "down the road"
+    ],
+    "neighborhood": [
+      "in a neighborhood"
+    ],
+    "mopad": [
+      "riding a mopad"
+    ],
+    "bike": [
+      "rides a bike"
+    ],
+    "driveway": [
+      "down a driveway",
+      "around a driveway"
+    ],
+    "suit": [
+      "wearing a suit",
+      "in a suit"
+    ],
+    "boy": [
+      "the boy is riding a small",
+      "a boy is riding a red",
+      "the boy rode a small"
+    ],
+    "yard": [
+      "around a yard"
+    ],
+    "moped": [
+      "driving a moped"
+    ],
+    "scoot": [
+      "driving a scoot"
+    ],
+    "scoooter": [
+      "driving is scoooter"
+    ],
+    "alley": [
+      "in an alley"
+    ],
+    "men": [
+      "men are riding"
+    ]
+  }
+}

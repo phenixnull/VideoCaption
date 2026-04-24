@@ -1,0 +1,56 @@
+{
+  "video_objs": {
+    "man": [
+      "a man pours",
+      "a man is pouring",
+      "a man is adding",
+      "a man puts",
+      "the man is pouring",
+      "the man was cooking",
+      "the man poured",
+      "a man making"
+    ],
+    "sauce": [
+      "red sauce",
+      "sauce",
+      "spaghetti sauce",
+      "tomato sauce",
+      "marinara sauce",
+      "pasta sauce"
+    ],
+    "pitcher": [
+      "a pitcher"
+    ],
+    "plate": [
+      "a plate"
+    ],
+    "pasta": [
+      "pasta",
+      "the pasta",
+      "cooked pasta",
+      "some pasta"
+    ],
+    "spaghetti": [
+      "spaghetti",
+      "some spaghetti"
+    ],
+    "cup": [
+      "a cup"
+    ],
+    "plateful": [
+      "a plateful"
+    ],
+    "person": [
+      "the person"
+    ],
+    "noodles": [
+      "the noodles"
+    ],
+    "pizza": [
+      "pizza"
+    ],
+    "chef": [
+      "a chef"
+    ]
+  }
+}

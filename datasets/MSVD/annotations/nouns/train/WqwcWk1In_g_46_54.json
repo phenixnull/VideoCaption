@@ -1,0 +1,51 @@
+{
+  "video_objs": {
+    "cow": [
+      "a cow eating",
+      "a cow eats",
+      "a cow is chewing some dry",
+      "a cow is eating dry",
+      "a cow is eating",
+      "a cow is eating some",
+      "the cow chewed"
+    ],
+    "hay": [
+      "eating hay",
+      "eating some hay"
+    ],
+    "wad": [
+      "a wad"
+    ],
+    "grass": [
+      "some dry grass",
+      "dry grass",
+      "grass",
+      "the grass",
+      "some grass",
+      "green grass"
+    ],
+    "grasses": [
+      "the grasses",
+      "chewed the grasses",
+      "is eating the grasses"
+    ],
+    "donkey": [
+      "donkey is eating"
+    ],
+    "calf": [
+      "a calf is eating"
+    ],
+    "pasture": [
+      "in a pasture"
+    ],
+    "bushes": [
+      "is grazing bushes"
+    ],
+    "fields": [
+      "in the fields"
+    ],
+    "food": [
+      "is eating food"
+    ]
+  }
+}

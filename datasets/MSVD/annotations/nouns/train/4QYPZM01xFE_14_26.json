@@ -1,0 +1,38 @@
+{
+  "video_objs": {
+    "person": [
+      "a person peels",
+      "a person is peeling",
+      "a person is slitting something",
+      "a person taking"
+    ],
+    "onion": [
+      "an onion"
+    ],
+    "chef": [
+      "a chef is peeling"
+    ],
+    "skin": [
+      "the skin off"
+    ],
+    "woman": [
+      "a woman is peeling"
+    ],
+    "orange": [
+      "an orange"
+    ],
+    "lady": [
+      "the lady peeled"
+    ],
+    "man": [
+      "a man is pealing",
+      "a man pealing"
+    ],
+    "fruit": [
+      "fruit"
+    ],
+    "cover": [
+      "cover"
+    ]
+  }
+}

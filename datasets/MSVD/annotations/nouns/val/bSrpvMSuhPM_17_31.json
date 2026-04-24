@@ -1,0 +1,36 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is talking",
+      "a man and"
+    ],
+    "woman": [
+      "a woman is talking"
+    ],
+    "segment": [
+      "a segment"
+    ],
+    "lady": [
+      "the lady appealed",
+      "the lady made a plea"
+    ],
+    "guy": [
+      "a guy talking"
+    ],
+    "clip": [
+      "a short clip"
+    ],
+    "couple": [
+      "couple are talking"
+    ],
+    "people": [
+      "two people are talking"
+    ],
+    "wife": [
+      "with his wife"
+    ],
+    "couples": [
+      "conversation between couples"
+    ]
+  }
+}

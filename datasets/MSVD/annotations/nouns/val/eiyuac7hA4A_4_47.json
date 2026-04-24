@@ -1,0 +1,69 @@
+{
+  "video_objs": {
+    "carrot": [
+      "a carrot is being sliced",
+      "a carrot is sliced up",
+      "cuts a carrot",
+      "of a carrot",
+      "slicing a carrot",
+      "up a carrot"
+    ],
+    "carrots": [
+      "someone is cutting carrots"
+    ],
+    "person": [
+      "a person cutting",
+      "a person is slicing",
+      "a person sliced up",
+      "a person is cutting",
+      "a person slices",
+      "a person is demonstrating how"
+    ],
+    "meat": [
+      "cutting a meat"
+    ],
+    "knife": [
+      "a sharp knife",
+      "a large knife"
+    ],
+    "man": [
+      "a man cuts",
+      "a man cuts off all sides",
+      "a man is cutting some",
+      "a man is slicing",
+      "a man dicing",
+      "a man slices up",
+      "a man cutting",
+      "a man is cutting",
+      "a man is slicing some",
+      "a man explains how",
+      "the man is slicing"
+    ],
+    "piece": [
+      "a piece"
+    ],
+    "individual": [
+      "an individual slices"
+    ],
+    "kitchen": [
+      "in the kitchen"
+    ],
+    "dice": [
+      "like a dice"
+    ],
+    "vegetable": [
+      "a men cuting vegetable",
+      "up a vegetable"
+    ],
+    "woman": [
+      "a woman is cutting open",
+      "a woman is slicing"
+    ],
+    "chef": [
+      "a chef slicing"
+    ],
+    "vegitable": [
+      "slicing some vegitable"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman practicing",
+      "a woman hits",
+      "a woman is hitting",
+      "a woman is practicing"
+    ],
+    "volleyball": [
+      "practicing a volleyball",
+      "hitting a volleyball"
+    ],
+    "beach": [
+      "at the beach",
+      "on the beach",
+      "are playing beach",
+      "women are playing beach volley ball"
+    ],
+    "net": [
+      "over a net",
+      "over the net"
+    ],
+    "girl": [
+      "the girl hit",
+      "the girl is playing",
+      "the girl hit many",
+      "the girl served",
+      "a girl is giving"
+    ],
+    "women": [
+      "the women are playing",
+      "women are playing",
+      "two women playing"
+    ],
+    "balls": [
+      "is passing balls",
+      "served the balls"
+    ],
+    "girls": [
+      "two girls playing",
+      "the girls are playing"
+    ],
+    "lady": [
+      "a lady is giving the ball",
+      "two lady are playing"
+    ],
+    "shot": [
+      "giving a shot"
+    ]
+  }
+}

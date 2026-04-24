@@ -1,0 +1,54 @@
+{
+  "video_objs": {
+    "okapi": [
+      "an okapi is grazing",
+      "an okapi is eating",
+      "an okapi is standing",
+      "the okapi is seeing",
+      "an okapi eats"
+    ],
+    "tree": [
+      "a tree"
+    ],
+    "animal": [
+      "an animal eats",
+      "an animal is eating",
+      "the animal ate",
+      "the animal is eating",
+      "the animal is grazing"
+    ],
+    "leaves": [
+      "leaves"
+    ],
+    "zebrahorse": [
+      "a zebrahorse is eating"
+    ],
+    "leaf": [
+      "leaf"
+    ],
+    "zebra": [
+      "a young zebra is eating",
+      "a zebra is eating"
+    ],
+    "vegetation": [
+      "vegetation"
+    ],
+    "horse": [
+      "a horse is eating",
+      "the horse is running"
+    ],
+    "goat": [
+      "a goat examines",
+      "the goat eating"
+    ],
+    "mammal": [
+      "the mammal ate"
+    ],
+    "piece": [
+      "on a piece"
+    ],
+    "plant": [
+      "eating the plant"
+    ]
+  }
+}

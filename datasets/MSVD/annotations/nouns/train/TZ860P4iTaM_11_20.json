@@ -1,0 +1,40 @@
+{
+  "video_objs": {
+    "cat": [
+      "a cat plays",
+      "a black cat is deftly playing",
+      "a cat is hitting",
+      "a cat is playing",
+      "a cat is rubbing its head",
+      "a cat is striking",
+      "a cat is tapping",
+      "the cat is playing"
+    ],
+    "piano": [
+      "the piano",
+      "a piano"
+    ],
+    "keys": [
+      "the keys",
+      "keys"
+    ],
+    "guitar": [
+      "a guitar"
+    ],
+    "peyano": [
+      "peyano"
+    ],
+    "chimpanzee": [
+      "a chimpanzee"
+    ],
+    "paws": [
+      "his paws"
+    ],
+    "guy": [
+      "a guy"
+    ],
+    "instrument": [
+      "some instrument"
+    ]
+  }
+}

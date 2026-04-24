@@ -1,0 +1,39 @@
+{
+  "video_objs": {
+    "men": [
+      "four men are fighting",
+      "men attack",
+      "men are fighting",
+      "two men are holding",
+      "some men are fighting",
+      "several men are fighting",
+      "the men fought"
+    ],
+    "man": [
+      "one man throws",
+      "one man throws an armed man",
+      "a man fights",
+      "an unarmed man is fighting",
+      "a man is hold",
+      "some man are fighting"
+    ],
+    "gunmen": [
+      "two gunmen"
+    ],
+    "guns": [
+      "men who have guns"
+    ],
+    "robbers": [
+      "the robbers"
+    ],
+    "person": [
+      "the person is shooting"
+    ],
+    "people": [
+      "the people are fighting"
+    ],
+    "guys": [
+      "few guys"
+    ]
+  }
+}

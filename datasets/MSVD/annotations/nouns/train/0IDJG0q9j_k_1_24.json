@@ -1,0 +1,51 @@
+{
+  "video_objs": {
+    "cyclist": [
+      "a cyclist pedals"
+    ],
+    "track": [
+      "around a track",
+      "on a track",
+      "someone is racing around a track",
+      "on the track",
+      "around the track"
+    ],
+    "man": [
+      "a man is pedling",
+      "a man is riding",
+      "a man rides",
+      "the man is riding a recumbant",
+      "the man raced",
+      "a man is driving",
+      "a man first",
+      "a man racing",
+      "a man is racing",
+      "a man riding"
+    ],
+    "bike": [
+      "pedling a bike",
+      "riding a bike",
+      "his funny bike"
+    ],
+    "road": [
+      "on the road"
+    ],
+    "bicycle": [
+      "rides a bicycle",
+      "riding a bicycle"
+    ],
+    "person": [
+      "a person is riding",
+      "the person is doing something"
+    ],
+    "persons": [
+      "some persons are observing sean costin kilometer worle record2008"
+    ],
+    "ground": [
+      "on the ground"
+    ],
+    "video": [
+      "excellent video"
+    ]
+  }
+}

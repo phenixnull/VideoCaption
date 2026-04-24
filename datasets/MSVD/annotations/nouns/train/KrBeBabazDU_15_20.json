@@ -1,0 +1,57 @@
+{
+  "video_objs": {
+    "girl": [
+      "a teenage girl shakes her",
+      "a girl is standing",
+      "a girl is thinking",
+      "a girl is shaking her",
+      "a girl is hanging up",
+      "the girl hung up",
+      "a girl talks",
+      "a girl is talking"
+    ],
+    "head": [
+      "shakes her head",
+      "nods her head",
+      "shaking her head"
+    ],
+    "phone": [
+      "hanging up a phone",
+      "hangs up the phone",
+      "hangs up a phone",
+      "finishes a conversation and hangs up the phone"
+    ],
+    "woman": [
+      "a woman nods her",
+      "a woman hangs up",
+      "a woman is speaking",
+      "a woman is hanging up",
+      "a woman shakes her",
+      "a woman is talking"
+    ],
+    "corner": [
+      "in the corner"
+    ],
+    "room": [
+      "of a room"
+    ],
+    "boy": [
+      "a boy picking up",
+      "the boy is talking",
+      "the boy and",
+      "on the boy"
+    ],
+    "telephone": [
+      "picking up a telephone",
+      "hangs up a telephone",
+      "hanging up the telephone"
+    ],
+    "man": [
+      "and the man",
+      "a man call women"
+    ],
+    "lady": [
+      "a young lady seems"
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "video_objs": {
+    "group": [
+      "a group"
+    ],
+    "man": [
+      "a man chisels",
+      "a man is carving",
+      "a man is sanding",
+      "a man is sculpturing",
+      "the man is chiseling",
+      "a man is chisleing",
+      "a man is chiseling"
+    ],
+    "artifact": [
+      "a golden artifact"
+    ],
+    "statue": [
+      "carving a statue",
+      "sanding a statue",
+      "a statue is being made",
+      "someone is carving a statue",
+      "chiseling a statue",
+      "cleaning the statue"
+    ],
+    "men": [
+      "men are polishing",
+      "men are sculpting",
+      "men are carving and shaping",
+      "the men are sculpting",
+      "the men worked"
+    ],
+    "peoples": [
+      "peoples are making"
+    ],
+    "statues": [
+      "peoples are making statues",
+      "men are carving and shaping bronze statues and figurines"
+    ],
+    "sculptors": [
+      "sculptors carve",
+      "the sculptors are chiseling"
+    ],
+    "model": [
+      "chisleing a model"
+    ],
+    "metals": [
+      "people melting metals and pouring"
+    ],
+    "mens": [
+      "some mens are making"
+    ],
+    "person": [
+      "some person are making something",
+      "person scarving"
+    ],
+    "temple": [
+      "the temple"
+    ],
+    "wood": [
+      "is carving wood"
+    ],
+    "mason": [
+      "a mason giving shape"
+    ],
+    "stone": [
+      "to a stone"
+    ],
+    "figurines": [
+      "men are carving and shaping bronze statues and figurines"
+    ],
+    "people": [
+      "people melting",
+      "people are doing",
+      "people are sculpting"
+    ],
+    "artists": [
+      "some artists are making"
+    ],
+    "sculpture": [
+      "are making sculpture"
+    ]
+  }
+}

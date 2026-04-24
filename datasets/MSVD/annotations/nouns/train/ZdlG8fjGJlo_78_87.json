@@ -1,0 +1,62 @@
+{
+  "video_objs": {
+    "piece": [
+      "a piece"
+    ],
+    "pepper": [
+      "of green pepper",
+      "slices a pepper",
+      "slicing a pepper",
+      "cut the pepper",
+      "cutting a pepper"
+    ],
+    "blender": [
+      "in a blender"
+    ],
+    "person": [
+      "a person slices",
+      "a person is cutting",
+      "a person cuts",
+      "a person is chopping",
+      "a person is prepair jusee",
+      "the person is cutting"
+    ],
+    "pieces": [
+      "pieces"
+    ],
+    "chef": [
+      "a chef is slicing"
+    ],
+    "man": [
+      "a man is cutting",
+      "a man is slicing",
+      "a man cuts up",
+      "a man is holding"
+    ],
+    "vegetables": [
+      "some vegetables",
+      "cutting vegetables",
+      "vegetables were cut"
+    ],
+    "jalapeno": [
+      "cuts a jalapeno",
+      "the cook cut the jalapeno"
+    ],
+    "ingredients": [
+      "other ingredients"
+    ],
+    "woman": [
+      "a woman is cutting peppers",
+      "a woman is cutting"
+    ],
+    "lady": [
+      "the lady cut"
+    ],
+    "capsicum": [
+      "the capsicum"
+    ],
+    "clip": [
+      "a short clip"
+    ]
+  }
+}

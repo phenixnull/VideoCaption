@@ -1,0 +1,78 @@
+{
+  "video_objs": {
+    "man": [
+      "a man draws",
+      "a man is drawing",
+      "the man is drawing",
+      "a man drawing"
+    ],
+    "shape": [
+      "a four sided shape",
+      "a shape",
+      "a geometrical shape"
+    ],
+    "screen": [
+      "a screen",
+      "the screen"
+    ],
+    "x": [
+      "an x inside",
+      "an x inside it"
+    ],
+    "shapes": [
+      "shapes",
+      "some shapes",
+      "making some shapes"
+    ],
+    "board": [
+      "a board",
+      "the board"
+    ],
+    "diagram": [
+      "a diagram"
+    ],
+    "polygon": [
+      "a polygon"
+    ],
+    "figures": [
+      "some figures"
+    ],
+    "person": [
+      "a person",
+      "an mid age person"
+    ],
+    "touchscreen": [
+      "a large touchscreen"
+    ],
+    "teacher": [
+      "a teacher",
+      "the teacher"
+    ],
+    "line": [
+      "a line"
+    ],
+    "computer": [
+      "a computer",
+      "the computer"
+    ],
+    "program": [
+      "a program",
+      "a cool compter program"
+    ],
+    "lines": [
+      "lines"
+    ],
+    "markers": [
+      "markers"
+    ],
+    "triangle": [
+      "a triangle"
+    ],
+    "class": [
+      "the class"
+    ],
+    "students": [
+      "the students"
+    ]
+  }
+}

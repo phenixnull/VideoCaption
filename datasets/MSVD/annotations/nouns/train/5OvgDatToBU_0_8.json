@@ -1,0 +1,56 @@
+{
+  "video_objs": {
+    "kitten": [
+      "a white kitten",
+      "a very young kitten",
+      "a kitten",
+      "a kitten drinks",
+      "the kitten",
+      "baby kitten",
+      "a small kitten"
+    ],
+    "table": [
+      "a table"
+    ],
+    "milk": [
+      "lapping milk",
+      "drinking milk",
+      "drinks milk",
+      "licking up milk",
+      "eating milk",
+      "lapping the milk",
+      "lapping up the milk",
+      "drinking some milk"
+    ],
+    "plate": [
+      "a plate"
+    ],
+    "cat": [
+      "a cat",
+      "the cat",
+      "a white cat"
+    ],
+    "food": [
+      "its food"
+    ],
+    "bowl": [
+      "a bowl"
+    ],
+    "dish": [
+      "a dish"
+    ],
+    "saucer": [
+      "a saucer",
+      "the saucer"
+    ],
+    "puppy": [
+      "puppy"
+    ],
+    "water": [
+      "water"
+    ],
+    "kitty": [
+      "a kitty"
+    ]
+  }
+}

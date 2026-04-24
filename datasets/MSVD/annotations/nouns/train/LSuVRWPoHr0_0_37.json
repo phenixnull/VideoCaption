@@ -1,0 +1,44 @@
+{
+  "video_objs": {
+    "carrot": [
+      "a carrot being sliced and diced",
+      "slicing the carrot",
+      "slicing a carrot",
+      "slicing some carrot",
+      "someone is cutting the carrot",
+      "someone slicing carrot",
+      "a carrot being finally sliced",
+      "a carrot is being sliced"
+    ],
+    "man": [
+      "a man is slicing",
+      "a man is slicing carrots",
+      "a man slices"
+    ],
+    "woman": [
+      "a woman is slicing",
+      "a woman is slicing some",
+      "a woman cuts",
+      "a woman is chopping",
+      "a woman is cutting",
+      "a woman is demonstrating how",
+      "a woman is finely slicing"
+    ],
+    "pieces": [
+      "into small pieces",
+      "very small pieces"
+    ],
+    "chef": [
+      "a chef making",
+      "a chef slicing"
+    ],
+    "person": [
+      "a person is slicing",
+      "a person slices and dices",
+      "a person slicing"
+    ],
+    "portion": [
+      "cuts a portion"
+    ]
+  }
+}

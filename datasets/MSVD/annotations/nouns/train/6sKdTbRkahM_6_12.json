@@ -1,0 +1,40 @@
+{
+  "video_objs": {
+    "man": [
+      "a man cuts",
+      "a man slices",
+      "a man is slicing",
+      "a man is cutting",
+      "a man cut",
+      "the man is cutting",
+      "the man cut",
+      "a man cooking his"
+    ],
+    "pineapple": [
+      "a pineapple",
+      "a whole pineapple",
+      "the pineapple"
+    ],
+    "top": [
+      "the top",
+      "the top and",
+      "the top off"
+    ],
+    "bottom": [
+      "the bottom off"
+    ],
+    "person": [
+      "a person cutting",
+      "a person is cutting"
+    ],
+    "fruit": [
+      "a fruit"
+    ],
+    "skin": [
+      "the skin"
+    ],
+    "kichen": [
+      "his kichen"
+    ]
+  }
+}

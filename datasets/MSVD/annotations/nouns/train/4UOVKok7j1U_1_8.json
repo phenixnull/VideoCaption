@@ -1,0 +1,51 @@
+{
+  "video_objs": {
+    "man": [
+      "a young man is playing",
+      "a man is playing",
+      "a man play",
+      "the man is playing",
+      "a man playing",
+      "the man is sing",
+      "a young man plays"
+    ],
+    "person": [
+      "a person is playing"
+    ],
+    "guitar": [
+      "a guitar",
+      "the guitar",
+      "guitar",
+      "my guitar"
+    ],
+    "boy": [
+      "a boy is playing",
+      "the boy played",
+      "the boy is playing",
+      "a boy is singing and playing"
+    ],
+    "kid": [
+      "a kid is playing"
+    ],
+    "music": [
+      "playing music"
+    ],
+    "guiter": [
+      "the guiter playing"
+    ],
+    "guitor": [
+      "play guitor"
+    ],
+    "guy": [
+      "a guy playing",
+      "a guy is playing"
+    ],
+    "instrument": [
+      "some instrument",
+      "instrument"
+    ],
+    "song": [
+      "singing a song"
+    ]
+  }
+}

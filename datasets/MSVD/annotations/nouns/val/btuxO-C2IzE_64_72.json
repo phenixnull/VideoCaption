@@ -1,0 +1,45 @@
+{
+  "video_objs": {
+    "lion": [
+      "a lion jumps up",
+      "a lion is playing",
+      "a lion and",
+      "a lion jumps",
+      "the lion recognized",
+      "the lion jumped",
+      "a lion hugs",
+      "a lion is hugged"
+    ],
+    "men": [
+      "two men are hugging",
+      "two men play",
+      "the men are hugging",
+      "the men",
+      "two men hug"
+    ],
+    "people": [
+      "people",
+      "two people are playing"
+    ],
+    "woman": [
+      "a woman plays"
+    ],
+    "person": [
+      "a person is fighting",
+      "the person s"
+    ],
+    "persons": [
+      "two persons"
+    ],
+    "guys": [
+      "two guys pampering"
+    ],
+    "couple": [
+      "a couple"
+    ],
+    "man": [
+      "a man",
+      "a man is hugging"
+    ]
+  }
+}

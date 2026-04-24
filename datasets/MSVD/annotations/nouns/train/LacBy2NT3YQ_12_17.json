@@ -1,0 +1,44 @@
+{
+  "video_objs": {
+    "rhino": [
+      "a rhino takes a walk",
+      "a rhino walks",
+      "a rhino is walking down",
+      "a rhino is walking",
+      "a rhino walks towards and"
+    ],
+    "cave": [
+      "his cave",
+      "its cave"
+    ],
+    "animal": [
+      "the animal walking"
+    ],
+    "rhinoceros": [
+      "the rhinoceros is walking",
+      "a muddy rhinoceros is walking",
+      "a rhinoceros is pacing around",
+      "a rhinoceros is standing",
+      "a rhinoceros is walking across",
+      "a rhinoceros is walking",
+      "a rhinoceros is walking toward"
+    ],
+    "hippo": [
+      "a hippo is walking"
+    ],
+    "hippopotamus": [
+      "a hippopotamus is walking"
+    ],
+    "path": [
+      "down a path",
+      "a dirt path",
+      "down the path"
+    ],
+    "trees": [
+      "towards the trees"
+    ],
+    "shade": [
+      "walking toward shade"
+    ]
+  }
+}

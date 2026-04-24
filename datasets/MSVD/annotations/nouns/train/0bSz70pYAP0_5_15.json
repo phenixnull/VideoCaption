@@ -1,0 +1,50 @@
+{
+  "video_objs": {
+    "airplane": [
+      "an airplane is flying",
+      "an airplane soars",
+      "an airplane soars through"
+    ],
+    "plane": [
+      "a plane is flying",
+      "a plane is making some acrobatics",
+      "a plane is gliding",
+      "a plane is gliding across",
+      "a plane flying",
+      "the plane flew",
+      "the plane is soaring"
+    ],
+    "sky": [
+      "the sky"
+    ],
+    "clouds": [
+      "the clouds"
+    ],
+    "flight": [
+      "a flight is flying",
+      "the fighting flight is flying",
+      "a flight doing adventures",
+      "a flight is flying above",
+      "flight flying"
+    ],
+    "toy": [
+      "a toy is flying"
+    ],
+    "aircraft": [
+      "an aircraft doing stunts",
+      "an aircraft flying"
+    ],
+    "miniairplane": [
+      "a miniairplane being flown"
+    ],
+    "piolot": [
+      "a piolot is performing"
+    ],
+    "man": [
+      "a man playing"
+    ],
+    "flite": [
+      "a flite is flying"
+    ]
+  }
+}

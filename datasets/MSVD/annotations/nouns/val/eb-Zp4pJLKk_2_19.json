@@ -1,0 +1,49 @@
+{
+  "video_objs": {
+    "baby": [
+      "a smiling baby is crawling",
+      "a baby is crawling",
+      "a baby is crawling happily",
+      "a baby is smiling and laughing and crawling",
+      "a baby is crawling along",
+      "a baby crawls along"
+    ],
+    "hallway": [
+      "down a hallway"
+    ],
+    "floor": [
+      "on the floor",
+      "along the floor",
+      "across the floor"
+    ],
+    "room": [
+      "from one room"
+    ],
+    "hands": [
+      "it s hands"
+    ],
+    "doorway": [
+      "through the doorway",
+      "through a doorway"
+    ],
+    "bay": [
+      "a bay is crawling"
+    ],
+    "boy": [
+      "a small boy can be happy",
+      "a crying boy"
+    ],
+    "kid": [
+      "a small kid is crawling"
+    ],
+    "home": [
+      "home"
+    ],
+    "video": [
+      "home video"
+    ],
+    "house": [
+      "into the house"
+    ]
+  }
+}

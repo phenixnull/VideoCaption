@@ -1,0 +1,59 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman appears",
+      "a woman skewers",
+      "a woman is pulling",
+      "a woman is deveining",
+      "a woman is preparing",
+      "a woman is cleaning",
+      "a woman is removing",
+      "the woman took out"
+    ],
+    "veins": [
+      "veins out"
+    ],
+    "shrimp": [
+      "a shrimp",
+      "some shrimp",
+      "the shrimp",
+      "shrimp"
+    ],
+    "toothpick": [
+      "a toothpick"
+    ],
+    "person": [
+      "a person is gutting",
+      "a person is deveining",
+      "a person pealing",
+      "a person is cooking",
+      "a person making"
+    ],
+    "shrimps": [
+      "shrimps"
+    ],
+    "lady": [
+      "the lady is deveining",
+      "the lady used",
+      "the lady deveined"
+    ],
+    "skewer": [
+      "a skewer"
+    ],
+    "man": [
+      "a man cleaning"
+    ],
+    "prawn": [
+      "the prawn"
+    ],
+    "pin": [
+      "a pin"
+    ],
+    "skin": [
+      "the skin"
+    ],
+    "demonstration": [
+      "a demonstration"
+    ]
+  }
+}

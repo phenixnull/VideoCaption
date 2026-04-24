@@ -1,0 +1,44 @@
+{
+  "video_objs": {
+    "goose": [
+      "a goose runs after",
+      "a goose attacks",
+      "a goose is chasing",
+      "the goose attacked",
+      "a goose is attacking",
+      "a goose is atacking",
+      "the goose chased after"
+    ],
+    "man": [
+      "a man is attacked",
+      "a man is standing"
+    ],
+    "bird": [
+      "a bird chases",
+      "by a bird",
+      "a bird is biting"
+    ],
+    "lake": [
+      "by a lake"
+    ],
+    "field": [
+      "through a field"
+    ],
+    "duck": [
+      "a duck is biting"
+    ],
+    "yard": [
+      "in the yard"
+    ],
+    "animals": [
+      "there is a funny animals",
+      "funny animals doing weird things"
+    ],
+    "cat": [
+      "a cat walking"
+    ],
+    "boy": [
+      "the boy is running away"
+    ]
+  }
+}

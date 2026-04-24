@@ -1,0 +1,46 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman",
+      "the woman"
+    ],
+    "field": [
+      "a field",
+      "the field"
+    ],
+    "paper": [
+      "on paper",
+      "on the paper"
+    ],
+    "letter": [
+      "a letter",
+      "writing a letter",
+      "wrote a letter"
+    ],
+    "tree": [
+      "a tree"
+    ],
+    "note": [
+      "a note"
+    ],
+    "notes": [
+      "notes"
+    ],
+    "girl": [
+      "a girl",
+      "the girl"
+    ],
+    "woods": [
+      "the woods"
+    ],
+    "garden": [
+      "a garden"
+    ],
+    "clipboard": [
+      "a clipboard"
+    ],
+    "film": [
+      "aishwarya ray film"
+    ]
+  }
+}

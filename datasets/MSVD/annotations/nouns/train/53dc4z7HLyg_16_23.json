@@ -1,0 +1,26 @@
+{
+  "video_objs": {
+    "monkey": [
+      "a monkey pulls",
+      "a monkey attacks",
+      "a monkey grabs",
+      "a monkey is pulling",
+      "a monkey is playing",
+      "a monkey is teasing",
+      "a monkey keeps grabbing",
+      "a monkey yanks"
+    ],
+    "dog": [
+      "a dog"
+    ],
+    "chimpanzee": [
+      "a chimpanzee is teasing",
+      "a chimpanzee teasing"
+    ],
+    "animals": [
+      "two animals playing",
+      "the animals are playing",
+      "funny animals doing"
+    ]
+  }
+}

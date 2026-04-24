@@ -1,0 +1,63 @@
+{
+  "video_objs": {
+    "person": [
+      "a person is cooking",
+      "some person coking",
+      "a person making"
+    ],
+    "food": [
+      "cooking food"
+    ],
+    "woman": [
+      "a woman cooks some",
+      "a woman cooks two big",
+      "a woman is browning",
+      "a woman is cooking",
+      "a woman is cooking some kind",
+      "a woman is frying",
+      "a woman is putting",
+      "a woman is searing",
+      "a woman puts",
+      "the woman is cooking",
+      "a woman is cooking some",
+      "a woman puts two pieces"
+    ],
+    "meat": [
+      "some meat",
+      "meat"
+    ],
+    "pot": [
+      "a pot"
+    ],
+    "pan": [
+      "a pan"
+    ],
+    "pork": [
+      "pork",
+      "pork ribs"
+    ],
+    "saucepan": [
+      "a saucepan"
+    ],
+    "juices": [
+      "the juices"
+    ],
+    "lady": [
+      "the lady"
+    ],
+    "chicken": [
+      "a chicken",
+      "chicken"
+    ],
+    "oil": [
+      "oil"
+    ],
+    "dog": [
+      "her swee t dog",
+      "her dog"
+    ],
+    "man": [
+      "a man is cooking"
+    ]
+  }
+}

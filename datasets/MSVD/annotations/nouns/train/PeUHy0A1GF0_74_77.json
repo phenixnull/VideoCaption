@@ -1,0 +1,47 @@
+{
+  "video_objs": {
+    "lettuce": [
+      "lettuce"
+    ],
+    "cabbage": [
+      "cabbage"
+    ],
+    "vegetables": [
+      "vegetables"
+    ],
+    "lady": [
+      "the lady"
+    ],
+    "okonomiyaki": [
+      "okonomiyaki"
+    ],
+    "dish": [
+      "dish"
+    ],
+    "cabage": [
+      "cabage"
+    ],
+    "knife": [
+      "knife"
+    ],
+    "leaves": [
+      "leaves"
+    ],
+    "stem": [
+      "stem"
+    ],
+    "man": [
+      "a man"
+    ],
+    "kichen": [
+      "kichen"
+    ],
+    "notch": [
+      "notch"
+    ],
+    "woman": [
+      "a woman",
+      "the woman"
+    ]
+  }
+}

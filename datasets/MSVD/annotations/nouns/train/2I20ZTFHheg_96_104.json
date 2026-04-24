@@ -1,0 +1,44 @@
+{
+  "video_objs": {
+    "person": [
+      "a person cuts",
+      "a person is cutting"
+    ],
+    "sock": [
+      "cuts a sock",
+      "is cutting sock",
+      "of a sock",
+      "cutting a sock",
+      "off a sock"
+    ],
+    "man": [
+      "a man is cutting off",
+      "a man cuts",
+      "a man is cutting",
+      "a man cutting"
+    ],
+    "top": [
+      "the top",
+      "the top off"
+    ],
+    "cloth": [
+      "is cutting cloth",
+      "cutting the cloth",
+      "cut the cloth",
+      "someone cut the cloth"
+    ],
+    "pair": [
+      "pair"
+    ],
+    "piece": [
+      "cuts a piece",
+      "cutting a piece"
+    ],
+    "guy": [
+      "a guy is cutting"
+    ],
+    "shocks": [
+      "cutting the shocks"
+    ]
+  }
+}

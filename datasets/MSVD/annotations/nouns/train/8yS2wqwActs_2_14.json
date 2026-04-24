@@ -1,0 +1,49 @@
+{
+  "video_objs": {
+    "dog": [
+      "a dog runs",
+      "a dog is racing",
+      "a dog is running",
+      "a dog is running around",
+      "a dog races back and forth",
+      "a wet dog is sprinting"
+    ],
+    "garden": [
+      "around the garden",
+      "in a garden"
+    ],
+    "house": [
+      "of a house",
+      "dog running around the house"
+    ],
+    "yard": [
+      "around the yard",
+      "around a yard",
+      "in a yard",
+      "in his yard",
+      "it s yard"
+    ],
+    "lawn": [
+      "in a lawn"
+    ],
+    "ground": [
+      "on the ground"
+    ],
+    "grass": [
+      "on the grass",
+      "over the grass"
+    ],
+    "field": [
+      "on a field"
+    ],
+    "park": [
+      "in the park"
+    ],
+    "things": [
+      "naughty things"
+    ],
+    "body": [
+      "from its body"
+    ]
+  }
+}

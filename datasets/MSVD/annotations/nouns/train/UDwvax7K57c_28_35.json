@@ -1,0 +1,34 @@
+{
+  "video_objs": {
+    "cat": [
+      "a cat jumps",
+      "a cat attacks",
+      "a cat crawls",
+      "a cat dives",
+      "a cat goes",
+      "a cat is charging",
+      "a cat is",
+      "a cat is playing"
+    ],
+    "bag": [
+      "a bag",
+      "a long thin bag",
+      "a long bag"
+    ],
+    "tube": [
+      "a tube"
+    ],
+    "floor": [
+      "the floor"
+    ],
+    "backpack": [
+      "a backpack"
+    ],
+    "man": [
+      "a man"
+    ],
+    "jacket": [
+      "his jacket"
+    ]
+  }
+}

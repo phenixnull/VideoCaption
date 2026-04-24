@@ -1,0 +1,56 @@
+{
+  "video_objs": {
+    "kitten": [
+      "a kitten sniffs",
+      "a kitten is walking",
+      "a kitten is sniffing",
+      "a kitten is meowing",
+      "a kitten is exploring",
+      "a kitten is walking around",
+      "the kitten explored",
+      "the kitten is standing",
+      "the kitten tried",
+      "there is a tiny kitten meowing",
+      "a kitten is making noise",
+      "the kitten is playing",
+      "a kitten is mewing and sniffing"
+    ],
+    "flowers": [
+      "flowers"
+    ],
+    "cloth": [
+      "a red checked cloth"
+    ],
+    "table": [
+      "a table"
+    ],
+    "cat": [
+      "a cat is walking",
+      "a cat checks out",
+      "a cat finds",
+      "a cat walking",
+      "a cat is playing",
+      "the cat looked",
+      "a cat is eating",
+      "the cat is playing"
+    ],
+    "toy": [
+      "a toy"
+    ],
+    "couch": [
+      "the couch"
+    ],
+    "area": [
+      "his area"
+    ],
+    "surroundings": [
+      "its surroundings"
+    ],
+    "sofa": [
+      "the sofa"
+    ],
+    "way": [
+      "a way"
+    ]
+  }
+}

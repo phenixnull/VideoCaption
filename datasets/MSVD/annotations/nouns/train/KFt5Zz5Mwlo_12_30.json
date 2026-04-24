@@ -1,0 +1,60 @@
+{
+  "video_objs": {
+    "cat": [
+      "a cat playing",
+      "a cat is playing",
+      "a cat is pouncing",
+      "a cat runs around",
+      "a cat standing",
+      "a cat"
+    ],
+    "trampoline": [
+      "a trampoline"
+    ],
+    "man": [
+      "a man standing",
+      "the man teased",
+      "the man train",
+      "a man playing",
+      "a man make fun"
+    ],
+    "woman": [
+      "a woman",
+      "a woman plays"
+    ],
+    "girl": [
+      "a young girl teasing",
+      "a girl"
+    ],
+    "person": [
+      "a person",
+      "the person",
+      "a person was pushing",
+      "the person is playing"
+    ],
+    "boy": [
+      "a boy play",
+      "the boy"
+    ],
+    "men": [
+      "men"
+    ],
+    "table": [
+      "a table"
+    ],
+    "child": [
+      "a child"
+    ],
+    "dog": [
+      "a dog jumping",
+      "a funny dog",
+      "the dog"
+    ],
+    "kid": [
+      "a kid"
+    ],
+    "lump": [
+      "lump"
+    ]
+  }
+}

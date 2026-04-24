@@ -1,0 +1,73 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman picking",
+      "a woman is picking",
+      "a woman is picking some",
+      "a woman is plucking",
+      "a woman is speaking something as she plucks a ripe",
+      "a woman picks some",
+      "the woman is picking",
+      "a woman is picking ripe",
+      "a woman is picking a ripe red",
+      "a woman is picking a vegetable or a fruit",
+      "a woman picks",
+      "a woman plucking"
+    ],
+    "person": [
+      "a person is removing a red"
+    ],
+    "tomato": [
+      "a red tomato",
+      "picking a tomato",
+      "plucking a tomato",
+      "ripe red tomato",
+      "is plucking tomato",
+      "picks a tomato",
+      "a women is picking a tomato"
+    ],
+    "vegetables": [
+      "picking some vegetables",
+      "lady took fresh vegetables"
+    ],
+    "garden": [
+      "from a garden",
+      "from the garden",
+      "from her garden",
+      "in her garden"
+    ],
+    "fruits": [
+      "a women picking fruits",
+      "is plucking fruits"
+    ],
+    "plant": [
+      "from a plant"
+    ],
+    "lady": [
+      "the lady is picking",
+      "a lady",
+      "lady took fresh",
+      "the lady picked",
+      "the lady picked tomoatoes off their"
+    ],
+    "kitchen": [
+      "alice s kitchen"
+    ],
+    "meal": [
+      "for a meal"
+    ],
+    "berries": [
+      "picking some berries"
+    ],
+    "vine": [
+      "from a vine",
+      "from the vine"
+    ],
+    "dress": [
+      "a red dress"
+    ],
+    "stem": [
+      "off their stem"
+    ]
+  }
+}

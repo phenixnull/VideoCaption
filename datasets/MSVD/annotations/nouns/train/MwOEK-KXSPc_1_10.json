@@ -1,0 +1,53 @@
+{
+  "video_objs": {
+    "monkey": [
+      "a monkey is brushing",
+      "the monkey is brushing",
+      "a monkey is combing",
+      "a monkey brushes",
+      "the monkey is doing the something",
+      "a monkey is playing",
+      "a monkey applying"
+    ],
+    "hair": [
+      "the hair"
+    ],
+    "dog": [
+      "a large white dog",
+      "a dog",
+      "a dog s",
+      "the dog",
+      "the dog s"
+    ],
+    "chimp": [
+      "a chimp is brushing"
+    ],
+    "chimpanzee": [
+      "a chimpanzee is grooming",
+      "a chimpanzee is brushing",
+      "the chimpanzee brushed"
+    ],
+    "brush": [
+      "a brush"
+    ],
+    "fur": [
+      "the fur"
+    ],
+    "bulldog": [
+      "a bulldog"
+    ],
+    "hairbrush": [
+      "a hairbrush"
+    ],
+    "dogs": [
+      "a dogs"
+    ],
+    "comb": [
+      "a comb",
+      "the comb"
+    ],
+    "animals": [
+      "animals are playing"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "video_objs": {
+    "tongs": [
+      "tongs"
+    ],
+    "man": [
+      "a man"
+    ],
+    "foods": [
+      "foods"
+    ],
+    "pan": [
+      "pan",
+      "baking pan"
+    ],
+    "chicken": [
+      "chicken"
+    ],
+    "meat": [
+      "meat"
+    ],
+    "tray": [
+      "tray"
+    ],
+    "legs": [
+      "legs"
+    ],
+    "oven": [
+      "oven"
+    ],
+    "person": [
+      "person"
+    ],
+    "barbecue": [
+      "barbecue"
+    ],
+    "food": [
+      "food"
+    ],
+    "kichen": [
+      "kichen"
+    ]
+  }
+}

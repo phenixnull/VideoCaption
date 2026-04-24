@@ -1,0 +1,45 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is playing",
+      "a man standing is playing",
+      "the man played",
+      "the man is playing",
+      "the man played his",
+      "a man is ringing",
+      "a man"
+    ],
+    "trumpet": [
+      "playing the trumpet",
+      "playing a trumpet",
+      "plays a trumpet",
+      "played the trumpet"
+    ],
+    "boy": [
+      "a boy is playing",
+      "a boy plays"
+    ],
+    "saxophone": [
+      "is playing saxophone"
+    ],
+    "guy": [
+      "a young guy plays",
+      "a guy is playing",
+      "a guy play"
+    ],
+    "instrument": [
+      "playing an instrument"
+    ],
+    "jacket": [
+      "a blue jacket"
+    ],
+    "person": [
+      "a person is playing",
+      "the person is playing"
+    ],
+    "music": [
+      "is playing music",
+      "playing the music"
+    ]
+  }
+}

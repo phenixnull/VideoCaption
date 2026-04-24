@@ -1,0 +1,42 @@
+{
+  "video_objs": {
+    "man": [
+      "a man appears",
+      "a man is straining",
+      "a man is pouring",
+      "a man is draining",
+      "a man is preparing",
+      "the man is pouring",
+      "the man poured"
+    ],
+    "water": [
+      "water off",
+      "water",
+      "water out"
+    ],
+    "pasta": [
+      "pasta",
+      "cooked pasta"
+    ],
+    "sink": [
+      "sink",
+      "kitchen sink"
+    ],
+    "liquid": [
+      "liquid out"
+    ],
+    "food": [
+      "some food",
+      "the food"
+    ],
+    "container": [
+      "container"
+    ],
+    "marinade": [
+      "the marinade"
+    ],
+    "person": [
+      "the person"
+    ]
+  }
+}

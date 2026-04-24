@@ -1,0 +1,54 @@
+{
+  "video_objs": {
+    "can": [
+      "a can"
+    ],
+    "saucepan": [
+      "a saucepan"
+    ],
+    "person": [
+      "a person"
+    ],
+    "pot": [
+      "a pot",
+      "the pot"
+    ],
+    "man": [
+      "a man"
+    ],
+    "souse": [
+      "a souse"
+    ],
+    "pan": [
+      "the pan",
+      "pan"
+    ],
+    "sauce": [
+      "sauce"
+    ],
+    "sausages": [
+      "the sausages"
+    ],
+    "chef": [
+      "a chef"
+    ],
+    "women": [
+      "a women"
+    ],
+    "dish": [
+      "dish"
+    ],
+    "kichen": [
+      "his kichen"
+    ],
+    "stove": [
+      "the stove"
+    ],
+    "vessel": [
+      "the vessel"
+    ],
+    "soup": [
+      "the soup"
+    ]
+  }
+}

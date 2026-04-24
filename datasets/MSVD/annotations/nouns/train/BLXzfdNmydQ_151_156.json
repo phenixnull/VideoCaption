@@ -1,0 +1,44 @@
+{
+  "video_objs": {
+    "girl": [
+      "a girl riding",
+      "a girl is",
+      "the girl is riding",
+      "a young girl rides",
+      "girl is riding",
+      "a girl playing",
+      "a girl rides a trotting"
+    ],
+    "horse": [
+      "riding a horse",
+      "on a horse",
+      "girl is riding a horse"
+    ],
+    "woman": [
+      "a woman riding",
+      "in video a woman is riding",
+      "a woman is riding",
+      "the woman is riding",
+      "a woman rides",
+      "a woman is raiding",
+      "a woman galloping"
+    ],
+    "person": [
+      "a person is riding"
+    ],
+    "women": [
+      "a women is riding",
+      "a women riding"
+    ],
+    "jockey": [
+      "a jockey enjoying the ride"
+    ],
+    "someone": [
+      "someone is riding",
+      "someone rides"
+    ],
+    "lady": [
+      "a lady"
+    ]
+  }
+}

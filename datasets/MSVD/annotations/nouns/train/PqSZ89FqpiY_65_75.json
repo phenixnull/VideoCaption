@@ -1,0 +1,68 @@
+{
+  "video_objs": {
+    "person": [
+      "a person preparing",
+      "a person is moving",
+      "a person is placing boiling",
+      "a person puts hot",
+      "a person is scooping"
+    ],
+    "broccoli": [
+      "broccoli",
+      "boiling broccoli",
+      "hot broccoli",
+      "broccoli is being cooked",
+      "broccoli is being cooled"
+    ],
+    "man": [
+      "a man is putting",
+      "a man is cooking",
+      "a man is cooking a unique",
+      "man stirring",
+      "man soaks"
+    ],
+    "bowl": [
+      "a bowl",
+      "another bowl"
+    ],
+    "water": [
+      "pot containing non boiling water"
+    ],
+    "pot": [
+      "one pot",
+      "another pot",
+      "a pot",
+      "a pot containing non boiling"
+    ],
+    "woman": [
+      "a woman is cooking",
+      "a woman places"
+    ],
+    "pan": [
+      "a pan",
+      "a hot pan"
+    ],
+    "strainer": [
+      "using a strainer",
+      "someone is using a strainer"
+    ],
+    "vegetables": [
+      "vegetables"
+    ],
+    "cauliflower": [
+      "the cauliflower",
+      "cauliflower",
+      "the sliced cauliflower"
+    ],
+    "vegetable": [
+      "a vegetable",
+      "vegetable"
+    ],
+    "lady": [
+      "a lady"
+    ],
+    "salad": [
+      "a salad"
+    ]
+  }
+}

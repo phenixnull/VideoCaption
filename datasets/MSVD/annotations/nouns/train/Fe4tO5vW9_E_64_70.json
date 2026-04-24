@@ -1,0 +1,88 @@
+{
+  "video_objs": {
+    "ingredients": [
+      "ingredients are being mixed"
+    ],
+    "bowl": [
+      "in a bowl"
+    ],
+    "chef": [
+      "a chef melts"
+    ],
+    "butter": [
+      "butter",
+      "some butter",
+      "heats butter",
+      "melting butter",
+      "butter is being melted",
+      "butter is melted",
+      "butter is melted and swirled around",
+      "melts butter",
+      "mixing butter",
+      "putting the butter",
+      "melted butter",
+      "belting butter"
+    ],
+    "pan": [
+      "in a pan",
+      "in pan"
+    ],
+    "man": [
+      "a man is cooking some",
+      "a man is melting",
+      "the man is showing how",
+      "a man is mixing",
+      "a man is preparing",
+      "a man is putting",
+      "a man melted",
+      "man preparing",
+      "man belting"
+    ],
+    "dish": [
+      "some dish",
+      "making dish",
+      "preparing a dish"
+    ],
+    "garlic": [
+      "adds some crushed garlic",
+      "putting garlic",
+      "garlic paste"
+    ],
+    "person": [
+      "a person is heating",
+      "a person is melting",
+      "a person is mixing",
+      "a person melts",
+      "a person is cooking",
+      "the person cooking"
+    ],
+    "pot": [
+      "in a pot"
+    ],
+    "saucepan": [
+      "in a saucepan"
+    ],
+    "female": [
+      "a female is making"
+    ],
+    "table": [
+      "on the table"
+    ],
+    "lady": [
+      "a lady is mixing"
+    ],
+    "potatoes": [
+      "mixing potatoes"
+    ],
+    "vessel": [
+      "in the vessel",
+      "a hot vessel"
+    ],
+    "skillet": [
+      "in a skillet"
+    ],
+    "women": [
+      "a women is preparing"
+    ]
+  }
+}

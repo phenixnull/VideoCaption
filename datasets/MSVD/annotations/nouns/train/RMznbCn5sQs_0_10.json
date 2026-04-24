@@ -1,0 +1,49 @@
+{
+  "video_objs": {
+    "zebra": [
+      "zebra are running"
+    ],
+    "zebras": [
+      "zebras are running",
+      "several zebras run",
+      "several zebras are running",
+      "the zebras ran",
+      "the zebras are running",
+      "all zebras are running"
+    ],
+    "area": [
+      "an enclosed area"
+    ],
+    "pen": [
+      "a pen",
+      "their pen",
+      "a fenced pen"
+    ],
+    "herd": [
+      "a small herd",
+      "a herd"
+    ],
+    "zoo": [
+      "the zoo",
+      "a zoo"
+    ],
+    "enclosure": [
+      "an enclosure"
+    ],
+    "fence": [
+      "the fence"
+    ],
+    "man": [
+      "a man"
+    ],
+    "gate": [
+      "their gate"
+    ],
+    "animals": [
+      "animals are running"
+    ],
+    "ground": [
+      "a ground"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "video_objs": {
+    "man": [
+      "a man appears",
+      "a man is plowing",
+      "a man leads",
+      "a man is tilling",
+      "a man cultivated",
+      "a man is walking",
+      "a man walks",
+      "a man is using",
+      "a man ploughing",
+      "and a man",
+      "the man is using"
+    ],
+    "plow": [
+      "a plow being pulled",
+      "an ox pulled plow",
+      "pulled the plow",
+      "pull a plow"
+    ],
+    "oxen": [
+      "two oxen are plowing",
+      "two oxen walk",
+      "two oxen and"
+    ],
+    "mud": [
+      "through the mud",
+      "through some mud",
+      "in the mud"
+    ],
+    "bulls": [
+      "bulls are pulling"
+    ],
+    "team": [
+      "leads a team"
+    ],
+    "land": [
+      "tilling his land",
+      "till the land"
+    ],
+    "object": [
+      "bulls are pulling an object"
+    ],
+    "field": [
+      "ploughing a field"
+    ],
+    "farmer": [
+      "the farmer is tilling",
+      "the farmer plugh",
+      "a farmer is farming"
+    ],
+    "soil": [
+      "tilling the soil"
+    ],
+    "yaks": [
+      "walks two yaks"
+    ],
+    "paddy": [
+      "grow the paddy"
+    ],
+    "rice": [
+      "i like rice grow rice"
+    ],
+    "buffalows": [
+      "the buffalows are running"
+    ],
+    "caribou": [
+      "is using caribou"
+    ],
+    "person": [
+      "the person is making"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is riding",
+      "a man popped a wheelie",
+      "a man pops wheelies",
+      "the man did a wheelie",
+      "the man is doing",
+      "a man is doing a wheelie"
+    ],
+    "motorcycle": [
+      "riding a motorcycle",
+      "on his motorcycle",
+      "on a motorcycle",
+      "doing a motorcycle"
+    ],
+    "wheel": [
+      "the one wheel",
+      "on one wheel",
+      "the back wheel"
+    ],
+    "person": [
+      "a person does wheelies",
+      "a person is doing a wheeling",
+      "a person is doing some",
+      "a person is doing wheelies",
+      "a person is performing tricks",
+      "a person is doing",
+      "a person is doing a wheelie",
+      "a person continually pops a wheelie",
+      "a person is riding",
+      "a person stunting"
+    ],
+    "bike": [
+      "doing some bike",
+      "riding the bike",
+      "someone riding bike",
+      "on the bike"
+    ],
+    "individual": [
+      "an individual does a wheely"
+    ],
+    "motorscooter": [
+      "someone is riding a motorscooter"
+    ],
+    "moped": [
+      "on a moped",
+      "rides a moped"
+    ],
+    "boy": [
+      "the boy is doing feats"
+    ],
+    "bicycle": [
+      "on a bicycle"
+    ],
+    "scooter": [
+      "on a scooter"
+    ],
+    "puch": [
+      "on a puch"
+    ],
+    "stuntman": [
+      "a stuntman is doing stunt"
+    ],
+    "stunt": [
+      "someone doing a stunt"
+    ]
+  }
+}

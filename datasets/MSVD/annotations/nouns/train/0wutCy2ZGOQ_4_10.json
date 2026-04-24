@@ -1,0 +1,35 @@
+{
+  "video_objs": {
+    "boys": [
+      "several boys are playing",
+      "boys are playing",
+      "some boys are playing",
+      "the boys are playing",
+      "the boys played"
+    ],
+    "football": [
+      "playing football"
+    ],
+    "people": [
+      "people are playing"
+    ],
+    "yard": [
+      "in a yard"
+    ],
+    "kids": [
+      "kids are playing",
+      "some kids play",
+      "several kids are playing",
+      "the kids are playing"
+    ],
+    "group": [
+      "a group"
+    ],
+    "game": [
+      "played a game"
+    ],
+    "peoples": [
+      "all peoples are talking"
+    ]
+  }
+}

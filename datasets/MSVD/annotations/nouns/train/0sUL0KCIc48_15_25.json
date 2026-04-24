@@ -1,0 +1,24 @@
+{
+  "video_objs": {
+    "dog": [
+      "a dog is moving",
+      "a dog is jumping",
+      "a dog is leaping",
+      "a small dog is running",
+      "a dog is playing",
+      "a dog is running",
+      "a dog is bouncing around",
+      "the dog jumped"
+    ],
+    "snow": [
+      "very deep snow",
+      "snow"
+    ],
+    "ice": [
+      "in the ice"
+    ],
+    "animal": [
+      "an animal"
+    ]
+  }
+}

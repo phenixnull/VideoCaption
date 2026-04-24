@@ -1,0 +1,44 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is dancing",
+      "a man is doing a folklore dance",
+      "a man and"
+    ],
+    "group": [
+      "a group"
+    ],
+    "costumes": [
+      "costumes",
+      "indian costumes",
+      "their costumes"
+    ],
+    "people": [
+      "people are dancing"
+    ],
+    "hill": [
+      "a hill"
+    ],
+    "field": [
+      "a field"
+    ],
+    "woman": [
+      "a woman"
+    ],
+    "actor": [
+      "an actor"
+    ],
+    "actress": [
+      "actress"
+    ],
+    "person": [
+      "person"
+    ],
+    "boy": [
+      "the boy"
+    ],
+    "dancer": [
+      "the dancer"
+    ]
+  }
+}

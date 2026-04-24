@@ -1,0 +1,39 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is playing",
+      "a man is sitting",
+      "a man is plying",
+      "a man wearing",
+      "a man is playing a magical",
+      "a man is playing gittar"
+    ],
+    "guitar": [
+      "playing a guitar",
+      "plying a guitar",
+      "is playing guitar",
+      "holding a guitar"
+    ],
+    "room": [
+      "in a room"
+    ],
+    "guy": [
+      "a guy plays",
+      "a guy",
+      "a guy is playing"
+    ],
+    "instrument": [
+      "an instrument is",
+      "a magical instrument",
+      "playing some instrument",
+      "using magical instrument"
+    ],
+    "table": [
+      "on the table"
+    ],
+    "person": [
+      "person playing",
+      "a person playing"
+    ]
+  }
+}

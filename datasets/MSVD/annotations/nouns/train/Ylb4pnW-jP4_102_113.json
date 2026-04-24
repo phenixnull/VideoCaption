@@ -1,0 +1,43 @@
+{
+  "video_objs": {
+    "man": [
+      "a young man running down",
+      "a barefoot man is running down",
+      "a man is hurriedly running down",
+      "a man is running down",
+      "a man is running down several",
+      "a man is walking downstairs"
+    ],
+    "stairs": [
+      "running down the stairs",
+      "running down stairs",
+      "running down some stairs"
+    ],
+    "staircase": [
+      "down a staircase"
+    ],
+    "boy": [
+      "the boy ran down",
+      "a boy is coming down"
+    ],
+    "guy": [
+      "a guy is admit"
+    ],
+    "steps": [
+      "taking down steps",
+      "from the steps"
+    ],
+    "bed": [
+      "on the bed"
+    ],
+    "person": [
+      "a person is running down"
+    ],
+    "couple": [
+      "couple are lying"
+    ],
+    "patient": [
+      "a patient is running"
+    ]
+  }
+}

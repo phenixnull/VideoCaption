@@ -1,0 +1,59 @@
+{
+  "video_objs": {
+    "rocky": [
+      "rocky and",
+      "rocky is running",
+      "from the rocky",
+      "rocky is",
+      "rocky and his"
+    ],
+    "apollo": [
+      "rocky and apollo jogging",
+      "rocky and apollo creed are running",
+      "rocky and apollo are running"
+    ],
+    "men": [
+      "men are running",
+      "the men are jogging"
+    ],
+    "beach": [
+      "rocky and apollo creed are running down the beach",
+      "on the beach",
+      "by the beach",
+      "on a beach",
+      "in a beach",
+      "down the beach",
+      "along the beach",
+      "across a beach",
+      "at sea beach",
+      "rocky and his trainer run along the beach"
+    ],
+    "people": [
+      "two people run together",
+      "two people were doing jogging",
+      "two people run along"
+    ],
+    "shore": [
+      "along the shore"
+    ],
+    "lake": [
+      "by a lake"
+    ],
+    "trailor": [
+      "trailor"
+    ],
+    "scene": [
+      "a scene",
+      "a jogging scene"
+    ],
+    "movie": [
+      "a hollywood movie"
+    ],
+    "trainer": [
+      "rocky and his trainer run along the beach"
+    ],
+    "actors": [
+      "the actors portraying"
+    ]
+  }
+}

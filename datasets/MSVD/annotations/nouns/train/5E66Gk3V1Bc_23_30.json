@@ -1,0 +1,45 @@
+{
+  "video_objs": {
+    "monkey": [
+      "a monkey is swinging",
+      "a monkey is jumping",
+      "a monkey swings across"
+    ],
+    "limb": [
+      "limb"
+    ],
+    "lemur": [
+      "a lemur jumps"
+    ],
+    "tree": [
+      "to a tree",
+      "on a tree",
+      "from a tree",
+      "in a tree"
+    ],
+    "hand": [
+      "hand"
+    ],
+    "branch": [
+      "from one branch"
+    ],
+    "gibbon": [
+      "a gibbon is swinging"
+    ],
+    "chimpanzee": [
+      "a chimpanzee swings"
+    ],
+    "tiger": [
+      "a tiger watches",
+      "tees the tiger",
+      "from the tiger"
+    ],
+    "animals": [
+      "the animals are playing",
+      "animals are fighting"
+    ],
+    "zoo": [
+      "in the zoo"
+    ]
+  }
+}

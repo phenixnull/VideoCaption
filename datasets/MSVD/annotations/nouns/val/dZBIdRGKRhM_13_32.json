@@ -1,0 +1,80 @@
+{
+  "video_objs": {
+    "guys": [
+      "two guys",
+      "two guys are watching"
+    ],
+    "bar": [
+      "a bar",
+      "the bar",
+      "through a bar",
+      "in a bar",
+      "around a bar",
+      "in the bar",
+      "bar scene"
+    ],
+    "movie": [
+      "the movie"
+    ],
+    "men": [
+      "two men",
+      "the two men",
+      "two black men",
+      "men",
+      "men are walking",
+      "the men",
+      "men are seeing"
+    ],
+    "isle": [
+      "the isle"
+    ],
+    "club": [
+      "a club",
+      "the club",
+      "in a club",
+      "through a club",
+      "in club"
+    ],
+    "discotheque": [
+      "a discotheque",
+      "through a discotheque"
+    ],
+    "nightclub": [
+      "a nightclub",
+      "through a nightclub",
+      "in a nightclub"
+    ],
+    "persons": [
+      "two persons"
+    ],
+    "pub": [
+      "the pub",
+      "watching pub",
+      "in the pub"
+    ],
+    "man": [
+      "one man",
+      "a man"
+    ],
+    "friend": [
+      "his friend"
+    ],
+    "party": [
+      "the party",
+      "enjoying the party"
+    ],
+    "disco": [
+      "disco"
+    ],
+    "people": [
+      "some people",
+      "people"
+    ],
+    "patrons": [
+      "other patrons"
+    ],
+    "discotech": [
+      "a discotech"
+    ]
+  }
+}

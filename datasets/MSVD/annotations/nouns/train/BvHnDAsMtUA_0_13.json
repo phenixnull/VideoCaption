@@ -1,0 +1,54 @@
+{
+  "video_objs": {
+    "cat": [
+      "a cat is playing",
+      "a black cat is trying",
+      "a cat attacks",
+      "a cat is jumping",
+      "a cat is jumping after",
+      "a cat is attacking",
+      "a cat tries",
+      "a cat is jumping up",
+      "a cat jumps",
+      "a cat plays",
+      "a cat is leaping",
+      "the cat tried",
+      "the cat is playing",
+      "a cat trying",
+      "a cat playing",
+      "the cat jumped",
+      "a cat is trying"
+    ],
+    "helicoptertoy": [
+      "a flying helicoptertoy"
+    ],
+    "toy": [
+      "a toy",
+      "a dangling toy",
+      "the dangling toy",
+      "a hanging toy"
+    ],
+    "bait": [
+      "a bait"
+    ],
+    "object": [
+      "a dangling object",
+      "an object"
+    ],
+    "fly": [
+      "fly"
+    ],
+    "creature": [
+      "the creature"
+    ],
+    "dummy": [
+      "the dummy"
+    ],
+    "kitten": [
+      "a kitten"
+    ],
+    "mouse": [
+      "the mouse"
+    ]
+  }
+}

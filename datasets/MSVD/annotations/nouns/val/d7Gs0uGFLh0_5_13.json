@@ -1,0 +1,36 @@
+{
+  "video_objs": {
+    "girl": [
+      "a girl",
+      "the girl",
+      "the little girl",
+      "a young girl",
+      "a small girl",
+      "one girl"
+    ],
+    "floor": [
+      "the floor"
+    ],
+    "stage": [
+      "stage",
+      "a stage",
+      "s stage"
+    ],
+    "woman": [
+      "a woman",
+      "the woman"
+    ],
+    "ground": [
+      "the ground"
+    ],
+    "arm": [
+      "her arm"
+    ],
+    "lady": [
+      "the lady"
+    ],
+    "person": [
+      "the person"
+    ]
+  }
+}

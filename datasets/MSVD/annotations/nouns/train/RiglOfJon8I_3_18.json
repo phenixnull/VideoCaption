@@ -1,0 +1,62 @@
+{
+  "video_objs": {
+    "referee": [
+      "a referee",
+      "referee"
+    ],
+    "brawl": [
+      "a brawl breaks out"
+    ],
+    "group": [
+      "a group"
+    ],
+    "men": [
+      "men are fighting",
+      "some men are fighting",
+      "some men"
+    ],
+    "man": [
+      "a man is trying"
+    ],
+    "player": [
+      "a player is attacking",
+      "the player hit",
+      "player fighting"
+    ],
+    "athlete": [
+      "an athlete is attacking"
+    ],
+    "teammates": [
+      "some teammates try"
+    ],
+    "people": [
+      "people are fighting",
+      "some people just ca nt accept defeat"
+    ],
+    "teammate": [
+      "their teammate"
+    ],
+    "fan": [
+      "a fan"
+    ],
+    "guys": [
+      "all guys are fighting"
+    ],
+    "players": [
+      "players fighting",
+      "players are fighting"
+    ],
+    "empire": [
+      "the empire"
+    ],
+    "refree": [
+      "a refree"
+    ],
+    "team": [
+      "a team is talking"
+    ],
+    "peoples": [
+      "the peoples are playing"
+    ]
+  }
+}

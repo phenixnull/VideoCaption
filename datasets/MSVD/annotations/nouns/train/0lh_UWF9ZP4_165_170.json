@@ -1,0 +1,73 @@
+{
+  "video_objs": {
+    "shrimp": [
+      "deep frying shrimp",
+      "cooks shrimp",
+      "is cooking shrimp",
+      "boiling shrimp",
+      "placed shrimp",
+      "putting shrimp",
+      "is boiling some shrimp"
+    ],
+    "saucepan": [
+      "large saucepan"
+    ],
+    "person": [
+      "a person cooks",
+      "a person is cooking",
+      "a person is boiling",
+      "a person is putting",
+      "a person is putting something",
+      "a person is making",
+      "the person is boiling the something"
+    ],
+    "water": [
+      "boiling water",
+      "hot water"
+    ],
+    "woman": [
+      "a woman is adding",
+      "a woman is boiling",
+      "the woman is boiling",
+      "a woman is placing skewered",
+      "a woman is putting some"
+    ],
+    "prawns": [
+      "three prawns"
+    ],
+    "pot": [
+      "a pot",
+      "into a pot"
+    ],
+    "lady": [
+      "the lady added",
+      "the lady put the skewered shimp",
+      "a lady making",
+      "a lady talking about how",
+      "a lady put the skewered shimp"
+    ],
+    "man": [
+      "a man is preparing",
+      "a man cooking his"
+    ],
+    "food": [
+      "someone is cooking food"
+    ],
+    "dish": [
+      "making a dish",
+      "any one is making dish"
+    ],
+    "kichen": [
+      "cooking his kichen"
+    ],
+    "shrimps": [
+      "adding shrimps",
+      "boiling shrimps",
+      "placing skewered shrimps",
+      "putting some shrimps"
+    ],
+    "francine": [
+      "boiling francine"
+    ]
+  }
+}

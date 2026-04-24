@@ -1,0 +1,33 @@
+{
+  "video_objs": {
+    "chicken": [
+      "cooked chicken",
+      "chicken"
+    ],
+    "person": [
+      "a person",
+      "the person"
+    ],
+    "meat": [
+      "meat"
+    ],
+    "chef": [
+      "a chef"
+    ],
+    "man": [
+      "a man"
+    ],
+    "knife": [
+      "with a knife"
+    ],
+    "piece": [
+      "a piece"
+    ],
+    "pieces": [
+      "pieces"
+    ],
+    "kichen": [
+      "his kichen"
+    ]
+  }
+}

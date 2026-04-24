@@ -1,0 +1,54 @@
+{
+  "video_objs": {
+    "man": [
+      "a man spreads",
+      "a man is spreading",
+      "a man is pasting",
+      "a man is buttering",
+      "a man is putting",
+      "the man spread",
+      "the man is spreading"
+    ],
+    "butter": [
+      "spreads butter",
+      "is spreading butter",
+      "is pasting butter",
+      "putting butter",
+      "spread butter"
+    ],
+    "person": [
+      "a person spreads",
+      "a person is playing",
+      "the person is cooking",
+      "a person is spreading"
+    ],
+    "tortilla": [
+      "a tortilla",
+      "on a tortilla",
+      "on tortilla",
+      "the tortilla"
+    ],
+    "margarine": [
+      "spreading margarine",
+      "is spreading margarine"
+    ],
+    "paratha": [
+      "a paratha"
+    ],
+    "chappati": [
+      "the chappati"
+    ],
+    "dough": [
+      "the dough"
+    ],
+    "chef": [
+      "a chef"
+    ],
+    "roti": [
+      "a roti"
+    ],
+    "kichen": [
+      "his kichen"
+    ]
+  }
+}

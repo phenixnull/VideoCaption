@@ -1,0 +1,44 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman pours",
+      "a woman is pouring",
+      "an elderly woman is pouring cooking",
+      "an older woman is pouring",
+      "a woman is adding",
+      "the woman poured"
+    ],
+    "oil": [
+      "oil",
+      "cooking oil",
+      "vegetable oil"
+    ],
+    "skillet": [
+      "a skillet"
+    ],
+    "pan": [
+      "a pan",
+      "a frying pan"
+    ],
+    "stove": [
+      "the stove"
+    ],
+    "lady": [
+      "the lady poured",
+      "an old lady is putting"
+    ],
+    "person": [
+      "the person is heating",
+      "the person is cooking"
+    ],
+    "eggs": [
+      "some eggs"
+    ],
+    "peppers": [
+      "peppers"
+    ],
+    "kichen": [
+      "his kichen"
+    ]
+  }
+}

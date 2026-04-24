@@ -1,0 +1,47 @@
+{
+  "video_objs": {
+    "can": [
+      "a can",
+      "a whole can"
+    ],
+    "kettle": [
+      "a kettle"
+    ],
+    "vegetables": [
+      "vegetables"
+    ],
+    "meat": [
+      "meat"
+    ],
+    "man": [
+      "a man",
+      "the man"
+    ],
+    "pot": [
+      "a pot",
+      "the pot"
+    ],
+    "person": [
+      "a person",
+      "the person"
+    ],
+    "pan": [
+      "a pan"
+    ],
+    "sauce": [
+      "sauce"
+    ],
+    "dish": [
+      "a dish"
+    ],
+    "tin": [
+      "a tin full"
+    ],
+    "chef": [
+      "a chef"
+    ],
+    "kichen": [
+      "his kichen"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "video_objs": {
+    "puppy": [
+      "a little puppy is turning",
+      "a puppy is repeatedly rolling",
+      "a puppy rolls around",
+      "a puppy is rocking back and forth",
+      "a puppy rolling back and forth",
+      "the puppy rolled back and forth",
+      "the puppy is rolling back and forth",
+      "a puppy is rolling"
+    ],
+    "dog": [
+      "a dog is rolling",
+      "a small white dog is laying",
+      "a little dog is rolling",
+      "a dog",
+      "a dog is mving here and there",
+      "a funny dog",
+      "a dog is rolling around"
+    ],
+    "floor": [
+      "on the floor",
+      "over the floor",
+      "in a floor"
+    ],
+    "bulldog": [
+      "a bulldog is playing",
+      "a bulldog is lying",
+      "a funny bulldog rolling"
+    ],
+    "room": [
+      "in the room",
+      "on the room"
+    ],
+    "feets": [
+      "funny feets"
+    ],
+    "body": [
+      "moving his body"
+    ],
+    "song": [
+      "for a song"
+    ]
+  }
+}

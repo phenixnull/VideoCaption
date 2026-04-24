@@ -1,0 +1,49 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman wraps",
+      "a woman is wrapping",
+      "a woman is wrapping some",
+      "the woman wrapped"
+    ],
+    "tofu": [
+      "is wrapping tofu"
+    ],
+    "cloth": [
+      "a white cloth"
+    ],
+    "person": [
+      "a person is wrapping",
+      "a person is covering",
+      "a person puts",
+      "a person is preparing",
+      "a person wraps",
+      "a person is wrapping some"
+    ],
+    "paper": [
+      "by a paper"
+    ],
+    "butter": [
+      "covering a butter",
+      "covering the butter"
+    ],
+    "food": [
+      "wrapping some food",
+      "preparing the food"
+    ],
+    "lady": [
+      "the lady wrapped up the rest",
+      "the lady wrapped the cheese up"
+    ],
+    "man": [
+      "a man is covering",
+      "a man cooking his"
+    ],
+    "item": [
+      "is preparing item"
+    ],
+    "kichen": [
+      "cooking his kichen"
+    ]
+  }
+}

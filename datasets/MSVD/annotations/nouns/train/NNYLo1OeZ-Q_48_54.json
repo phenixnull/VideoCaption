@@ -1,0 +1,56 @@
+{
+  "video_objs": {
+    "zucchini": [
+      "a zucchini"
+    ],
+    "brush": [
+      "a brush"
+    ],
+    "water": [
+      "the running water"
+    ],
+    "faucet": [
+      "a faucet"
+    ],
+    "sink": [
+      "a sink"
+    ],
+    "woman": [
+      "a woman",
+      "the woman"
+    ],
+    "cucumber": [
+      "a cucumber",
+      "the cucumber"
+    ],
+    "person": [
+      "a person"
+    ],
+    "vegetables": [
+      "the vegetables"
+    ],
+    "vegetable": [
+      "a vegetable"
+    ],
+    "fruit": [
+      "fruit",
+      "some fruit"
+    ],
+    "lady": [
+      "the lady",
+      "a lady"
+    ],
+    "items": [
+      "the items"
+    ],
+    "man": [
+      "a man"
+    ],
+    "squash": [
+      "the squash"
+    ],
+    "kichen": [
+      "his kichen"
+    ]
+  }
+}

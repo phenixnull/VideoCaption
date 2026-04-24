@@ -1,0 +1,52 @@
+{
+  "video_objs": {
+    "door": [
+      "shuts a door",
+      "closing a door",
+      "closing the door",
+      "shuts the door",
+      "closes a door",
+      "closed the door",
+      "closes the door",
+      "up the door",
+      "shut the door"
+    ],
+    "plane": [
+      "on the plane",
+      "of the plane",
+      "in the plane"
+    ],
+    "aircraft": [
+      "of an aircraft"
+    ],
+    "man": [
+      "a man closes",
+      "a man is closing",
+      "a man shuts"
+    ],
+    "stewardess": [
+      "a stewardess is shutting"
+    ],
+    "steward": [
+      "the steward closed",
+      "the steward rolled out"
+    ],
+    "cart": [
+      "out a cart"
+    ],
+    "group": [
+      "a group"
+    ],
+    "flight": [
+      "in the flight",
+      "is cleaning flight"
+    ],
+    "person": [
+      "a person",
+      "the person is taking attendance"
+    ],
+    "pilot": [
+      "a pilot closeing the plain"
+    ]
+  }
+}

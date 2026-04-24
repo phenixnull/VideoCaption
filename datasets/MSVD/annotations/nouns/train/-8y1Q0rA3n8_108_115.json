@@ -1,0 +1,34 @@
+{
+  "video_objs": {
+    "man": [
+      "a man slices through",
+      "a man slices",
+      "a man uses",
+      "a man is broken",
+      "a man sliced",
+      "a man is cutting",
+      "a man breaks"
+    ],
+    "sword": [
+      "a sword"
+    ],
+    "bottle": [
+      "a bottle"
+    ],
+    "person": [
+      "a person slices",
+      "a person is break",
+      "a person cutting",
+      "the person is doing"
+    ],
+    "blades": [
+      "cold steel blades"
+    ],
+    "glass": [
+      "a glass"
+    ],
+    "swords": [
+      "cold steel swords"
+    ]
+  }
+}

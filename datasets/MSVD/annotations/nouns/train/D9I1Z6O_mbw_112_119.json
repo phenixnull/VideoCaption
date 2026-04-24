@@ -1,0 +1,60 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman is sitting sideways"
+    ],
+    "man": [
+      "a man peddling",
+      "a man and",
+      "the man gave a ride",
+      "the man and",
+      "a man is riding"
+    ],
+    "bicycle": [
+      "peddling a bicycle",
+      "ride a bicycle",
+      "on a bicycle",
+      "riding a bicycle",
+      "of his bicycle",
+      "riding the bicycle"
+    ],
+    "bike": [
+      "ride a bike",
+      "on a bike",
+      "riding a bike",
+      "sharing a bike",
+      "on his bike",
+      "of his bike"
+    ],
+    "couple": [
+      "a couple are sharing"
+    ],
+    "people": [
+      "two people are riding"
+    ],
+    "street": [
+      "down a street"
+    ],
+    "boy": [
+      "the boy and"
+    ],
+    "lovers": [
+      "the lovers are riding"
+    ],
+    "hero": [
+      "a hero is riding"
+    ],
+    "persons": [
+      "two persons are going"
+    ],
+    "cuple": [
+      "a cuple"
+    ],
+    "lady": [
+      "gave the lady"
+    ],
+    "men": [
+      "a men and"
+    ]
+  }
+}

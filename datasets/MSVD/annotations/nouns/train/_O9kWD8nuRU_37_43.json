@@ -1,0 +1,67 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman is cutting some brown",
+      "a woman is slicing something",
+      "a woman is slicing",
+      "a woman is cutting",
+      "the woman is slicing"
+    ],
+    "sheets": [
+      "some brown sheets",
+      "sheets",
+      "banana sheets"
+    ],
+    "person": [
+      "a person is slicing",
+      "a person is cutting",
+      "a person is slicing something green",
+      "a person cuts a piece",
+      "a person cuts up some",
+      "a person is slicing something",
+      "a person is cutting green",
+      "a person is cooking"
+    ],
+    "leaf": [
+      "a brownish leaf",
+      "a leaf"
+    ],
+    "seaweed": [
+      "is cutting seaweed",
+      "the lady cut up the seaweed",
+      "is slicing seaweed",
+      "someone slices seaweed"
+    ],
+    "pieces": [
+      "pieces"
+    ],
+    "leaves": [
+      "is slicing leaves",
+      "green leaves"
+    ],
+    "tofu": [
+      "some tofu"
+    ],
+    "man": [
+      "a man is slicing",
+      "one man is making",
+      "a man cooking his"
+    ],
+    "vegetable": [
+      "slicing a vegetable",
+      "cutting a vegetable"
+    ],
+    "item": [
+      "the item"
+    ],
+    "ingredients": [
+      "ingredients"
+    ],
+    "recipe": [
+      "a recipe"
+    ],
+    "kichen": [
+      "his kichen"
+    ]
+  }
+}

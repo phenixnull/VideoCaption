@@ -1,0 +1,44 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is removing",
+      "a man is scaling",
+      "a man removing",
+      "a man is scraping"
+    ],
+    "skin": [
+      "a skin"
+    ],
+    "fish": [
+      "a fish"
+    ],
+    "knife": [
+      "a knife"
+    ],
+    "scales": [
+      "scales"
+    ],
+    "person": [
+      "a person is descaling",
+      "a person is slicing",
+      "a person scrapes",
+      "the person is removing",
+      "a person remoing",
+      "a person showing",
+      "a person cuts",
+      "a person cutting"
+    ],
+    "tail": [
+      "its tail"
+    ],
+    "guy": [
+      "a guy removing"
+    ],
+    "demonstration": [
+      "a demonstration"
+    ],
+    "woman": [
+      "a woman is descaling"
+    ]
+  }
+}

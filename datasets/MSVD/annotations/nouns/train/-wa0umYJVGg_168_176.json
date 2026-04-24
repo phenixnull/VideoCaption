@@ -1,0 +1,58 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman is adding green",
+      "a woman is boiling a leafy green",
+      "a woman is boiling",
+      "a woman is cooking some",
+      "a woman is placing green",
+      "a woman is placing leafy",
+      "a woman is washing",
+      "a woman places"
+    ],
+    "leaves": [
+      "green leaves",
+      "leaves",
+      "the leaves"
+    ],
+    "pot": [
+      "a pot"
+    ],
+    "water": [
+      "boiling water",
+      "hot water"
+    ],
+    "vegetable": [
+      "a leafy green vegetable"
+    ],
+    "spinach": [
+      "spinach"
+    ],
+    "vegetables": [
+      "green vegetables",
+      "vegetables"
+    ],
+    "greens": [
+      "greens",
+      "leafy greens",
+      "the greens"
+    ],
+    "cabbage": [
+      "cabbage"
+    ],
+    "pan": [
+      "a pan"
+    ],
+    "lady": [
+      "the lady",
+      "a lady"
+    ],
+    "food": [
+      "food"
+    ],
+    "dog": [
+      "dog",
+      "her dog"
+    ]
+  }
+}

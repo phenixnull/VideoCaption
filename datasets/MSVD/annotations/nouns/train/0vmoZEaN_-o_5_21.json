@@ -1,0 +1,30 @@
+{
+  "video_objs": {
+    "cat": [
+      "a cat is playing",
+      "a cat plays",
+      "a cat is trying",
+      "a cat attacks",
+      "a cat is attacking",
+      "the cat rolled around",
+      "the cat is playing",
+      "a cat tries"
+    ],
+    "watermelon": [
+      "a large watermelon",
+      "a watermelon"
+    ],
+    "kitten": [
+      "a kitten is playing",
+      "kitten is playing",
+      "a cute fighting between kitten",
+      "4 month kitten"
+    ],
+    "floor": [
+      "floor"
+    ],
+    "ground": [
+      "the ground"
+    ]
+  }
+}

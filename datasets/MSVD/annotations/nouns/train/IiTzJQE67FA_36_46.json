@@ -1,0 +1,66 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is telling a story",
+      "a man is talking",
+      "a man",
+      "a man speaks",
+      "a man standing",
+      "a man talks",
+      "a man yells",
+      "a man is speaking something"
+    ],
+    "people": [
+      "people"
+    ],
+    "band": [
+      "a band is performing"
+    ],
+    "creatures": [
+      "several creatures",
+      "some creatures",
+      "several strange creatures",
+      "weird creatures",
+      "creatures"
+    ],
+    "stage": [
+      "a stage designed",
+      "a stage"
+    ],
+    "monsters": [
+      "some monsters"
+    ],
+    "actors": [
+      "actors are performing",
+      "fish actors"
+    ],
+    "men": [
+      "men are playing drama",
+      "other men"
+    ],
+    "actor": [
+      "the actor spoke"
+    ],
+    "pirate": [
+      "the pirate spoke"
+    ],
+    "boat": [
+      "a boat"
+    ],
+    "group": [
+      "a group"
+    ],
+    "person": [
+      "one person is saying something"
+    ],
+    "clip": [
+      "a short clip"
+    ],
+    "song": [
+      "english song"
+    ],
+    "picture": [
+      "picture"
+    ]
+  }
+}

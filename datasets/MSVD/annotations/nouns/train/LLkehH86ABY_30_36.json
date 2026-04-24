@@ -1,0 +1,36 @@
+{
+  "video_objs": {
+    "man": [
+      "a young man seated",
+      "a man is playing",
+      "a young man is sitting",
+      "a young man is strumming",
+      "a man is playing music"
+    ],
+    "floor": [
+      "the floor"
+    ],
+    "guitar": [
+      "playing a guitar",
+      "playing guitar",
+      "played his guitar",
+      "playing the guitar"
+    ],
+    "boy": [
+      "a boy is playing",
+      "the boy played",
+      "the boy is playing",
+      "a boy plays"
+    ],
+    "kid": [
+      "a kid is playing"
+    ],
+    "men": [
+      "the men playing"
+    ],
+    "guy": [
+      "a guy is playing",
+      "a guy playing"
+    ]
+  }
+}

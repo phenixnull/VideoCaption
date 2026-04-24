@@ -1,0 +1,52 @@
+{
+  "video_objs": {
+    "plane": [
+      "the plane has landed",
+      "a plane is landing",
+      "a plane lands",
+      "the plane landed",
+      "a plane",
+      "a plane landing",
+      "a plane taking off"
+    ],
+    "airport": [
+      "the airport"
+    ],
+    "airplane": [
+      "an airplane is landing",
+      "a animated airplane is landing",
+      "an animated airplane is landing"
+    ],
+    "animation": [
+      "an animation shows",
+      "an animation"
+    ],
+    "runway": [
+      "on a runway",
+      "on the runway"
+    ],
+    "earth": [
+      "the earth"
+    ],
+    "jet": [
+      "the jet landed"
+    ],
+    "aeroplane": [
+      "a aeroplane",
+      "aeroplane is landing",
+      "an aeroplane is landing"
+    ],
+    "flight": [
+      "a flight is departure"
+    ],
+    "land": [
+      "land"
+    ],
+    "road": [
+      "the road"
+    ],
+    "aircraft": [
+      "a landing aircraft"
+    ]
+  }
+}

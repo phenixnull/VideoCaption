@@ -1,0 +1,100 @@
+{
+  "video_objs": {
+    "man": [
+      "a man adds some",
+      "a man is mixing several",
+      "a man is preparing some",
+      "a man is putting seasoning",
+      "a man is combining",
+      "a man is preparing",
+      "a man is roasting the chicken",
+      "a man mixing some"
+    ],
+    "salt": [
+      "adds some salt",
+      "salt and pepper are mixed together",
+      "someone is mixing salt and pepper",
+      "someone mixed salt and pepper together",
+      "salt",
+      "he is making a seasoning salt"
+    ],
+    "bowl": [
+      "to a bowl",
+      "in a bowl"
+    ],
+    "spoon": [
+      "with a spoon"
+    ],
+    "ingredients": [
+      "the three ingredients",
+      "mixing several ingredients",
+      "mixing the ingredients"
+    ],
+    "dishes": [
+      "preparing some dishes"
+    ],
+    "cup": [
+      "in a cup",
+      "into a cup"
+    ],
+    "person": [
+      "a person is mixing seasoning",
+      "a person is mixing",
+      "a person puts",
+      "a person is mixing pepper",
+      "a person is preparing",
+      "a person is mixing something",
+      "a person is cooking",
+      "a person is putting",
+      "a person mixing",
+      "a person puts seasoning",
+      "the person is preparing",
+      "the person is showing how"
+    ],
+    "spices": [
+      "is mixing spices",
+      "someone is mixing spices"
+    ],
+    "seasonings": [
+      "seasonings are being mixed",
+      "someone spoons and then stirs seasonings",
+      "is mixing seasonings"
+    ],
+    "food": [
+      "is preparing food"
+    ],
+    "turkey": [
+      "a turkey being prepared",
+      "for making turkey",
+      "to cook turkey",
+      "prepare a turkey"
+    ],
+    "masalas": [
+      "mixing the masalas"
+    ],
+    "chef": [
+      "a chef shows how"
+    ],
+    "powders": [
+      "mixing all powders"
+    ],
+    "seasons": [
+      "mixing some seasons"
+    ],
+    "sugar": [
+      "putting the sugar"
+    ],
+    "receipe": [
+      "for a receipe"
+    ],
+    "items": [
+      "gathering items"
+    ],
+    "video": [
+      "this video shows how"
+    ],
+    "flour": [
+      "mixing some flour"
+    ]
+  }
+}

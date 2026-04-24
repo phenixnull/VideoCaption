@@ -1,0 +1,45 @@
+{
+  "video_objs": {
+    "boy": [
+      "a boy is playing",
+      "other boy is listing",
+      "a boy playing",
+      "the boy is play music",
+      "the boy is playing"
+    ],
+    "guitar": [
+      "playing a guitar",
+      "is playing guitar",
+      "playing the guitar",
+      "played his guitar"
+    ],
+    "man": [
+      "a man is playing",
+      "a man is singing",
+      "a man plays",
+      "an indian man plays",
+      "the man is playing",
+      "the man played his"
+    ],
+    "bench": [
+      "a bench",
+      "the bench"
+    ],
+    "men": [
+      "two men are seated",
+      "two men sit"
+    ],
+    "guys": [
+      "two young guys playing",
+      "two guys are enjoying music",
+      "guys are enjoying music",
+      "one guys plays"
+    ],
+    "boyes": [
+      "a boyes can be playing funny music"
+    ],
+    "people": [
+      "people are singing song"
+    ]
+  }
+}

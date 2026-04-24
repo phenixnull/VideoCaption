@@ -1,0 +1,66 @@
+{
+  "video_objs": {
+    "dough": [
+      "some dough",
+      "bread dough",
+      "dough",
+      "a dough",
+      "unbaked bread dough",
+      "the dough",
+      "the dough ready"
+    ],
+    "man": [
+      "a man",
+      "the man"
+    ],
+    "bread": [
+      "bread"
+    ],
+    "pan": [
+      "a pan"
+    ],
+    "spices": [
+      "spices"
+    ],
+    "person": [
+      "a person",
+      "the person"
+    ],
+    "tray": [
+      "a tray"
+    ],
+    "spice": [
+      "spice"
+    ],
+    "wad": [
+      "a wad"
+    ],
+    "herbs": [
+      "herbs"
+    ],
+    "powder": [
+      "powder"
+    ],
+    "seasonings": [
+      "seasonings"
+    ],
+    "meat": [
+      "meat"
+    ],
+    "thyme": [
+      "thyme"
+    ],
+    "food": [
+      "food"
+    ],
+    "pepper": [
+      "pepper"
+    ],
+    "kichen": [
+      "his kichen"
+    ],
+    "decoration": [
+      "one last decoration"
+    ]
+  }
+}

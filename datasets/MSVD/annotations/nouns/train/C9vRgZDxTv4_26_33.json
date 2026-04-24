@@ -1,0 +1,48 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is riding",
+      "a man is driving",
+      "a man is riding a mopad"
+    ],
+    "boy": [
+      "a boy is riding abike",
+      "a boy is driving",
+      "a boy is driving a scoty"
+    ],
+    "bike": [
+      "riding a bike",
+      "ridding the bike",
+      "the person is bike riding"
+    ],
+    "guy": [
+      "a guy rides"
+    ],
+    "vehicle": [
+      "rides a vehicle",
+      "driving a vehicle"
+    ],
+    "moped": [
+      "driving a moped",
+      "riding a moped"
+    ],
+    "scooter": [
+      "riding a scooter",
+      "on a scooter",
+      "rides a scooter"
+    ],
+    "motorcycle": [
+      "rode a motorcycle",
+      "a small motorcycle",
+      "riding a motorcycle"
+    ],
+    "girls": [
+      "two girls are chatting",
+      "two girls are standing",
+      "two asian girls chatting"
+    ],
+    "lady": [
+      "a lady is talking"
+    ]
+  }
+}

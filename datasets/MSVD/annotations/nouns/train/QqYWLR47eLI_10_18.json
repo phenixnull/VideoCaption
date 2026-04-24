@@ -1,0 +1,65 @@
+{
+  "video_objs": {
+    "animal": [
+      "an animal is sitting",
+      "a animal is eating",
+      "an animal eating",
+      "an animal is eating",
+      "the animal sat",
+      "the animal is eating"
+    ],
+    "arm": [
+      "the wooden arm"
+    ],
+    "sloth": [
+      "a sloth is eating"
+    ],
+    "food": [
+      "is eating food",
+      "ate some food",
+      "eats some food"
+    ],
+    "strawberry": [
+      "eating a strawberry",
+      "eating the strawberry"
+    ],
+    "piece": [
+      "eating a piece",
+      "eats a piece"
+    ],
+    "monkey": [
+      "a monkey is eating something"
+    ],
+    "lemur": [
+      "a lemur is eating some",
+      "a lemur eats some",
+      "a lemur is eating"
+    ],
+    "fruit": [
+      "eating some fruit",
+      "eating a fruit"
+    ],
+    "chair": [
+      "of the chair",
+      "in the chair"
+    ],
+    "mammal": [
+      "the mammal sat"
+    ],
+    "animals": [
+      "animals is sit"
+    ],
+    "bear": [
+      "a bear eating"
+    ],
+    "bushbaby": [
+      "a bushbaby eats"
+    ],
+    "dig": [
+      "a dig is taking stroberry"
+    ],
+    "cat": [
+      "the cat is eating the something"
+    ]
+  }
+}

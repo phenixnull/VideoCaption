@@ -1,0 +1,56 @@
+{
+  "video_objs": {
+    "man": [
+      "a man shoots",
+      "a man fires",
+      "a man firing",
+      "a man is firing",
+      "a man is shooting",
+      "a man shot",
+      "the man is shooting",
+      "a man demonstrating"
+    ],
+    "guns": [
+      "two different guns",
+      "is shooting guns",
+      "shot his guns",
+      "shooting their guns",
+      "with his guns"
+    ],
+    "carbine": [
+      "fires a carbine",
+      "firing a carbine"
+    ],
+    "handgun": [
+      "fires a handgun"
+    ],
+    "bullets": [
+      "bullets"
+    ],
+    "rifle": [
+      "with a rifle",
+      "shooting a rifle",
+      "and a rifle"
+    ],
+    "men": [
+      "two men are shooting",
+      "two men are shown firing"
+    ],
+    "target": [
+      "at a target"
+    ],
+    "person": [
+      "a person"
+    ],
+    "images": [
+      "in two images"
+    ],
+    "pistol": [
+      "shooting a pistol",
+      "shoots a pistol"
+    ],
+    "shooter": [
+      "a shooter explain about shooting"
+    ]
+  }
+}

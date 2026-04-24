@@ -1,0 +1,67 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is filling up",
+      "a man is packing",
+      "a man is adding",
+      "a man pours",
+      "a man is dumping",
+      "a man pours a seasoning",
+      "the man poured",
+      "the man is pouring"
+    ],
+    "bag": [
+      "up a bag",
+      "in a bag",
+      "into a bag",
+      "in the bag"
+    ],
+    "liquid": [
+      "someone pours liquid",
+      "pouring the liquid",
+      "is pouring liquid"
+    ],
+    "person": [
+      "a person pours",
+      "a person is pouring",
+      "a person is putting",
+      "a person is packing"
+    ],
+    "marinade": [
+      "a cook pours marinade",
+      "is dumping marinade",
+      "is pouring marinade",
+      "puts some marinade",
+      "poured the marinade",
+      "marinade is poured"
+    ],
+    "food": [
+      "packing a food"
+    ],
+    "oil": [
+      "is adding oil"
+    ],
+    "sauce": [
+      "is pouring sauce",
+      "poured the sauce"
+    ],
+    "chicken": [
+      "someone is marinating chicken",
+      "over the chicken",
+      "on the chicken",
+      "into the chicken"
+    ],
+    "bowl": [
+      "from a bowl"
+    ],
+    "meals": [
+      "packing a meals"
+    ],
+    "container": [
+      "pouring a container"
+    ],
+    "men": [
+      "a men fill"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "video_objs": {
+    "teams": [
+      "two teams are playing",
+      "teams playing"
+    ],
+    "basketball": [
+      "playing basketball",
+      "players are playing basketball",
+      "some men are playing basketball",
+      "people are playing basketball",
+      "men are playing basketball"
+    ],
+    "man": [
+      "a man shoots",
+      "a man dribbling",
+      "a man is shooting",
+      "the man made",
+      "a man is scoring",
+      "a man is making",
+      "a man put",
+      "a man is bouncing"
+    ],
+    "basket": [
+      "shoots a basket",
+      "shooting a basket",
+      "making a basket"
+    ],
+    "players": [
+      "players are playing",
+      "players are playing together"
+    ],
+    "game": [
+      "during a game"
+    ],
+    "defender": [
+      "a defender"
+    ],
+    "people": [
+      "people are playing"
+    ],
+    "boys": [
+      "the boys are playing"
+    ],
+    "hoop": [
+      "scores a hoop"
+    ],
+    "ball": [
+      "put the ball",
+      "scoring a ball"
+    ],
+    "peoples": [
+      "peoples are playing"
+    ]
+  }
+}

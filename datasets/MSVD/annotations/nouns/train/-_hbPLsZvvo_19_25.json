@@ -1,0 +1,66 @@
+{
+  "video_objs": {
+    "cucumber": [
+      "a cucumber is being sliced",
+      "cuts a cucumber",
+      "a cutting cucumber",
+      "slicing a cucumber",
+      "is slicing cucumber",
+      "slices a cucumber",
+      "someone cut up a cucumber"
+    ],
+    "man": [
+      "a man cuts",
+      "a man is a cutting",
+      "a man is slicing",
+      "the man is slicing"
+    ],
+    "person": [
+      "a person cuts and slices",
+      "the person is slicing",
+      "a person is slicing",
+      "a person is cutting",
+      "a person cuts up some"
+    ],
+    "section": [
+      "a section"
+    ],
+    "knife": [
+      "with a knife"
+    ],
+    "cucumbers": [
+      "someone is slicing cucumbers"
+    ],
+    "vegetables": [
+      "vegetables are being chopped"
+    ],
+    "avocado": [
+      "is slicing avocado"
+    ],
+    "zucchini": [
+      "someone is slicing a zucchini or"
+    ],
+    "woman": [
+      "a woman is slicing some"
+    ],
+    "poodle": [
+      "a poodle and"
+    ],
+    "lady": [
+      "and a lady"
+    ],
+    "food": [
+      "someone is slicing food"
+    ],
+    "vegetable": [
+      "slicing some vegetable",
+      "slicing a vegetable"
+    ],
+    "kichen": [
+      "cooking his kichen"
+    ],
+    "pieces": [
+      "is slicing pieces"
+    ]
+  }
+}

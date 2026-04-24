@@ -1,0 +1,58 @@
+{
+  "video_objs": {
+    "mushrooms": [
+      "someone cuts mushrooms"
+    ],
+    "knife": [
+      "with a knife",
+      "of a knife",
+      "with a large knife"
+    ],
+    "person": [
+      "a person is crushing",
+      "a person crushes",
+      "a person is slicing",
+      "a person is smashing and cutting",
+      "a person is smashing",
+      "the person",
+      "the person is cooking"
+    ],
+    "garlic": [
+      "crushing garlic",
+      "crushes garlic",
+      "and cutting garlic",
+      "smashing garlic",
+      "slicing garlic",
+      "smashing some garlic",
+      "crushed the garlic",
+      "pressing the garlic",
+      "crushing some garlic"
+    ],
+    "cloves": [
+      "flattening cloves"
+    ],
+    "ginger": [
+      "slicing a ginger"
+    ],
+    "man": [
+      "a man is slicing",
+      "a man is smashing",
+      "a man is smashing some",
+      "the man is smashing",
+      "a man is crushing",
+      "a man cuts up",
+      "a man is pressing",
+      "the man crushed",
+      "a man is chopping"
+    ],
+    "pasta": [
+      "cuts up pasta"
+    ],
+    "item": [
+      "cutting the item"
+    ],
+    "kichen": [
+      "cooking his kichen"
+    ]
+  }
+}

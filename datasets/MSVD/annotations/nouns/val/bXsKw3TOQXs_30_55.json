@@ -1,0 +1,34 @@
+{
+  "video_objs": {
+    "person": [
+      "a person folds",
+      "a person folds a piece",
+      "a person folds up",
+      "a person is folding a green",
+      "a person is folding",
+      "a person is folding a small"
+    ],
+    "paper": [
+      "folds a paper",
+      "folds up paper",
+      "a green paper",
+      "is folding paper",
+      "someone folds paper",
+      "a small paper"
+    ],
+    "woman": [
+      "a woman is folding",
+      "a woman making some sort"
+    ],
+    "man": [
+      "a man is folding",
+      "a man is making",
+      "a man learning how",
+      "a man shows how"
+    ],
+    "gyroscope": [
+      "making a gyroscope",
+      "making the gyroscope"
+    ]
+  }
+}

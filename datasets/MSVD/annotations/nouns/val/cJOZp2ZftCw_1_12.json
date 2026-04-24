@@ -1,0 +1,48 @@
+{
+  "video_objs": {
+    "bird": [
+      "a bird is dancing",
+      "a bird dances",
+      "a white bird is perched",
+      "an uncaged bird dances",
+      "the bird danced",
+      "the bird is dancing",
+      "a bird dancing",
+      "a bird is bobbing its head"
+    ],
+    "chair": [
+      "a chair"
+    ],
+    "cockatoo": [
+      "a cockatoo dances",
+      "a cockatoo is dancing",
+      "a white cockatoo named snowball dances",
+      "a cockatoo is bobbing"
+    ],
+    "parrot": [
+      "a parrot is dancing",
+      "a white parrot",
+      "the white parrot is dancing",
+      "a white parrot dancing",
+      "a parrot is standing",
+      "a parrot is dancing beautifully",
+      "a parrot is dancing and istructing others"
+    ],
+    "object": [
+      "some object"
+    ],
+    "feet": [
+      "its feet"
+    ],
+    "perch": [
+      "his perch",
+      "the perch"
+    ],
+    "sofa": [
+      "the sofa"
+    ],
+    "puppy": [
+      "a puppy is playing"
+    ]
+  }
+}

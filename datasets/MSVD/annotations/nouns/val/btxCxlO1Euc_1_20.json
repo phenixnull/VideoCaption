@@ -1,0 +1,28 @@
+{
+  "video_objs": {
+    "cats": [
+      "two cats are fighting each other",
+      "the cats are playing",
+      "the cats fought each other",
+      "two cats are pawing",
+      "two cats are playing while sitting",
+      "two cats are rough housing",
+      "two cats are sitting and batting",
+      "two cats bat"
+    ],
+    "stools": [
+      "from two stools",
+      "from their stools",
+      "from opposite stools"
+    ],
+    "kittens": [
+      "two kittens each standing"
+    ],
+    "girls": [
+      "the girls are fighting each other"
+    ],
+    "paws": [
+      "with their paws"
+    ]
+  }
+}

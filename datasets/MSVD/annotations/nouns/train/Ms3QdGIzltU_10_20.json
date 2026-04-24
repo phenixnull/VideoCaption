@@ -1,0 +1,44 @@
+{
+  "video_objs": {
+    "hamster": [
+      "a hamster is eating",
+      "a hamster is stuffing",
+      "a hamster is sniffing around",
+      "a hamster is eating some",
+      "a hamster eats"
+    ],
+    "nuts": [
+      "nuts"
+    ],
+    "seeds": [
+      "seeds"
+    ],
+    "rat": [
+      "a rat is eating sunflower s",
+      "a rat is eating something",
+      "a small rat eating some",
+      "a rat eating",
+      "a rat is eating"
+    ],
+    "cheeks": [
+      "his cheeks"
+    ],
+    "mouse": [
+      "a mouse is eating",
+      "a mouse sniffing and eating",
+      "the mouse is eating"
+    ],
+    "trail": [
+      "the trail"
+    ],
+    "person": [
+      "a person is cutting"
+    ],
+    "vegetables": [
+      "the vegetables"
+    ],
+    "food": [
+      "food"
+    ]
+  }
+}

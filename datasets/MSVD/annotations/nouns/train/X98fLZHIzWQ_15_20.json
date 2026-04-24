@@ -1,0 +1,53 @@
+{
+  "video_objs": {
+    "cat": [
+      "cat really wants",
+      "a cat trying",
+      "cat is skratch",
+      "the cat is trying",
+      "a cat scrambling",
+      "a cat scratches",
+      "a cat is cleaning up",
+      "a cat is scratching"
+    ],
+    "cake": [
+      "some cake",
+      "the cake inside",
+      "a visible cake",
+      "a packed cake",
+      "a cake underneath",
+      "a cake through"
+    ],
+    "merrior": [
+      "merrior"
+    ],
+    "box": [
+      "the box",
+      "a box"
+    ],
+    "tabletop": [
+      "tabletop"
+    ],
+    "paws": [
+      "her paws"
+    ],
+    "glass": [
+      "the glass"
+    ],
+    "floor": [
+      "the floor"
+    ],
+    "container": [
+      "a container covering"
+    ],
+    "plastic": [
+      "the plastic"
+    ],
+    "kitten": [
+      "a kitten"
+    ],
+    "lid": [
+      "the lid"
+    ]
+  }
+}

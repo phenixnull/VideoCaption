@@ -1,0 +1,68 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman is cracking",
+      "a woman breaks",
+      "a woman cracks",
+      "a woman is breaking",
+      "a woman is cracking eggs",
+      "a woman is holding",
+      "a woman cracks eggs",
+      "a woman is mix",
+      "a woman is putting",
+      "a woman making eggs",
+      "a woman preparing",
+      "woman breaks"
+    ],
+    "egg": [
+      "an egg is cracked",
+      "egg is cracked",
+      "cracked an egg",
+      "put an egg",
+      "break an egg",
+      "break a egg",
+      "is holding egg",
+      "cracks an egg",
+      "breaking an egg",
+      "cracking an egg",
+      "a raw egg",
+      "woman breaks an egg"
+    ],
+    "bowl": [
+      "a bowl"
+    ],
+    "shell": [
+      "the shell"
+    ],
+    "mixer": [
+      "the mixer",
+      "a mixer"
+    ],
+    "girl": [
+      "a girl break",
+      "a girl is mixing",
+      "the girl put a raw"
+    ],
+    "machine": [
+      "the machine"
+    ],
+    "hand": [
+      "her hand"
+    ],
+    "kitchen": [
+      "the kitchen"
+    ],
+    "mixture": [
+      "a mixture"
+    ],
+    "dish": [
+      "for dish"
+    ],
+    "blender": [
+      "a blender"
+    ],
+    "lady": [
+      "the lady"
+    ]
+  }
+}

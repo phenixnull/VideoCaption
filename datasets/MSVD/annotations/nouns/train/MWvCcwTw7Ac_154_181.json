@@ -1,0 +1,42 @@
+{
+  "video_objs": {
+    "dog": [
+      "a dog biting",
+      "a dog fetches",
+      "a dog is opening",
+      "a dog is playing",
+      "a dog opens",
+      "a dog picks up",
+      "a dog retrieves",
+      "the dog chewed"
+    ],
+    "can": [
+      "a can",
+      "a small can",
+      "a can it found"
+    ],
+    "tin": [
+      "a small tin"
+    ],
+    "food": [
+      "the food",
+      "a food"
+    ],
+    "box": [
+      "a box"
+    ],
+    "ball": [
+      "the ball",
+      "a ball"
+    ],
+    "dumbbell": [
+      "the dumbbell"
+    ],
+    "lid": [
+      "the lid"
+    ],
+    "container": [
+      "tin container"
+    ]
+  }
+}

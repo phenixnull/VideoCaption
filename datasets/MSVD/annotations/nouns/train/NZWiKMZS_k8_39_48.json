@@ -1,0 +1,61 @@
+{
+  "video_objs": {
+    "girl": [
+      "a girl combs her",
+      "the girl is long",
+      "a girl is doing something",
+      "a girl is combing her long",
+      "a girl combing her",
+      "a girl is combing"
+    ],
+    "hair": [
+      "her hair",
+      "her very long hair",
+      "their very long hair",
+      "her long hair",
+      "her very long blonde hair",
+      "her long white hair",
+      "length blond hair"
+    ],
+    "lady": [
+      "a lady brushed her very long",
+      "the lady brushed her long",
+      "a lady is arranging her"
+    ],
+    "person": [
+      "a person is combing their very long"
+    ],
+    "woman": [
+      "a woman brushes her",
+      "a woman brushes her very long blonde",
+      "a woman combing her",
+      "a woman is brushing her",
+      "a woman is brushing her long",
+      "a woman is brushing her very long",
+      "a woman is combing her long",
+      "a woman is combing her very long",
+      "the woman is combing her long",
+      "a woman",
+      "a woman brushes her long",
+      "a woman combs her long white",
+      "a woman combs her long",
+      "a woman is combing her"
+    ],
+    "individual": [
+      "an individual"
+    ],
+    "someone": [
+      "someone is brushing their",
+      "someone is combing their",
+      "someone is combing there",
+      "someone brushes their long"
+    ],
+    "hairs": [
+      "her long hairs"
+    ],
+    "women": [
+      "a women is showing her",
+      "a women combs her long"
+    ]
+  }
+}

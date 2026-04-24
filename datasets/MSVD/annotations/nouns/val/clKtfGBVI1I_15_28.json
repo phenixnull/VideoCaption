@@ -1,0 +1,53 @@
+{
+  "video_objs": {
+    "man": [
+      "a man talking",
+      "a black man is sitting down and talking",
+      "a black man talks",
+      "a man and",
+      "a man and a woman are talking",
+      "a man is giving",
+      "a man is participating",
+      "a man is speaking"
+    ],
+    "reporter": [
+      "to a reporter"
+    ],
+    "person": [
+      "an unseen person",
+      "the person is taking",
+      "the person taking intreview"
+    ],
+    "woamn": [
+      "and a woamn"
+    ],
+    "chairs": [
+      "sit is chairs"
+    ],
+    "interview": [
+      "giving an interview",
+      "is giving interview",
+      "in an interview"
+    ],
+    "camera": [
+      "to the camera"
+    ],
+    "studio": [
+      "in the studio",
+      "inside the studio"
+    ],
+    "newsroom": [
+      "of a newsroom"
+    ],
+    "girl": [
+      "a girl is"
+    ],
+    "channel": [
+      "on any channel"
+    ],
+    "men": [
+      "a men",
+      "a men is giving"
+    ]
+  }
+}

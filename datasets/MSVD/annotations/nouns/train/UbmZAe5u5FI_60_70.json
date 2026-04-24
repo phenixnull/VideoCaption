@@ -1,0 +1,46 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman",
+      "a woman is thinly slicing",
+      "a woman is slicing",
+      "a woman is cutting",
+      "the woman is slicing"
+    ],
+    "person": [
+      "a person slices",
+      "a person is slicing",
+      "a person cuts",
+      "a person is cuttng",
+      "a person is cutting",
+      "the person is cutting"
+    ],
+    "ginger": [
+      "ginger",
+      "ginger root",
+      "myona ginger"
+    ],
+    "pieces": [
+      "pieces"
+    ],
+    "garlic": [
+      "a garlic"
+    ],
+    "knife": [
+      "a knife"
+    ],
+    "lady": [
+      "the lady",
+      "a lady"
+    ],
+    "onion": [
+      "an onion"
+    ],
+    "man": [
+      "a man"
+    ],
+    "kichen": [
+      "his kichen"
+    ]
+  }
+}

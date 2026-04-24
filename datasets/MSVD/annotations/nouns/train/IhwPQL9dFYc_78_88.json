@@ -1,0 +1,53 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman is chopping",
+      "a woman is cutting several",
+      "a woman is chopping some",
+      "a woman is slicing",
+      "a woman is cutting green onion"
+    ],
+    "vegetables": [
+      "vegetables"
+    ],
+    "person": [
+      "a person is chopping a vegetable",
+      "a person cuts some",
+      "the person is cutting",
+      "a person is cutting up some"
+    ],
+    "scallions": [
+      "scallions"
+    ],
+    "knife": [
+      "a large knife",
+      "a knife"
+    ],
+    "chives": [
+      "chives"
+    ],
+    "onions": [
+      "onions"
+    ],
+    "bunch": [
+      "a small bunch"
+    ],
+    "lady": [
+      "the lady cut up",
+      "the lady cut up the green onion",
+      "a lady is cutting a vegetable"
+    ],
+    "leaves": [
+      "the leaves"
+    ],
+    "chef": [
+      "a chef is slicing"
+    ],
+    "man": [
+      "a man cooking his"
+    ],
+    "kichen": [
+      "his kichen"
+    ]
+  }
+}

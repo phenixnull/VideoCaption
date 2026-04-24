@@ -1,0 +1,58 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is cutting",
+      "a man",
+      "a man is slicing",
+      "a man uses",
+      "a man is shaving",
+      "a man is cutting something"
+    ],
+    "piece": [
+      "a thin piece",
+      "a piece"
+    ],
+    "strips": [
+      "in strips"
+    ],
+    "leather": [
+      "leather",
+      "carving leather",
+      "cutting leather",
+      "through the leather",
+      "slicing leather",
+      "sliced the leather",
+      "is cutting leather"
+    ],
+    "knife": [
+      "with a hunting knife",
+      "with a knife",
+      "with a sharp knife"
+    ],
+    "pieces": [
+      "pieces off"
+    ],
+    "square": [
+      "a square"
+    ],
+    "wood": [
+      "cutting wood",
+      "cuts some wood"
+    ],
+    "slices": [
+      "shaving slices off"
+    ],
+    "item": [
+      "the item"
+    ],
+    "person": [
+      "the person is cutting"
+    ],
+    "plank": [
+      "a plank"
+    ],
+    "paper": [
+      "cutting a paper"
+    ]
+  }
+}

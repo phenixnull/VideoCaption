@@ -1,0 +1,27 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is cutting",
+      "the man cut",
+      "the man is using",
+      "a man cuts up",
+      "a man cutting",
+      "the man is cutting",
+      "a man is cutting up"
+    ],
+    "scissors": [
+      "with scissors",
+      "by a scissors",
+      "using scissors"
+    ],
+    "paper": [
+      "cutting paper"
+    ],
+    "plate": [
+      "a plate"
+    ],
+    "person": [
+      "the person is cutting"
+    ]
+  }
+}

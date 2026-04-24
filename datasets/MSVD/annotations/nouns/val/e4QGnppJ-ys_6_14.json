@@ -1,0 +1,46 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is skateboarding",
+      "a man doing freestyle",
+      "a man does tricks",
+      "a man is doing some skating stunts",
+      "a man is doing stunts",
+      "a man is riding",
+      "the man is riding",
+      "a man skateboards"
+    ],
+    "skateboard": [
+      "a skateboard"
+    ],
+    "boy": [
+      "a boy"
+    ],
+    "skateboarder": [
+      "a skateboarder",
+      "the skateboarder"
+    ],
+    "trick": [
+      "a trick",
+      "doing a trick",
+      "did a trick"
+    ],
+    "board": [
+      "his board"
+    ],
+    "rink": [
+      "a rink"
+    ],
+    "ground": [
+      "ground"
+    ],
+    "guy": [
+      "a guy",
+      "one guy"
+    ],
+    "ramp": [
+      "a ramp",
+      "a steep ramp"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "video_objs": {
+    "man": [
+      "a man eats",
+      "a man is taking a bite",
+      "a man is eating",
+      "a man eats a slice",
+      "a man is watching another man eat",
+      "the man tried",
+      "a man is tasting",
+      "a man trying out"
+    ],
+    "pizza": [
+      "eats a pizza",
+      "eating a pizza",
+      "is eating pizza"
+    ],
+    "men": [
+      "two men are talking"
+    ],
+    "chef": [
+      "with a chef",
+      "while the chef"
+    ],
+    "person": [
+      "the person is eating"
+    ],
+    "guest": [
+      "guest taste"
+    ],
+    "show": [
+      "in this show"
+    ],
+    "episode": [
+      "with jack episode"
+    ],
+    "foods": [
+      "eating some foods"
+    ]
+  }
+}

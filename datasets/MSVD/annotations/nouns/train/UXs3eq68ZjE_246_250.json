@@ -1,0 +1,57 @@
+{
+  "video_objs": {
+    "kettle": [
+      "a kettle"
+    ],
+    "person": [
+      "a person pours",
+      "a person is pouring",
+      "a person adds",
+      "a person pours some",
+      "a person is cooking",
+      "the person is cooking"
+    ],
+    "pot": [
+      "a pot"
+    ],
+    "bowl": [
+      "a bowl"
+    ],
+    "cups": [
+      "two cups",
+      "four cups"
+    ],
+    "pan": [
+      "a pan"
+    ],
+    "chef": [
+      "a chef"
+    ],
+    "man": [
+      "a man is adding",
+      "a man is pouring",
+      "the man added",
+      "the man poured",
+      "the man is pouring",
+      "a man cooking"
+    ],
+    "dish": [
+      "making dish"
+    ],
+    "item": [
+      "the item"
+    ],
+    "kichen": [
+      "his kichen"
+    ],
+    "stove": [
+      "a stove"
+    ],
+    "lady": [
+      "the lady"
+    ],
+    "rice": [
+      "cooking the rice"
+    ]
+  }
+}

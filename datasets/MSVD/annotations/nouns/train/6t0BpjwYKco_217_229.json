@@ -1,0 +1,57 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman seasons both sides",
+      "a woman is seasoning",
+      "a woman seasons",
+      "a woman is grinding",
+      "a woman is spreading",
+      "a woman is sprinkling",
+      "the woman is seasoning"
+    ],
+    "spices": [
+      "spices"
+    ],
+    "meat": [
+      "meat",
+      "pork meat",
+      "some meat",
+      "the meat"
+    ],
+    "pepper": [
+      "pepper"
+    ],
+    "salt": [
+      "salt"
+    ],
+    "piece": [
+      "piece"
+    ],
+    "lady": [
+      "the lady",
+      "a lady"
+    ],
+    "women": [
+      "the women"
+    ],
+    "fish": [
+      "the fish"
+    ],
+    "dish": [
+      "a dish",
+      "dish"
+    ],
+    "kitchen": [
+      "the kitchen"
+    ],
+    "dog": [
+      "the dog"
+    ],
+    "tomato": [
+      "tomato"
+    ],
+    "steak": [
+      "steak"
+    ]
+  }
+}

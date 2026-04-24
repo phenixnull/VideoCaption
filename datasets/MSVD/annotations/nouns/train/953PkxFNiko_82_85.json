@@ -1,0 +1,68 @@
+{
+  "video_objs": {
+    "man": [
+      "a man close up",
+      "a man brings his",
+      "a man has his",
+      "a man",
+      "a man is singing",
+      "a man is spitting",
+      "a man is talking",
+      "a man spits and speaks"
+    ],
+    "teeth": [
+      "crooked teeth"
+    ],
+    "face": [
+      "his face really close",
+      "his face close"
+    ],
+    "camera": [
+      "the camera"
+    ],
+    "hat": [
+      "in a hat"
+    ],
+    "song": [
+      "sings a song",
+      "singing a song"
+    ],
+    "tobacco": [
+      "tobacco"
+    ],
+    "mouth": [
+      "his mouth"
+    ],
+    "juice": [
+      "tobacco juice"
+    ],
+    "person": [
+      "a person talking"
+    ],
+    "guy": [
+      "a guy"
+    ],
+    "cap": [
+      "in a cap"
+    ],
+    "forest": [
+      "in a forest",
+      "in the forest"
+    ],
+    "band": [
+      "a band"
+    ],
+    "stage": [
+      "their stage"
+    ],
+    "tree": [
+      "a tree"
+    ],
+    "people": [
+      "few people"
+    ],
+    "music": [
+      "playing music"
+    ]
+  }
+}

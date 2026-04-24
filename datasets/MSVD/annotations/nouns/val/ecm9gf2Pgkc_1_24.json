@@ -1,0 +1,93 @@
+{
+  "video_objs": {
+    "girl": [
+      "a girl playing",
+      "a girl is playing",
+      "a girl played"
+    ],
+    "puppy": [
+      "a white puppy",
+      "a puppy",
+      "puppy is",
+      "with a puppy",
+      "gelato is like a puppy",
+      "rabit is like a puppy"
+    ],
+    "bunny": [
+      "a bunny is playing",
+      "with a bunny",
+      "a bunny",
+      "a bunny is sniffing around",
+      "someone pets a bunny"
+    ],
+    "person": [
+      "a person",
+      "a person is playing",
+      "the person is playing"
+    ],
+    "rabbit": [
+      "with a rabbit",
+      "the white rabbit",
+      "a rabbit is being petted",
+      "a rabbit is being played",
+      "petting the rabbit",
+      "a little white rabbit is given a treat",
+      "cute rabbit plays",
+      "on a rabbit",
+      "with the rabbit",
+      "a white rabbit is getting petted",
+      "a rabbit is sniffing around",
+      "a young white rabbit being petted",
+      "petting a rabbit",
+      "with their rabbit",
+      "rabbit playing",
+      "a rabbit is like my"
+    ],
+    "woman": [
+      "a woman is playing",
+      "a woman is talking",
+      "the woman is petting",
+      "a woman is petting"
+    ],
+    "animal": [
+      "an animal sniffs around and plays",
+      "an animal is playing like",
+      "an animal is playing",
+      "a some animal is playing"
+    ],
+    "rabit": [
+      "the rabit turned circles",
+      "rabit is like"
+    ],
+    "floor": [
+      "on the floor"
+    ],
+    "gelato": [
+      "gelato is like",
+      "with the gelato",
+      "with a gelato"
+    ],
+    "man": [
+      "a man playing",
+      "a man is playing"
+    ],
+    "men": [
+      "a men"
+    ],
+    "master": [
+      "her master"
+    ],
+    "finger": [
+      "some one is keeping her finger"
+    ],
+    "couch": [
+      "off a couch"
+    ],
+    "rat": [
+      "a rat is moved around"
+    ],
+    "manwoman": [
+      "manwoman playing"
+    ]
+  }
+}

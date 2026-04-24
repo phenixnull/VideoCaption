@@ -1,0 +1,77 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman deep fries",
+      "a woman is cooking",
+      "a woman is deep frying",
+      "a woman is frying",
+      "a woman is placing",
+      "a woman cooks",
+      "a woman puts",
+      "a woman is frying some"
+    ],
+    "chopsticks": [
+      "chop using chopsticks"
+    ],
+    "person": [
+      "a person is frying",
+      "a person is cooking"
+    ],
+    "food": [
+      "frying a food",
+      "is placing food",
+      "frying some food"
+    ],
+    "chef": [
+      "a chef fries some",
+      "a chef adds"
+    ],
+    "meat": [
+      "fries some meat",
+      "frying pork meat",
+      "someone is frying meat",
+      "frying some meat",
+      "is frying meat"
+    ],
+    "pot": [
+      "a bubbling pot",
+      "to a pot"
+    ],
+    "bread": [
+      "is frying bread"
+    ],
+    "women": [
+      "a women is deep frying some",
+      "a women is frying"
+    ],
+    "lady": [
+      "a lady put",
+      "the lady put",
+      "a lady placed",
+      "a lady frying",
+      "a lady doing work",
+      "a lady uses"
+    ],
+    "chicken": [
+      "put the chicken"
+    ],
+    "dough": [
+      "placed the dough"
+    ],
+    "girl": [
+      "a girl is cooling some"
+    ],
+    "meals": [
+      "cooling some meals"
+    ],
+    "kitchen": [
+      "in the kitchen"
+    ],
+    "wok": [
+      "in a wok"
+    ],
+    "dog": [
+      "with his dog"
+    ]
+  }
+}

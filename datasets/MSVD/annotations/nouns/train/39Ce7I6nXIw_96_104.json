@@ -1,0 +1,75 @@
+{
+  "video_objs": {
+    "man": [
+      "a man walks",
+      "a man and",
+      "a man is leading",
+      "a man is walking",
+      "a man leads",
+      "the man and his",
+      "one man walking",
+      "an old man walking"
+    ],
+    "horse": [
+      "his horse",
+      "a horse are walking",
+      "a horse along",
+      "a horse around",
+      "a horse",
+      "a horse down",
+      "a horse through"
+    ],
+    "jungle": [
+      "through a jungle"
+    ],
+    "halter": [
+      "by it s halter"
+    ],
+    "path": [
+      "through a path",
+      "through the path"
+    ],
+    "hill": [
+      "down a hill"
+    ],
+    "forest": [
+      "through the forest"
+    ],
+    "binoculars": [
+      "with binoculars"
+    ],
+    "girl": [
+      "a girl taking"
+    ],
+    "photos": [
+      "taking photos"
+    ],
+    "sunrise": [
+      "of sunrise"
+    ],
+    "trees": [
+      "through some trees"
+    ],
+    "belt": [
+      "the belt"
+    ],
+    "farm": [
+      "into a farm"
+    ],
+    "people": [
+      "people are watching"
+    ],
+    "river": [
+      "river"
+    ],
+    "trail": [
+      "along a trail"
+    ],
+    "person": [
+      "a person and"
+    ],
+    "hoers": [
+      "hoers is walking"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "video_objs": {
+    "girls": [
+      "four girls are dancing",
+      "five girls are performing a dance",
+      "five preteen girls",
+      "girls are dancing"
+    ],
+    "group": [
+      "a group",
+      "group is performing dance"
+    ],
+    "children": [
+      "children are dancing",
+      "children are singing and dancing",
+      "children dance",
+      "some children dancing",
+      "some children is dancing"
+    ],
+    "stage": [
+      "on stage",
+      "on a stage"
+    ],
+    "artists": [
+      "artists dancing"
+    ],
+    "batch": [
+      "the nice batch"
+    ],
+    "people": [
+      "some people are dancing"
+    ],
+    "women": [
+      "women are dancing"
+    ],
+    "show": [
+      "putting up a show"
+    ]
+  }
+}

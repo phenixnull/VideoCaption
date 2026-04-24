@@ -1,0 +1,51 @@
+{
+  "video_objs": {
+    "man": [
+      "a man wearing",
+      "a man hammers",
+      "a man is using",
+      "a man is cutting",
+      "a man is trying",
+      "a man is hitting",
+      "the man hit",
+      "the man is using",
+      "the man used",
+      "a man pounds",
+      "a man is showing",
+      "a man is beating",
+      "a man beating",
+      "a man trying"
+    ],
+    "knife": [
+      "a hunting knife",
+      "a knife"
+    ],
+    "wood": [
+      "wood"
+    ],
+    "board": [
+      "a board"
+    ],
+    "stick": [
+      "a stick"
+    ],
+    "blade": [
+      "a blade"
+    ],
+    "pipe": [
+      "a pipe"
+    ],
+    "tool": [
+      "a tool"
+    ],
+    "2x4": [
+      "a 2x4"
+    ],
+    "person": [
+      "the person"
+    ],
+    "guy": [
+      "a guy"
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "video_objs": {
+    "bomb": [
+      "a bomb is off",
+      "a bomb exploded",
+      "a bomb explodes",
+      "a bomb went off",
+      "a bomb",
+      "a bomb blasts",
+      "a bomb is blasting",
+      "a bomb is bursting"
+    ],
+    "city": [
+      "of a city",
+      "in the city"
+    ],
+    "cloud": [
+      "a cloud"
+    ],
+    "smoke": [
+      "thick black smoke",
+      "smoke is coming out",
+      "smoke rises"
+    ],
+    "row": [
+      "a row"
+    ],
+    "structure": [
+      "a structure is blowing up"
+    ],
+    "distance": [
+      "in the distance",
+      "at distance",
+      "in the middle distance"
+    ],
+    "bombs": [
+      "bombs are blasting"
+    ],
+    "explosion": [
+      "an explosion is occurring",
+      "there is an explosion",
+      "an explosion happens",
+      "an explosion is"
+    ],
+    "bungalow": [
+      "at a bungalow"
+    ],
+    "house": [
+      "in the house",
+      "beside a house"
+    ],
+    "mlrs": [
+      "mlrs"
+    ],
+    "ramadi": [
+      "in ramadi"
+    ],
+    "tornado": [
+      "a tornado is occurs"
+    ],
+    "blast": [
+      "a blast occurred"
+    ],
+    "background": [
+      "in the background"
+    ],
+    "clip": [
+      "a clip showing"
+    ],
+    "type": [
+      "a type"
+    ],
+    "town": [
+      "in a town"
+    ],
+    "reactions": [
+      "reactions"
+    ],
+    "sound": [
+      "the sound"
+    ],
+    "gun": [
+      "shotting the gun"
+    ],
+    "group": [
+      "a group"
+    ],
+    "person": [
+      "the person is running"
+    ]
+  }
+}

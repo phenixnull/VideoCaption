@@ -1,0 +1,36 @@
+{
+  "video_objs": {
+    "man": [
+      "a man aims and fires",
+      "a man is firing",
+      "a man is laying",
+      "a man is lying",
+      "a man is shooting"
+    ],
+    "rifle": [
+      "a rifle"
+    ],
+    "bullets": [
+      "bullets"
+    ],
+    "ground": [
+      "the ground"
+    ],
+    "gun": [
+      "a gun"
+    ],
+    "person": [
+      "a person shooting"
+    ],
+    "field": [
+      "a field"
+    ],
+    "target": [
+      "his target",
+      "the target"
+    ],
+    "belly": [
+      "his belly"
+    ]
+  }
+}

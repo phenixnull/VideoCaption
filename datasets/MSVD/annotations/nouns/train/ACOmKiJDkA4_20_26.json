@@ -1,0 +1,65 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman pours",
+      "a woman dumps",
+      "a woman scoops",
+      "a woman is dumping",
+      "a woman is adding",
+      "the woman is putting",
+      "a woman puts",
+      "a woman is putting",
+      "the woman put"
+    ],
+    "rice": [
+      "rice",
+      "puts rice",
+      "scoops rice",
+      "dumping rice",
+      "removing rice",
+      "adding rice",
+      "moving rice",
+      "putting rice",
+      "pouring rice",
+      "stirring rice",
+      "poured the cooked rice",
+      "stirred the rice",
+      "rice is been cooked",
+      "put the rice",
+      "cooking the rice"
+    ],
+    "kettle": [
+      "a kettle"
+    ],
+    "pan": [
+      "a round metal pan",
+      "a pan",
+      "a frying pan",
+      "the pan"
+    ],
+    "person": [
+      "a person puts",
+      "a person is adding",
+      "a person coking",
+      "a person is transferring",
+      "the person is cooking"
+    ],
+    "skillet": [
+      "a skillet"
+    ],
+    "food": [
+      "food"
+    ],
+    "pot": [
+      "a pot",
+      "in a pot"
+    ],
+    "bowl": [
+      "a bowl"
+    ],
+    "lady": [
+      "the lady poured the cooked",
+      "the lady stirred"
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "video_objs": {
+    "group": [
+      "a group is performing"
+    ],
+    "song": [
+      "a song"
+    ],
+    "band": [
+      "a band is performing",
+      "the band played",
+      "his band",
+      "a band is playing",
+      "the band is playing",
+      "a band"
+    ],
+    "stage": [
+      "on stage",
+      "on a stage",
+      "on the stage"
+    ],
+    "man": [
+      "a man performed",
+      "the man performed",
+      "a man is singing",
+      "a man is playing",
+      "a man playing"
+    ],
+    "orchestra": [
+      "an orchestra is performing",
+      "his orchestra",
+      "an orchestra is playing"
+    ],
+    "theatre": [
+      "in a theatre"
+    ],
+    "audience": [
+      "for a live audience"
+    ],
+    "concert": [
+      "a concert"
+    ],
+    "keyboards": [
+      "the keyboards",
+      "multiple keyboards"
+    ],
+    "partners": [
+      "with partners"
+    ],
+    "music": [
+      "music"
+    ],
+    "auditorium": [
+      "in auditorium"
+    ],
+    "musian": [
+      "some musian are performing"
+    ],
+    "people": [
+      "some people singing"
+    ],
+    "yani": [
+      "yani and his"
+    ],
+    "background": [
+      "with a background"
+    ],
+    "instruments": [
+      "different instruments"
+    ],
+    "drummer": [
+      "a drummer playing"
+    ],
+    "drum": [
+      "a drum"
+    ],
+    "musician": [
+      "a musician is dancing"
+    ],
+    "artist": [
+      "artist are performing"
+    ],
+    "men": [
+      "men are playing",
+      "men were playing"
+    ],
+    "instrument": [
+      "their instrument"
+    ],
+    "playist": [
+      "the playist playing"
+    ],
+    "singer": [
+      "a singer is singing"
+    ],
+    "persons": [
+      "the persons playing"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "video_objs": {
+    "man": [
+      "a man slices",
+      "a man",
+      "a man sliced",
+      "a man is demonstrating",
+      "a man is cutting",
+      "the man sliced",
+      "the man used",
+      "a man chops"
+    ],
+    "sword": [
+      "a sword is shown",
+      "with a sword"
+    ],
+    "trashcan": [
+      "a trashcan"
+    ],
+    "water": [
+      "water"
+    ],
+    "liquid": [
+      "liquid"
+    ],
+    "knife": [
+      "a knife"
+    ],
+    "person": [
+      "a person"
+    ],
+    "bucket": [
+      "a bucket",
+      "the bucket",
+      "a liquidfilled bucket"
+    ],
+    "barrels": [
+      "barrels"
+    ],
+    "pot": [
+      "a pot"
+    ],
+    "dustbin": [
+      "a dustbin"
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "video_objs": {
+    "person": [
+      "a person is shredding",
+      "a person grates",
+      "a person is using",
+      "a person is grating",
+      "a person is slicing"
+    ],
+    "carrots": [
+      "shredding carrots",
+      "slicing carrots",
+      "slicing some carrots"
+    ],
+    "carrot": [
+      "a carrot is being sliced",
+      "a carrot is sliced and grinded",
+      "a carrot is sliced"
+    ],
+    "chef": [
+      "a chef grates"
+    ],
+    "man": [
+      "a man is grating",
+      "a man is scraping",
+      "a man is slicing",
+      "a man is slicing a peeled",
+      "a man is using",
+      "a man shredding"
+    ],
+    "machine": [
+      "by a machine"
+    ],
+    "slicer": [
+      "against a slicer",
+      "using a slicer",
+      "with a slicer",
+      "from a slicer",
+      "on a slicer"
+    ],
+    "stand": [
+      "to a stand"
+    ],
+    "cooker": [
+      "a cooker is cutting"
+    ],
+    "men": [
+      "a men making"
+    ],
+    "vegitable": [
+      "slicing some vegitable"
+    ],
+    "slices": [
+      "cutting a slices"
+    ],
+    "zucchini": [
+      "miu mandoline carrots and zucchini"
+    ]
+  }
+}

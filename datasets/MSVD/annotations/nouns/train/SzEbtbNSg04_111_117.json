@@ -1,0 +1,40 @@
+{
+  "video_objs": {
+    "pot": [
+      "a pot"
+    ],
+    "water": [
+      "boiling water"
+    ],
+    "spaghetti": [
+      "uncooked spaghetti",
+      "spaghetti"
+    ],
+    "person": [
+      "a person"
+    ],
+    "pasta": [
+      "pasta"
+    ],
+    "pan": [
+      "a pan"
+    ],
+    "man": [
+      "a man",
+      "the man"
+    ],
+    "noodles": [
+      "noodles"
+    ],
+    "shrimp": [
+      "shrimp",
+      "the shrimp"
+    ],
+    "sauce": [
+      "sauce"
+    ],
+    "kichen": [
+      "his kichen"
+    ]
+  }
+}

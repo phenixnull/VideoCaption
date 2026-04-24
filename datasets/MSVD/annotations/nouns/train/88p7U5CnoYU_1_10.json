@@ -1,0 +1,62 @@
+{
+  "video_objs": {
+    "panda": [
+      "a panda is patting his",
+      "a panda is laying",
+      "a panda is sleeping",
+      "a panda is relaxing",
+      "a panda is lying",
+      "a panda is patting itself",
+      "a panda is scratching himself",
+      "a panda thumps its"
+    ],
+    "paw": [
+      "with his paw",
+      "with its paw"
+    ],
+    "back": [
+      "on his back",
+      "tapping its back",
+      "patted his back",
+      "pats its back",
+      "pats his back"
+    ],
+    "tummy": [
+      "tapping his tummy"
+    ],
+    "stone": [
+      "on a stone"
+    ],
+    "ground": [
+      "on the ground"
+    ],
+    "side": [
+      "patting his side",
+      "patted his side",
+      "it s side"
+    ],
+    "stomach": [
+      "patting his stomach",
+      "patting its stomach"
+    ],
+    "body": [
+      "thumps its body"
+    ],
+    "dog": [
+      "the dog is taking the rest"
+    ],
+    "music": [
+      "with the music"
+    ],
+    "belly": [
+      "patting his belly"
+    ],
+    "bear": [
+      "a bear is sleeping",
+      "a bear itching it self"
+    ],
+    "floor": [
+      "on the floor"
+    ]
+  }
+}

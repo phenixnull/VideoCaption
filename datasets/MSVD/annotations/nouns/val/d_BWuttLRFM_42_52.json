@@ -1,0 +1,38 @@
+{
+  "video_objs": {
+    "boy": [
+      "a boy",
+      "a young boy",
+      "a small boy",
+      "the boy",
+      "small boy",
+      "a little boy"
+    ],
+    "flute": [
+      "a flute",
+      "the flute",
+      "his flute"
+    ],
+    "child": [
+      "a child",
+      "an indian child"
+    ],
+    "stage": [
+      "a stage"
+    ],
+    "instrument": [
+      "an instrument",
+      "some instrument"
+    ],
+    "microphone": [
+      "a microphone",
+      "the microphone"
+    ],
+    "man": [
+      "a man"
+    ],
+    "music": [
+      "music"
+    ]
+  }
+}

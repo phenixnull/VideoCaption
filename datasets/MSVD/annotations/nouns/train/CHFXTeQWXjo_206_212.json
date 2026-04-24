@@ -1,0 +1,56 @@
+{
+  "video_objs": {
+    "students": [
+      "several students",
+      "martial arts students",
+      "karate students"
+    ],
+    "fight": [
+      "in a fight",
+      "a large karate fight is breaking out"
+    ],
+    "group": [
+      "a group"
+    ],
+    "people": [
+      "people are fighting"
+    ],
+    "man": [
+      "a man fighting",
+      "a man is fighting",
+      "a man is karate fighting",
+      "a man is kicking",
+      "a man knocks down",
+      "a man strikes",
+      "a man uses",
+      "a man is karate kicking"
+    ],
+    "men": [
+      "multiple men",
+      "several other men",
+      "many men",
+      "six other men"
+    ],
+    "teacher": [
+      "the teacher"
+    ],
+    "gym": [
+      "a whole gym"
+    ],
+    "nunchaku": [
+      "bruce lee nunchaku"
+    ],
+    "boys": [
+      "some boys"
+    ],
+    "room": [
+      "a room full"
+    ],
+    "clip": [
+      "a short clip"
+    ],
+    "actor": [
+      "an actor"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is spinning",
+      "a man spins",
+      "a man is turning",
+      "a man spins an egg",
+      "a man spun",
+      "a man boiling",
+      "a man differentiating"
+    ],
+    "eggs": [
+      "eggs"
+    ],
+    "countertop": [
+      "a countertop"
+    ],
+    "counter": [
+      "a counter"
+    ],
+    "table": [
+      "a table"
+    ],
+    "chef": [
+      "a chef"
+    ],
+    "kichen": [
+      "his kichen"
+    ],
+    "person": [
+      "the person"
+    ],
+    "guy": [
+      "a guy"
+    ],
+    "sheaf": [
+      "a sheaf"
+    ]
+  }
+}

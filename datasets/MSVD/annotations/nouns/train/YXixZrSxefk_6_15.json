@@ -1,0 +1,49 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is demonstrating peeling",
+      "a man is peeling",
+      "a man is peeling a raw",
+      "the man is peeling",
+      "a man cooking",
+      "a man is grating"
+    ],
+    "potato": [
+      "peeling a potato",
+      "peels a potato",
+      "peeling a raw potato",
+      "peeling potato",
+      "of a potato"
+    ],
+    "lady": [
+      "a lady peeled a potatoe",
+      "the lady peeled a potatoe",
+      "one lady removing peels"
+    ],
+    "person": [
+      "a person is peeling"
+    ],
+    "woman": [
+      "a woman is peeling",
+      "a woman showing how"
+    ],
+    "skin": [
+      "the skin off"
+    ],
+    "sandwich": [
+      "prepare a sandwich"
+    ],
+    "peeler": [
+      "with peeler"
+    ],
+    "potatoskin": [
+      "removing the potatoskin"
+    ],
+    "peal": [
+      "scrapping the peal"
+    ],
+    "cucumber": [
+      "peeling a cucumber"
+    ]
+  }
+}

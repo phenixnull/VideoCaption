@@ -1,0 +1,47 @@
+{
+  "video_objs": {
+    "man": [
+      "a man karate kicks",
+      "a man kicks",
+      "a man kicking",
+      "a man fights",
+      "a man is fighting",
+      "a man is boxing",
+      "a man is kickboxing",
+      "a man is punching"
+    ],
+    "mannequin": [
+      "a mannequin"
+    ],
+    "dummy": [
+      "a dummy",
+      "kicks a dummy",
+      "kicking a dummy",
+      "fights a dummy",
+      "with a dummy",
+      "punching a dummy",
+      "boxing a dummy"
+    ],
+    "manikin": [
+      "a manikin"
+    ],
+    "ground": [
+      "on the ground"
+    ],
+    "statue": [
+      "a statue"
+    ],
+    "men": [
+      "the men practicing"
+    ],
+    "wig": [
+      "a wig"
+    ],
+    "boy": [
+      "a boy"
+    ],
+    "toy": [
+      "a toy"
+    ]
+  }
+}

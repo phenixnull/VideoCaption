@@ -1,0 +1,35 @@
+{
+  "video_objs": {
+    "dog": [
+      "a dog is walking",
+      "a dog stands",
+      "a dog is standing",
+      "a dog walks around"
+    ],
+    "legs": [
+      "front two legs",
+      "on two legs"
+    ],
+    "handstand": [
+      "while doing a handstand",
+      "doing a handstand"
+    ],
+    "bushes": [
+      "on the bushes"
+    ],
+    "flowers": [
+      "on some flowers"
+    ],
+    "pug": [
+      "a pug urinates",
+      "a pug is trying",
+      "a pug peeing"
+    ],
+    "lawn": [
+      "in a lawn"
+    ],
+    "puppy": [
+      "a puppy is playing"
+    ]
+  }
+}

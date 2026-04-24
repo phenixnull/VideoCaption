@@ -1,0 +1,77 @@
+{
+  "video_objs": {
+    "person": [
+      "a person is pushed off",
+      "a person is pushing",
+      "a person is pushing another person",
+      "the person is throwing the person"
+    ],
+    "ship": [
+      "off a ship",
+      "on a ship",
+      "from a ship"
+    ],
+    "man": [
+      "a man",
+      "a man pushes someone overboard",
+      "a man is pushed off",
+      "a man pushes another man",
+      "a man is being thrown off",
+      "a man is pushed",
+      "the man threw",
+      "the man was pushed",
+      "a man is pushing the other man",
+      "the man is pushed",
+      "a man pushing another man",
+      "a man pushes out",
+      "a man pushes a man off",
+      "a man is being thrown overboard",
+      "a man is pushing someone off",
+      "a man jumping",
+      "a man being pushed",
+      "a man is pushing another man",
+      "a man is pushing down someone",
+      "a man gets pushed"
+    ],
+    "rope": [
+      "with a rope"
+    ],
+    "boat": [
+      "someone is being pushed off a boat",
+      "off a boat",
+      "of a boat",
+      "from the boat",
+      "from a boat"
+    ],
+    "water": [
+      "into the water",
+      "under the water",
+      "in the water"
+    ],
+    "ocean": [
+      "into the ocean"
+    ],
+    "prisoner": [
+      "threw the prisoner"
+    ],
+    "sea": [
+      "to the sea",
+      "into the sea"
+    ],
+    "river": [
+      "into the river"
+    ],
+    "traveller": [
+      "out a traveller"
+    ],
+    "men": [
+      "a men is jumping"
+    ],
+    "pirates": [
+      "unfortunately pirates killed"
+    ],
+    "hostage": [
+      "killed a hostage"
+    ]
+  }
+}

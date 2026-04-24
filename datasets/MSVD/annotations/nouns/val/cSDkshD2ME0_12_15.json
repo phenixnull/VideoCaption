@@ -1,0 +1,58 @@
+{
+  "video_objs": {
+    "rock": [
+      "someone behind a rock shoots"
+    ],
+    "man": [
+      "a man gets shot",
+      "a man",
+      "a man is firing",
+      "a man shoots",
+      "a man is shooting",
+      "a man is getting shot",
+      "the man shot",
+      "a man is dying"
+    ],
+    "horse": [
+      "on a horse"
+    ],
+    "rifle": [
+      "shoots a rifle",
+      "shooting a rifle",
+      "with a rifle"
+    ],
+    "cowboy": [
+      "shot the cowboy"
+    ],
+    "gunman": [
+      "the gunman shot"
+    ],
+    "scene": [
+      "a scene"
+    ],
+    "person": [
+      "the person is shooting"
+    ],
+    "gun": [
+      "with a gun"
+    ],
+    "hat": [
+      "putting his hat down"
+    ],
+    "sheriff": [
+      "the sheriff was"
+    ],
+    "lady": [
+      "was a lady"
+    ],
+    "movie": [
+      "cow boy movie"
+    ],
+    "clip": [
+      "a shooting clip"
+    ],
+    "forest": [
+      "a deep forest"
+    ]
+  }
+}

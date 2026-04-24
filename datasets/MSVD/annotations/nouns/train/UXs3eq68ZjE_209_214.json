@@ -1,0 +1,79 @@
+{
+  "video_objs": {
+    "person": [
+      "a person pours",
+      "a person is adding",
+      "a person fills a measuring cup",
+      "a person is pouring some",
+      "the person is making",
+      "the person show how"
+    ],
+    "liquid": [
+      "pours a liquid",
+      "someone is pouring some liquid",
+      "pouring some liquid"
+    ],
+    "spoon": [
+      "into a spoon",
+      "a measuring spoon",
+      "someone is filling a spoon",
+      "in a spoon",
+      "in the spoon",
+      "on a spoon"
+    ],
+    "tablespoons": [
+      "someone is measuring out two tablespoons"
+    ],
+    "vanilla": [
+      "measuring out vanilla",
+      "is pouring vanilla",
+      "is adding vanilla",
+      "someone added vanilla",
+      "out some vanilla",
+      "pouring out vanilla"
+    ],
+    "bowl": [
+      "into a bowl"
+    ],
+    "eggs": [
+      "two raw eggs",
+      "to cracked eggs",
+      "to the eggs",
+      "to raw eggs",
+      "the raw eggs",
+      "seasoning the eggs"
+    ],
+    "souse": [
+      "adding a souse"
+    ],
+    "chef": [
+      "a chef pours",
+      "a chef measures out some"
+    ],
+    "man": [
+      "a man is adding some",
+      "a man is pouring",
+      "a man is adding",
+      "a man is putting",
+      "a man is pouring out",
+      "a man cooking his",
+      "the man added",
+      "the man is seasoning"
+    ],
+    "sauce": [
+      "adding some sauce"
+    ],
+    "lady": [
+      "the lady poured"
+    ],
+    "dish": [
+      "anyone is making dish"
+    ],
+    "ingredients": [
+      "is putting ingredients"
+    ],
+    "kichen": [
+      "cooking his kichen"
+    ]
+  }
+}

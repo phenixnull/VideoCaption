@@ -1,0 +1,71 @@
+{
+  "video_objs": {
+    "chef": [
+      "a chef slices",
+      "a chef cutting"
+    ],
+    "potato": [
+      "slices a potato",
+      "cutting a potato",
+      "slicing a potato",
+      "cuts a potato",
+      "someone is chopping a potato",
+      "someone is slicing a potato",
+      "someone cuts a cooked potato",
+      "someone cutting potato",
+      "is cutting potato",
+      "anyone is slicing potato"
+    ],
+    "man": [
+      "a man cuts up",
+      "a man is cutting",
+      "a man is cutting boiled",
+      "a man is slicing",
+      "a man is slicing boiled",
+      "the man is slicing",
+      "a man slices a cooked",
+      "a man is talking about",
+      "a man is making",
+      "a man cooking his"
+    ],
+    "potatos": [
+      "somebody is slicing a some potatos"
+    ],
+    "potatoes": [
+      "she is cutting potatoes"
+    ],
+    "person": [
+      "a person cuts",
+      "a person is slicing",
+      "a person is cooking",
+      "the person is cooking",
+      "a person is showing you how"
+    ],
+    "woman": [
+      "a woman cuts"
+    ],
+    "girl": [
+      "the girl cut up"
+    ],
+    "lady": [
+      "the lady cut up",
+      "the lady sliced"
+    ],
+    "knife": [
+      "a large knife"
+    ],
+    "potatato": [
+      "a cooked potatato"
+    ],
+    "video": [
+      "a video"
+    ],
+    "salad": [
+      "potato salad attractively displayed",
+      "is making salad"
+    ],
+    "kichen": [
+      "cooking his kichen"
+    ]
+  }
+}

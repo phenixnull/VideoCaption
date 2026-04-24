@@ -1,0 +1,33 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is playing",
+      "a man plays",
+      "a man seated",
+      "the man played",
+      "the man is playing",
+      "a young man is sitting down playing",
+      "man plays"
+    ],
+    "guitar": [
+      "the guitar",
+      "a guitar",
+      "guitar",
+      "his guitar",
+      "on his guitar"
+    ],
+    "house": [
+      "his house"
+    ],
+    "room": [
+      "his room",
+      "the room"
+    ],
+    "instrument": [
+      "instrument"
+    ],
+    "home": [
+      "his home"
+    ]
+  }
+}

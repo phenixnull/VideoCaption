@@ -1,0 +1,48 @@
+{
+  "video_objs": {
+    "plane": [
+      "a plane is taking off",
+      "a animated plane is taking off",
+      "a computerized plane is taking off",
+      "a plane takes off",
+      "a plane is flying",
+      "the plane is take off",
+      "the plane lifted",
+      "the plane took off",
+      "the plane take off"
+    ],
+    "airplane": [
+      "a simulated airplane takes off",
+      "an airplane is taking off",
+      "an animated airplane takes off",
+      "the airplane took off"
+    ],
+    "runway": [
+      "on a runway",
+      "from a runway",
+      "from the runway",
+      "on the runway"
+    ],
+    "sky": [
+      "into the sky"
+    ],
+    "picture": [
+      "a digital picture"
+    ],
+    "jet": [
+      "the jet took off",
+      "a jet is taking off"
+    ],
+    "airbus": [
+      "the airbus is ready"
+    ],
+    "aeroplane": [
+      "an aeroplane is starting",
+      "a aeroplane is running",
+      "an aeroplane is landing"
+    ],
+    "flight": [
+      "a flight is"
+    ]
+  }
+}

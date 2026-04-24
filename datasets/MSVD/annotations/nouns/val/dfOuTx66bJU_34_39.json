@@ -1,0 +1,66 @@
+{
+  "video_objs": {
+    "man": [
+      "a man walking down",
+      "a man is running",
+      "a man is running outside",
+      "a man is finding something",
+      "a man is running down",
+      "a man runs down",
+      "the man ran down",
+      "the man is running"
+    ],
+    "street": [
+      "the street",
+      "down the street"
+    ],
+    "person": [
+      "a person is jogging",
+      "a person is searching"
+    ],
+    "road": [
+      "down a road",
+      "on the road",
+      "down the road"
+    ],
+    "woman": [
+      "woman waits",
+      "the woman are singing"
+    ],
+    "tree": [
+      "behind a tree"
+    ],
+    "woods": [
+      "through the woods"
+    ],
+    "boy": [
+      "the boy is dancing"
+    ],
+    "scene": [
+      "a scene"
+    ],
+    "song": [
+      "a song",
+      "the song"
+    ],
+    "actor": [
+      "an actor is running",
+      "actor mohan is walking"
+    ],
+    "forest": [
+      "a forest"
+    ],
+    "actress": [
+      "the actress is hiding"
+    ],
+    "jungle": [
+      "a jungle"
+    ],
+    "tress": [
+      "behind the tress"
+    ],
+    "clip": [
+      "a short clip"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman is",
+      "a woman is taking her",
+      "a woman is walking",
+      "a woman is walking her",
+      "a woman walks",
+      "a woman walks her"
+    ],
+    "dog": [
+      "a dog is walking",
+      "a dog is walking through the voltage box",
+      "a dog shocked",
+      "a dog leap"
+    ],
+    "leash": [
+      "on a leash"
+    ],
+    "lady": [
+      "a lady is walking",
+      "with a lady"
+    ],
+    "street": [
+      "down the street",
+      "on the street"
+    ],
+    "walk": [
+      "for a walk",
+      "on a walk",
+      "voltage during walk"
+    ],
+    "road": [
+      "on a road",
+      "along the road"
+    ],
+    "man": [
+      "with a man"
+    ],
+    "air": [
+      "into the air"
+    ],
+    "owner": [
+      "it s owner"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "video_objs": {
+    "boy": [
+      "a boy is checking",
+      "a boy is counting",
+      "a boy is looking",
+      "a boy is pointing",
+      "a boy points out",
+      "a boy studies",
+      "a boy is pointing out",
+      "a boy is pointing some",
+      "a boy is seeing",
+      "a boy counting",
+      "young boy counting",
+      "a boy is calculating",
+      "a boy read",
+      "a boy is talking",
+      "a boy points"
+    ],
+    "calendar": [
+      "a calendar"
+    ],
+    "calender": [
+      "a calender"
+    ],
+    "days": [
+      "days"
+    ],
+    "numbers": [
+      "numbers"
+    ],
+    "dates": [
+      "dates"
+    ],
+    "kid": [
+      "a kid is pointing out",
+      "a kid is reading some"
+    ],
+    "man": [
+      "a man is looking",
+      "a man points",
+      "a man is watching"
+    ],
+    "schoolboy": [
+      "a schoolboy is watching"
+    ],
+    "month": [
+      "a particular month"
+    ],
+    "scene": [
+      "a nice scene",
+      "super lovable scene"
+    ],
+    "movie": [
+      "a good tamil movie"
+    ],
+    "guy": [
+      "a guy is reading"
+    ],
+    "person": [
+      "a person is explaining"
+    ]
+  }
+}

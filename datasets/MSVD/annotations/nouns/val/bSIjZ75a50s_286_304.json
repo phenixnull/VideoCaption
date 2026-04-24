@@ -1,0 +1,53 @@
+{
+  "video_objs": {
+    "person": [
+      "a person adds",
+      "a person is making",
+      "a person is placing sliced pieces",
+      "a person is placing",
+      "a person is putting"
+    ],
+    "strawberries": [
+      "strawberries",
+      "strawberries atop",
+      "strawberries slices"
+    ],
+    "cake": [
+      "a cake"
+    ],
+    "pie": [
+      "making a pie"
+    ],
+    "chef": [
+      "a chef carefully places",
+      "a chef covers",
+      "a chef is decorating",
+      "a chef is placing",
+      "a chef places",
+      "the chef is decorating"
+    ],
+    "dessert": [
+      "atop a dessert"
+    ],
+    "pastry": [
+      "a cook decorating pastry"
+    ],
+    "lady": [
+      "a lady is garnishing",
+      "the lady is putting"
+    ],
+    "man": [
+      "a man is putting",
+      "a man decorating"
+    ],
+    "pancake": [
+      "a woman is decorating a pancake"
+    ],
+    "shortcake": [
+      "woman is decorating shortcake"
+    ],
+    "dish": [
+      "decorating the dish"
+    ]
+  }
+}

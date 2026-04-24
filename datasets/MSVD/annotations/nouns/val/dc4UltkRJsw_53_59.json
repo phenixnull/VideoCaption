@@ -1,0 +1,49 @@
+{
+  "video_objs": {
+    "boy": [
+      "a crying boy",
+      "a boy is crying",
+      "a boy is pushing",
+      "a boy",
+      "a boy is trying",
+      "a boy stares",
+      "a boy is standing",
+      "the boy tried"
+    ],
+    "backpack": [
+      "his backpack",
+      "drops his backpack"
+    ],
+    "tree": [
+      "a large tree",
+      "a fallen tree",
+      "a tree",
+      "a downed tree",
+      "a tree lying",
+      "the tree"
+    ],
+    "street": [
+      "a street",
+      "the street"
+    ],
+    "rain": [
+      "the rain",
+      "in the rain"
+    ],
+    "cars": [
+      "cars"
+    ],
+    "treetrunk": [
+      "a treetrunk"
+    ],
+    "road": [
+      "the road"
+    ],
+    "log": [
+      "a log"
+    ],
+    "child": [
+      "child"
+    ]
+  }
+}

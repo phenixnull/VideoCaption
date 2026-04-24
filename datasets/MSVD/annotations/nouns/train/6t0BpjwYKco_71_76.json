@@ -1,0 +1,44 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman peels",
+      "a woman is peeling",
+      "the woman is peeling"
+    ],
+    "apple": [
+      "an apple",
+      "a apple"
+    ],
+    "kitchen": [
+      "the kitchen"
+    ],
+    "lady": [
+      "the lady took",
+      "the lady peeled",
+      "the lady is cutting",
+      "the lady is making"
+    ],
+    "cheese": [
+      "the cheese"
+    ],
+    "vegetables": [
+      "vegetables"
+    ],
+    "person": [
+      "a person",
+      "the person"
+    ],
+    "dog": [
+      "her dog"
+    ],
+    "slices": [
+      "slices"
+    ],
+    "skin": [
+      "the skin"
+    ],
+    "vegetable": [
+      "the vegetable"
+    ]
+  }
+}

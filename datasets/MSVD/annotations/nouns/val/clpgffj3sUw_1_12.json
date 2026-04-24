@@ -1,0 +1,63 @@
+{
+  "video_objs": {
+    "man": [
+      "a man is scratching",
+      "a man rubbed",
+      "a man scratches a small",
+      "the man scratched",
+      "a man is playing",
+      "a man itching"
+    ],
+    "beaver": [
+      "scratching a beaver",
+      "a domesticated beaver",
+      "pets a beaver",
+      "petting a beaver",
+      "someone is petting a beaver",
+      "someone is scratching a beaver",
+      "someone petting a beaver"
+    ],
+    "animal": [
+      "rubbed the animal",
+      "a small animal",
+      "scratched the animal",
+      "very friendly animal"
+    ],
+    "person": [
+      "a person is itching",
+      "a person is petting a domesticated",
+      "a person is scratching",
+      "a person is tickling",
+      "a person is petting",
+      "a person tickles",
+      "a person helping"
+    ],
+    "woman": [
+      "a woman is gently stroking",
+      "a woman is petting",
+      "a woman is scratching",
+      "a woman is stroking"
+    ],
+    "body": [
+      "the body"
+    ],
+    "head": [
+      "the head"
+    ],
+    "playpen": [
+      "the playpen"
+    ],
+    "hand": [
+      "a hand reaches"
+    ],
+    "dog": [
+      "a dog is playing"
+    ],
+    "finger": [
+      "his finger"
+    ],
+    "baby": [
+      "the baby is playing"
+    ]
+  }
+}

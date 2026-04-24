@@ -1,0 +1,77 @@
+{
+  "video_objs": {
+    "woman": [
+      "a woman",
+      "a woman and a man are seated"
+    ],
+    "man": [
+      "a man",
+      "a man and",
+      "the man and"
+    ],
+    "table": [
+      "a small table",
+      "a table",
+      "a little table",
+      "the dinning table"
+    ],
+    "sandwiches": [
+      "eating sandwiches"
+    ],
+    "couple": [
+      "a couple",
+      "a couple are talking",
+      "the couple ate",
+      "the couple ate their",
+      "a couple are drinking",
+      "a couple drinking"
+    ],
+    "boy": [
+      "a boy",
+      "a boy and",
+      "the boy and"
+    ],
+    "girl": [
+      "a girl and",
+      "to a girl"
+    ],
+    "people": [
+      "two people are talking",
+      "two people talk",
+      "two people are eating"
+    ],
+    "dinner": [
+      "ate dinner",
+      "ate their dinner",
+      "eating they dinner",
+      "take dinner"
+    ],
+    "movie": [
+      "black and white english movie"
+    ],
+    "date": [
+      "on a date"
+    ],
+    "softdrink": [
+      "drinking softdrink"
+    ],
+    "lady": [
+      "the lady"
+    ],
+    "hotel": [
+      "inside the hotel"
+    ],
+    "juice": [
+      "drink juice"
+    ],
+    "soda": [
+      "drinking soda"
+    ],
+    "lovers": [
+      "two lovers were talking"
+    ],
+    "person": [
+      "two person is eating"
+    ]
+  }
+}

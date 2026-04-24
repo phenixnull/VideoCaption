@@ -1,0 +1,67 @@
+{
+  "video_objs": {
+    "person": [
+      "a person cooks chopped",
+      "the person is cooking",
+      "a person coking"
+    ],
+    "onions": [
+      "chopped onions",
+      "diced onions",
+      "onions",
+      "some onions",
+      "the onions"
+    ],
+    "woman": [
+      "a woman is pouring",
+      "a woman is frying",
+      "a woman pours",
+      "a woman is sauteing",
+      "a woman is pouring some",
+      "the woman is cooking",
+      "a woman is mixing some",
+      "a woman is cooking",
+      "a woman places",
+      "the woman is browning",
+      "a woman is adding some chopped onion",
+      "a woman dumps"
+    ],
+    "bowl": [
+      "a bowl"
+    ],
+    "skillet": [
+      "a skillet"
+    ],
+    "chef": [
+      "a chef sautes diced"
+    ],
+    "ingredients": [
+      "ingredients"
+    ],
+    "pot": [
+      "a pot"
+    ],
+    "lady": [
+      "the lady added",
+      "a lady is putting"
+    ],
+    "oil": [
+      "oil"
+    ],
+    "pan": [
+      "a frying pan",
+      "a pan",
+      "the pan",
+      "a hot pan"
+    ],
+    "food": [
+      "food"
+    ],
+    "vegetables": [
+      "some vegetables"
+    ],
+    "man": [
+      "a man cooking his kichen"
+    ]
+  }
+}

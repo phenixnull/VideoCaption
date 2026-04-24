@@ -1,0 +1,52 @@
+{
+  "video_objs": {
+    "flute": [
+      "a flute is played",
+      "person is playing a flute",
+      "person is playing the flute",
+      "woman is playing a flute",
+      "woman is playing the flute",
+      "woman plays a flute",
+      "woman plays the flute",
+      "lady played the flute"
+    ],
+    "girl": [
+      "a girl is playing"
+    ],
+    "instrument": [
+      "playing an instrument",
+      "playing some instrument"
+    ],
+    "person": [
+      "a person is playing",
+      "the person is playing"
+    ],
+    "woman": [
+      "a woman is playing a flue",
+      "a woman is playing",
+      "a woman plays"
+    ],
+    "lady": [
+      "the lady played",
+      "a lady is playing",
+      "the lady played her"
+    ],
+    "man": [
+      "the man played",
+      "a man is playing",
+      "a man is playing some"
+    ],
+    "bathroom": [
+      "her bathroom"
+    ],
+    "boy": [
+      "a boy is playing"
+    ],
+    "clarinet": [
+      "playing the clarinet"
+    ],
+    "music": [
+      "is playing music"
+    ]
+  }
+}

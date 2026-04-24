@@ -1,0 +1,39 @@
+{
+  "video_objs": {
+    "strip": [
+      "a strip",
+      "a thin strip"
+    ],
+    "block": [
+      "a rectangular block",
+      "a block"
+    ],
+    "wood": [
+      "wood"
+    ],
+    "bandsaw": [
+      "a bandsaw"
+    ],
+    "person": [
+      "a person"
+    ],
+    "saw": [
+      "a saw"
+    ],
+    "man": [
+      "a man"
+    ],
+    "machine": [
+      "a machine"
+    ],
+    "piece": [
+      "a piece"
+    ],
+    "plank": [
+      "a plank"
+    ],
+    "board": [
+      "a board"
+    ]
+  }
+}

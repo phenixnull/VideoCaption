@@ -1,0 +1,48 @@
+{
+  "video_objs": {
+    "man": [
+      "a young man",
+      "a man"
+    ],
+    "basketball": [
+      "a basketball"
+    ],
+    "basket": [
+      "a basket"
+    ],
+    "men": [
+      "men are throwing",
+      "two men are sitting",
+      "men playing"
+    ],
+    "ball": [
+      "a ball",
+      "the ball"
+    ],
+    "yard": [
+      "across the yard",
+      "in a yard"
+    ],
+    "hoop": [
+      "a hoop"
+    ],
+    "guy": [
+      "a guy"
+    ],
+    "shot": [
+      "a shot"
+    ],
+    "person": [
+      "a person"
+    ],
+    "football": [
+      "a football"
+    ],
+    "goal": [
+      "a goal"
+    ],
+    "game": [
+      "a game"
+    ]
+  }
+}
