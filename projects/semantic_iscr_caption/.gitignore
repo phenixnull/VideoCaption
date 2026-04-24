@@ -1,0 +1,13 @@
+runs/
+nohup_logs/
+tb/
+__pycache__/
+*.pyc
+*.pyo
+*.jsonl
+*.log
+weights/*.pt
+weights/*.pth
+models/clip_models/*.pt
+models/clip_models/*.pth
+
