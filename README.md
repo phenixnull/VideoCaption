@@ -1,2 +1,0 @@
-# VideoCaption
-For Scientific Research
