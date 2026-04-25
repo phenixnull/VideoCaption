@@ -315,6 +315,57 @@ class StructuredCaptionModel(nn.Module):
             "struct": 0.30,
         },
     }
+    _ANCHORED_SOV_SCENE_SLOT_SOURCE_PRIORS = {
+        "subject_action": {
+            "entity": 1.10,
+            "action": 1.90,
+            "attribute": 0.20,
+            "scene": -0.25,
+            "struct": 0.55,
+        },
+        "object_entity": {
+            "entity": 1.70,
+            "action": 0.15,
+            "attribute": 0.80,
+            "scene": -0.10,
+            "struct": 0.35,
+        },
+        "scene_context": {
+            "entity": -0.05,
+            "action": 0.20,
+            "attribute": 0.35,
+            "scene": 1.90,
+            "struct": 0.70,
+        },
+        "relation_detail": {
+            "entity": 0.90,
+            "action": 1.20,
+            "attribute": 0.30,
+            "scene": 0.15,
+            "struct": 0.65,
+        },
+        "subject_entity": {
+            "entity": 1.80,
+            "action": 0.15,
+            "attribute": 0.65,
+            "scene": -0.20,
+            "struct": 0.40,
+        },
+        "extra": {
+            "entity": 0.40,
+            "action": 0.40,
+            "attribute": 0.25,
+            "scene": 0.25,
+            "struct": 0.50,
+        },
+        "generic": {
+            "entity": 0.30,
+            "action": 0.30,
+            "attribute": 0.30,
+            "scene": 0.30,
+            "struct": 0.30,
+        },
+    }
     _DEFAULT_PHRASE_CONDITION_CORE_SLOT_TYPES = (
         "subject_action",
         "subject_entity",
@@ -375,6 +426,8 @@ class StructuredCaptionModel(nn.Module):
             return cls._TYPED_RICH_ROLEAWARE_SLOT_SOURCE_PRIORS
         if schema == "family4_compact":
             return cls._FAMILY4_COMPACT_SLOT_SOURCE_PRIORS
+        if schema == "anchored_sov_scene":
+            return cls._ANCHORED_SOV_SCENE_SLOT_SOURCE_PRIORS
         return None
 
     @staticmethod
@@ -603,6 +656,7 @@ class StructuredCaptionModel(nn.Module):
             "typed_rich_roleaware",
             "typed_rich_roleaware_sceneplus",
             "family4_compact",
+            "anchored_sov_scene",
         }:
             raise ValueError(f"Unsupported phrase_slot_schema: {phrase_slot_schema}")
         self.max_phrase_slots = max(1, int(max_phrase_slots))

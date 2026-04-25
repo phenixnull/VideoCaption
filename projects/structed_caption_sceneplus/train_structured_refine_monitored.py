@@ -2741,6 +2741,7 @@ def build_parser() -> argparse.ArgumentParser:
             "typed_rich_roleaware",
             "typed_rich_roleaware_sceneplus",
             "family4_compact",
+            "anchored_sov_scene",
         ],
     )
     parser.add_argument("--phrase_include_attr_units", type=int, default=0)

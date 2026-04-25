@@ -213,6 +213,34 @@ class StructuredCaptionDataset(Dataset):
         },
     )
     _FAMILY4_COMPACT_SLOT_FAMILY_ORDER = tuple(spec["slot_type"] for spec in _FAMILY4_COMPACT_SLOT_SPECS)
+    _ANCHORED_SOV_SCENE_SLOT_SPECS = (
+        {
+            "slot_type_id": 0,
+            "slot_type": "subject_action",
+            "slot_description": "subject-bound action phrase focus",
+        },
+        {
+            "slot_type_id": 1,
+            "slot_type": "object_entity",
+            "slot_description": "object noun phrase focus",
+        },
+        {
+            "slot_type_id": 2,
+            "slot_type": "scene_context",
+            "slot_description": "scene or supplemental context phrase focus",
+        },
+        {
+            "slot_type_id": 3,
+            "slot_type": "relation_detail",
+            "slot_description": "action-object or relation detail focus",
+        },
+        {
+            "slot_type_id": 4,
+            "slot_type": "subject_entity",
+            "slot_description": "subject noun phrase focus",
+        },
+    )
+    _ANCHORED_SOV_SCENE_SLOT_FAMILY_ORDER = tuple(spec["slot_type"] for spec in _ANCHORED_SOV_SCENE_SLOT_SPECS)
     _COPULA_TOKENS = {"is", "are", "was", "were"}
     _RELATION_HEAD_TOKENS = {
         "in",
@@ -632,6 +660,8 @@ class StructuredCaptionDataset(Dataset):
             allow_extra_repeats = True
         elif schema == "family4_compact":
             slot_family_specs = cls._FAMILY4_COMPACT_SLOT_SPECS
+        elif schema == "anchored_sov_scene":
+            slot_family_specs = cls._ANCHORED_SOV_SCENE_SLOT_SPECS
         else:
             slot_family_specs = tuple()
 
@@ -760,6 +790,7 @@ class StructuredCaptionDataset(Dataset):
             "typed_rich_roleaware",
             "typed_rich_roleaware_sceneplus",
             "family4_compact",
+            "anchored_sov_scene",
         }:
             raise ValueError(f"Unsupported phrase_slot_schema: {phrase_slot_schema}")
         self.phrase_include_attr_units = bool(phrase_include_attr_units)
@@ -792,11 +823,11 @@ class StructuredCaptionDataset(Dataset):
             )
         if family_expand_mode != "none" and not (
             self.phrase_target_mode == "slot"
-            and self.phrase_slot_schema in {"family4_compact", "typed_rich_roleaware"}
+            and self.phrase_slot_schema in {"family4_compact", "typed_rich_roleaware", "anchored_sov_scene"}
         ):
             raise ValueError(
                 "phrase_slot_family_expand_mode only supports phrase_target_mode='slot' "
-                "with phrase_slot_schema in {'family4_compact', 'typed_rich_roleaware'}."
+                "with phrase_slot_schema in {'family4_compact', 'typed_rich_roleaware', 'anchored_sov_scene'}."
             )
         self.phrase_slot_family_expand_mode = family_expand_mode
 
@@ -912,6 +943,7 @@ class StructuredCaptionDataset(Dataset):
             "family_object_phrases",
             "family_action_phrases",
             "family_scene_phrases",
+            "family_relation_phrases",
         ):
             family_items = self._normalize_phrase_units(cap_info.get(family_key))
             if family_items:
@@ -1222,6 +1254,14 @@ class StructuredCaptionDataset(Dataset):
             if not items:
                 items = self._caption_stage1_items(cap_info, "scenes")
             return items
+        if normalized_slot_type == "relation_detail":
+            return self._caption_branch_units(
+                cap_info,
+                "family_relation_phrases",
+                "relation_phrase_candidates",
+                "relation_phrases",
+                "instrument_phrases",
+            )
         return []
 
     def _video_phrase_bank(self, vid: str) -> List[str]:
@@ -2527,6 +2567,12 @@ class StructuredCaptionDataset(Dataset):
                     bundle_idx=family_bundle_idx,
                 )
             elif self.phrase_slot_schema == "family4_compact":
+                phrase_units, slot_units, slot_reference_units = self._build_family4_compact_phrase_targets(
+                    cap_info=cap_info,
+                    sample_key=sample_key,
+                    family_bundle_idx=family_bundle_idx,
+                )
+            elif self.phrase_slot_schema == "anchored_sov_scene":
                 phrase_units, slot_units, slot_reference_units = self._build_family4_compact_phrase_targets(
                     cap_info=cap_info,
                     sample_key=sample_key,
