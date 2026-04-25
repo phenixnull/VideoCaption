@@ -1,0 +1,26 @@
+# Sceneplus Scene Slot Checklist
+
+- [x] Web scout scene/context concept guidance.
+- [x] Audit current role-aware slot schema and scene-unit switches.
+- [x] Create isolated local branch directory `projects/structed_caption_sceneplus`.
+- [x] Move `typed_rich_roleaware_sceneplus` schema to the new branch only.
+- [x] Move train CLI support for the new schema to the new branch only.
+- [x] Add sceneplus launcher in the new branch only.
+- [x] Patch new-branch `run_structured_phrase_mainline.sh` to use its own `SERVER_ROOT`.
+- [x] Restore original `projects/structed_caption` so it has no sceneplus code.
+- [x] Local syntax and schema smoke checks on the new branch.
+- [x] Sync code to server new path `/mnt/sda/Disk_D/zhangwei/projects/VC/project/structured_caption_sceneplus`.
+- [x] Run remote compile and launcher smoke.
+- [x] Patch new-branch model schema support and remote compile.
+- [x] Patch masked scene BCE path and remote compile.
+- [x] Launch all-vocab sceneplus gate: `msvd_phrase_d_20260425_105551_sceneplus_s10_sceneunits_3e`.
+- [x] Stop all-vocab gate after epoch 2 due compact-baseline mismatch: `CIDEr 117.62 / BLEU-4 61.81`.
+- [x] Build compact scenehint GT: `annotations/msvd_structured_train_api_scenehint.json`.
+- [x] Launch compact scenehint sceneplus gate: `msvd_phrase_d_20260425_113815_sceneplus_compact_scenehint_s10_3e`.
+- [x] Stop compact scenehint gate after epoch 2; best epoch 1 `CIDEr 119.95 / BLEU-4 62.92`.
+- [x] Launch compact decoupled sceneplus gate: `msvd_phrase_d_20260425_120249_sceneplus_compact_scenehint_decoupled_s10_1e`.
+- [x] Export phrase JSONL for compact decoupled gate; scene slots sparse (`19` non-empty scene slots).
+- [x] Launch compact decoupled active-scene gate: `msvd_phrase_d_20260425_121903_sceneplus_compact_scenehint_decoupled_active_s10_1e`.
+- [x] Monitor metrics: active-scene epoch 1 `CIDEr 120.3973 / BLEU-4 63.2704 / METEOR 41.8541 / ROUGE-L 78.3260`.
+- [x] Export phrase JSONL and inspect scene slots: raw `115/670`, repetition-gated clean `99/670`.
+- [ ] Report metric row and phrase examples.
