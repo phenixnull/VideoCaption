@@ -42,3 +42,4 @@ Add one conservative scene/context phrase slot to the existing `structured_phras
 
 ## Revision Log
 - 2026-04-25: Initial plan after code audit and web scouting.
+- 2026-04-25: Added compact scenehint and decoupled active-scene variants. Selected `msvd_phrase_d_20260425_121903_sceneplus_compact_scenehint_decoupled_active_s10_1e` as best sceneplus run: CIDEr 120.3973, BLEU-4 63.2704, METEOR 41.8541, ROUGE-L 78.3260, with clean scene slots in 99/670 test records. A follow-up 3-epoch diagnostic (`msvd_phrase_d_20260425_124916_sceneplus_compact_scenehint_decoupled_active_s10_3e`) did not improve; its best training-test row was epoch 2: CIDEr 119.7485, BLEU-4 62.8426, METEOR 41.3746, ROUGE-L 77.6984.

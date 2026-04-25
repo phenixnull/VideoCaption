@@ -23,4 +23,6 @@
 - [x] Launch compact decoupled active-scene gate: `msvd_phrase_d_20260425_121903_sceneplus_compact_scenehint_decoupled_active_s10_1e`.
 - [x] Monitor metrics: active-scene epoch 1 `CIDEr 120.3973 / BLEU-4 63.2704 / METEOR 41.8541 / ROUGE-L 78.3260`.
 - [x] Export phrase JSONL and inspect scene slots: raw `115/670`, repetition-gated clean `99/670`.
+- [x] Launch 3-epoch active-scene diagnostic: `msvd_phrase_d_20260425_124916_sceneplus_compact_scenehint_decoupled_active_s10_3e`.
+- [x] Reject 3-epoch diagnostic as non-improving: best training-test epoch 2 `CIDEr 119.7485 / BLEU-4 62.8426 / METEOR 41.3746 / ROUGE-L 77.6984`.
 - [x] Report metric row and phrase examples.
