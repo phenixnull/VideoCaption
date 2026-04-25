@@ -23,4 +23,4 @@
 - [x] Launch compact decoupled active-scene gate: `msvd_phrase_d_20260425_121903_sceneplus_compact_scenehint_decoupled_active_s10_1e`.
 - [x] Monitor metrics: active-scene epoch 1 `CIDEr 120.3973 / BLEU-4 63.2704 / METEOR 41.8541 / ROUGE-L 78.3260`.
 - [x] Export phrase JSONL and inspect scene slots: raw `115/670`, repetition-gated clean `99/670`.
-- [ ] Report metric row and phrase examples.
+- [x] Report metric row and phrase examples.
